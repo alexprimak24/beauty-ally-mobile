@@ -1,0 +1,272 @@
+{
+  "welcome": {
+    "intro": "Découvrez votre beauté idéale",
+    "noAccMsg": "Veuillez d’abord terminer la configuration initiale.",
+    "signInMsg": "Vous avez déjà un compte ?<strong> Se connecter</strong> ",
+    "action": "Commencer"
+  },
+  "gender": {
+    "title": "Quel est votre genre ?",
+    "subtitle": "Cela nous aide à personnaliser votre expérience de manière plus réfléchie.",
+
+    "male": { "label": "Homme" },
+    "female": { "label": "Femme" },
+    "nonBinary": { "label": "Non binaire" },
+    "preferNot": { "label": "Préfère ne pas répondre" }
+  },
+  "weather": {
+    "title": "Quel est le climat là où vous vivez ?",
+    "subtitle": "Le climat peut influencer la sensation des produits sur la peau et leur absorption.",
+
+    "coolDry": { "label": "Frais & sec" },
+    "coolHumid": { "label": "Frais & humide" },
+    "mildDry": { "label": "Doux & sec" },
+    "warmHumid": { "label": "Chaud & humide" },
+    "hotDry": { "label": "Très chaud & sec" },
+    "hotHumid": { "label": "Très chaud & humide" },
+    "highUVYearRound": { "label": "UV élevés toute l’année" }
+  },
+  "skinType": {
+    "title": "Comment décririez-vous votre peau ?",
+    "subtitle": "Choisissez l’option qui correspond le mieux à l’état de votre peau la plupart du temps.",
+
+    "normal": { "label": "Normale", "explanation": "" },
+    "dry": { "label": "Sèche", "explanation": "" },
+    "oily": { "label": "Grasse", "explanation": "" },
+    "sensitive": { "label": "Sensible", "explanation": "" },
+    "combination": {
+      "label": "Mixte",
+      "explanation": "(zones à la fois grasses et sèches sur le visage)"
+    }
+  },
+  "skinConcerns": {
+    "title": "Quelles sont vos principales préoccupations pour votre peau ?",
+    "subtitle": "Choisissez ce qui compte le plus pour personnaliser vos résultats.",
+
+    "breakouts": { "label": "Boutons ou imperfections" },
+    "rednessSensitivity": { "label": "Rougeurs ou sensibilité" },
+    "cloggedPores": { "label": "Pores obstrués ou points noirs" },
+    "hyperpigmentation": { "label": "Taches ou teint irrégulier" },
+    "dryness": { "label": "Sécheresse ou déshydratation" },
+    "wrinkles": { "label": "Ridules ou rides" },
+    "unevenTexture": { "label": "Texture irrégulière ou teint terne" },
+    "largePores": { "label": "Pores visibles" },
+    "oilyShine": { "label": "Brillance excessive" },
+    "none": { "label": "Aucune pour le moment" }
+  },
+  "allergies": {
+    "title": "Y a-t-il des ingrédients que votre peau tolère mal ?",
+    "subtitle": "Cela nous aide à signaler les ingrédients qui pourraient ne pas vous convenir.",
+
+    "alcohol": {
+      "label": "Alcool",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "Parfums (fragrances)",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "Huiles essentielles",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "Lanoline",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "Dérivés de l’huile de coco",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "Colorants",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "Mica",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "Aucun",
+      "examples": ""
+    }
+  },
+  "currentTreatment": {
+    "title": "Utilisez-vous actuellement l’un de ces traitements pour la peau ?",
+    "subtitle": "Cela nous aide à comprendre ce qui fait déjà partie de votre routine.",
+
+    "retinol": { "label": "Rétinol ou rétinoïdes", "explanation": "" },
+    "vitaminC": { "label": "Vitamine C", "explanation": "" },
+    "ahaBha": {
+      "label": "Acides AHA / BHA",
+      "explanation": "(acide glycolique / acide salicylique / acide lactique)"
+    },
+    "benzoyl": { "label": "Peroxyde de benzoyle", "explanation": "" },
+    "niacinamide": { "label": "Niacinamide", "explanation": "" },
+    "prescriptionCreams": { "label": "Crèmes ou gels sur prescription", "explanation": "" },
+    "strongAcne": { "label": "Médicaments oraux contre l’acné", "explanation": "" },
+    "no": { "label": "Aucun pour le moment", "explanation": "" }
+  },
+  "sunscreenUsage": {
+    "title": "À quelle fréquence utilisez-vous une protection solaire ?",
+    "subtitle": "Le climat peut influencer la sensation de votre peau.",
+
+    "never": { "label": "Jamais" },
+    "occasionally": { "label": "Occasionnellement" },
+    "sometimes": { "label": "Parfois" },
+    "almostDaily": { "label": "Presque tous les jours" },
+    "daily": { "label": "Tous les jours" }
+  },
+  "summary": {
+    "title": "Nous personnalisons votre expérience à partir des données sur votre peau",
+    "steps": {
+      "step1": "Préparation de vos préférences",
+      "step2": "Préparation des vérifications d’ingrédients",
+      "step3": "Prise en compte de vos réglages de sensibilité",
+      "step4": "Configuration des critères d’adéquation",
+      "step5": "Finalisation de la configuration"
+    }
+  },
+  "congratulations": {
+    "title": "Bravo, votre<br/>profil de peau est prêt !",
+    "subtitle": "Nous utilisons votre profil de peau et les photos de produits pour vérifier les listes d’ingrédients et afficher des indications de compatibilité.",
+    "disclamer": "Infos générées par l’IA. Pas un avis médical. Pas un dispositif médical.",
+    "termsPriv": "J’accepte les <strong>Conditions d’utilisation</strong> et la <highlight>Politique de confidentialité</highlight>",
+    "processConsent": "Je consens à ce que Beauty Ally traite <strong>mon profil de peau</strong> et mes <highlight>photos de produits</highlight> afin de fournir des vérifications des listes d’ingrédients et des indications générales de compatibilité. Je peux retirer mon consentement à tout moment dans le Profil.",
+    "termsRaw": "J’accepte les Conditions d’utilisation et la Politique de confidentialité.",
+    "healthRaw": "Je consens à ce que Beauty Ally traite mon profil de peau et mes photos afin de fournir une analyse des ingrédients et des résultats de compatibilité. Je peux retirer mon consentement à tout moment dans les Réglages.",
+    "learnMsg": "En savoir plus sur l’utilisation de vos données",
+    "ageConsent": "En continuant, vous confirmez avoir 18 ans ou plus (ou l’âge de majorité dans votre pays).",
+    "modal": {
+      "title": "Comment nous utilisons vos données",
+      "explanation": "• Utilisées uniquement pour fournir les fonctions principales (analyse des ingrédients et résultats de compatibilité)<br/>• Non vendues ni utilisées pour de la publicité ciblée<br/>• Stockées dans un cloud privé avec des contrôles d’accès par utilisateur<br/>• Vous pouvez supprimer vos données ou retirer votre consentement dans Profil → Supprimer le compte et les données"
+    }
+  },
+  "createAccount": {
+    "title": "Créez votre compte",
+    "subtitle": "Sauvegardez votre progression et sécurisez votre compte.",
+    "terms": "Les données de votre peau sont chiffrées et restent privées. Nous les utilisons uniquement pour personnaliser votre routine."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "Choisissez votre plan",
+      "subtitle": "Scans personnalisés · choix éclairés"
+    },
+    "loading": {
+      "default": {
+        "message": "Traitement...",
+        "subMessage": "Un instant"
+      },
+      "purchasing": {
+        "message": "Confirmation...",
+        "subMessage": "Activation de l'accès Pro"
+      },
+      "switching": {
+        "message": "Mise à jour du plan...",
+        "subMessage": "Application des modifications"
+      },
+      "restoring": {
+        "message": "Restauration...",
+        "subMessage": "Recherche d'abonnements actifs"
+      },
+      "freeScans": {
+        "message": "Déblocage des scans...",
+        "subMessage": "Prêt(e) à rayonner !"
+      },
+      "loadingPaywall": {
+        "message": "Chargement...",
+        "subMessage": "Préparation des meilleures options"
+      },
+      "packages": "Chargement des offres..."
+    },
+    "plans": {
+      "yearly": "Annuel",
+      "monthly": "Mensuel",
+      "yearlyPlan": "Plan Annuel",
+      "monthlyPlan": "Plan Mensuel",
+      "yearlyUpper": "PLAN ANNUEL",
+      "monthlyUpper": "PLAN MENSUEL"
+    },
+    "freeScans": {
+      "used": "Limite gratuite atteinte",
+      "offer": "Un doute ? 5 essais",
+      "claim": "Obtenir 5 scans gratuits",
+      "noCard": "Aucune carte requise."
+    },
+    "banner": {
+      "special": "PRIX SPÉCIAL"
+    },
+    "card": {
+      "currentBadge": "PLAN ACTUEL",
+      "cancelAnytime": "Annulable à tout moment",
+      "firstYear": "Première année",
+      "firstMonth": "Premier mois",
+      "then": "puis"
+    },
+    "benefits": {
+      "unlimited": "Scans illimités",
+      "advanced": "Analyses et infos détaillées",
+      "bestValue": "Meilleur choix"
+    },
+    "cta": {
+      "active": "Actif",
+      "switchTo": "Passer à",
+      "continue": "Continuer",
+      "noCommit": "Sans engagement. Annulable à tout moment."
+    },
+    "footer": {
+      "terms": "CGU",
+      "privacy": "Confidentialité",
+      "restore": "Restaurer"
+    },
+    "toast": {
+      "switchYearly": "Passage au plan annuel",
+      "switchMonthly": "Passage au plan mensuel",
+      "premiumUn": "Premium débloqué",
+      "restored": "Achats restaurés",
+      "restoreErr": "Échec de la restauration. Réessayez.",
+      "freeActivated": "Scans gratuits activés",
+      "freeAlready": "Scans gratuits déjà disponibles"
+    },
+    "subscribed": {
+      "title": "Vous êtes Pro !",
+      "subtitle": "Votre abonnement est actif. Profitez de scans illimités et d'analyses détaillées.",
+      "currentPlanLabel": "Plan Actuel",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(Annuel)",
+      "monthSuffix": "(Mensuel)",
+      "fallback": "Premium",
+      "goHome": "Accueil",
+      "manage": "Gérer l'abonnement"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "C'est tout bon",
+    "subtitle": "Votre abonnement est activé. Profitez de l'expérience.",
+    "receipt": {
+      "statusLabel": "Statut",
+      "statusActive": "Actif",
+      "statusPending": "En attente",
+      "subscriptionLabel": "Abonnement",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Accès Premium"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "Erreur lors de l’ajout de vos consentements. Réessayez.",
+    "needConsent": "Veuillez accepter d’abord les Conditions & la Confidentialité.",
+    "signupErr": "Impossible de créer le compte. Réessayez."
+  },
+  "actions": {
+    "continue": "Continuer",
+    "update": "Mettre à jour",
+    "close": "Fermer",
+    "celebration": "Commencer l’exploration"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "Offre indisponible",
+      "purchaseFailed": "Échec de l'achat"
+    }
+  }
+}

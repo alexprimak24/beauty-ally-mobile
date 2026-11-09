@@ -1,0 +1,37 @@
+module.exports = {
+  preset: 'jest-expo',
+  clearMocks: true,
+  watchman: false,
+  collectCoverageFrom: [
+    'components/ui/SearchInput.tsx',
+    'context/{consentContext,onboardingContext}.tsx',
+    'features/auth/model.ts',
+    'features/home/model.ts',
+    'features/notifications/model.ts',
+    'features/onboarding/model.ts',
+    'features/profile/model.ts',
+    'features/profileQuestions/model.ts',
+    'features/productCollection/model.ts',
+    'features/scan/model.ts',
+    'features/scanDetails/model.ts',
+    'features/skincareShelf/model.ts',
+    'features/scanResult/model.ts',
+    'features/subscription/model.ts',
+    'hooks/{useConsent,useOnboarding,useOnboardingValidation}.ts',
+    'services/api/{client,errors}.ts',
+    'utils/analytics/index.ts',
+    'utils/i18n/map.ts',
+  ],
+  coverageThreshold: {
+    global: {
+      branches: 70,
+      functions: 75,
+      lines: 80,
+      statements: 80,
+    },
+  },
+  moduleNameMapper: {
+    '^@/(.*)$': '<rootDir>/$1',
+  },
+  testMatch: ['**/__tests__/**/*.test.ts?(x)'],
+}

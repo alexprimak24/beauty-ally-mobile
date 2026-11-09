@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "ओह!"
+  },
+  "errors": {
+    "generic": "कुछ गलत हो गया।",
+    "deleteEntry": "एंट्री हटाई नहीं जा सकी।",
+    "updateFavorites": "पसंदीदा अपडेट नहीं हो सके।",
+    "updateSkincare": "स्किनकेयर स्थिति अपडेट नहीं हो सकी।",
+    "saveProfileTitle": "परिवर्तन सहेज नहीं पाए",
+    "saveProfileBody": "कृपया थोड़ी देर बाद फिर प्रयास करें।",
+    "unsupportedLink": "यह लिंक खोला नहीं जा सका।",
+    "openLinkUnsupported": "यह लिंक खोला नहीं जा सका।",
+    "openLink": "कुछ गड़बड़ी हुई।"
+  },
+  "upload": {
+    "noImage": "कोई इमेज प्रदान नहीं की गई।",
+    "consentRequired": "फोटो प्रोसेस करने के लिए हमें आपकी सहमति चाहिए।",
+    "failed": "अपलोड विफल।",
+    "network": "नेटवर्क त्रुटि। कृपया फिर प्रयास करें।"
+  },
+  "consentAlert": {
+    "title": "स्कैनिंग बंद है",
+    "body": "आपकी सेटिंग्स में इमेज प्रोसेसिंग बंद है। जारी रखने के लिए इसे फिर चालू करें।",
+    "cancel": "रद्द करें",
+    "enable": "अभी सक्षम करें"
+  },
+  "timeAgo": {
+    "now": "अभी",
+    "minutes_one": "{{count}} मिनट पहले",
+    "minutes_other": "{{count}} मिनट पहले",
+    "hours_one": "{{count}} घंटे पहले",
+    "hours_other": "{{count}} घंटे पहले",
+    "days_one": "{{count}} दिन पहले",
+    "days_other": "{{count}} दिन पहले",
+    "weeks_one": "{{count}} सप्ताह पहले",
+    "weeks_other": "{{count}} सप्ताह पहले",
+    "months_one": "{{count}} महीने पहले",
+    "months_other": "{{count}} महीने पहले",
+    "years_one": "{{count}} साल पहले",
+    "years_other": "{{count}} साल पहले"
+  },
+  "onboardingValidation": {
+    "noData": "ऑनबोर्डिंग डेटा नहीं मिला।",
+    "incomplete": "कृपया सभी आवश्यक ऑनबोर्डिंग फ़ील्ड पूरे करें: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/माह",
+    "perYearSuffix": "/वर्ष"
+  },
+  "today": "आज",
+  "weekdays": {
+    "short": {
+      "mo": "सोम",
+      "tu": "मंगल",
+      "we": "बुध",
+      "th": "गुरु",
+      "fr": "शुक्र",
+      "sa": "शनि",
+      "su": "रवि"
+    },
+    "superShort": {
+      "mo": "सो",
+      "tu": "मं",
+      "we": "बु",
+      "th": "गु",
+      "fr": "शु",
+      "sa": "श",
+      "su": "र"
+    }
+  }
+}

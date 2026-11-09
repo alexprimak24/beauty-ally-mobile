@@ -1,0 +1,345 @@
+{
+  "favorites": {
+    "header": "Favorites",
+    "loadingErr": "Couldn't load scans.",
+    "searchPlaceholder": "Type your favorites..."
+  },
+  "history": {
+    "searchPlaceholder": "Type product here...",
+    "loadingErr": "Couldn't load scans."
+  },
+  "mySkincare": {
+    "header": "My Skincare",
+    "searchPlaceholder": "Type your skincare...",
+    "loadingErr": "Couldn't load scans."
+  },
+  "home": {
+    "welcomeStart": "👋 Welcome,",
+    "errorLoading": "Couldn't load scans.",
+    "viewAll": "View All",
+    "title": "Did you know?",
+    "facts": {
+      "list": [
+        "💧 Apply skincare to clean, slightly damp skin — it helps ingredients absorb better.",
+        "🧪 The fewer new products at once, the easier it is to track what works.",
+        "📅 Be consistent — most skincare results take at least 4–6 weeks.",
+        "🚿 Use lukewarm water to cleanse — hot water can dry and irritate skin.",
+        "🧴 Don't skip moisturizer — every skin type needs hydration.",
+        "☀️ Apply sunscreen every morning — even when it’s cloudy.",
+        "🔁 Reapply sunscreen every 2 hours if you're outside — one coat isn’t enough.",
+        "⚠️ Too many active ingredients at once can overwhelm your skin. Keep it simple.",
+        "🌞 Store products away from direct sunlight to preserve their ingredients.",
+        "🪄 Dry patches? Try layering a light serum under your moisturizer.",
+        "🌸 Fragrance-free products are often gentler on sensitive skin.",
+        "🔥 Stinging or burning usually means irritation — not effectiveness.",
+        "📏 Always apply skincare from thinnest to thickest texture.",
+        "🧪 Patch test new products before using them on your whole face.",
+        "🧼 You don’t need a 10-step routine — just the right 3–4 products.",
+        "🔁 Consistency beats intensity — stick with what works.",
+        "🧴 Toner is optional — focus on cleanser, treatment, moisturizer, and SPF.",
+        "🥄 Chemical exfoliants are often a gentler option than scrubs.",
+        "🚫 Tight, squeaky-clean skin after washing? That means it’s too harsh.",
+        "💦 Hydrated skin looks calmer and healthier — drink water and moisturize.",
+        "⏳ Give new products time — don’t judge them too soon.",
+        "🧽 Double cleansing is only needed if you wear makeup or sunscreen.",
+        "🌿 Use gentle, non-stripping cleansers — foam isn’t always better.",
+        "🌱 Essential oils may not suit everyone — especially sensitive skin.",
+        "🔒 Minimal routines reduce risk of breakouts and irritation.",
+        "🧢 Apply sunscreen all the way to your hairline and ears too.",
+        "🧖‍♀️ Don’t forget your neck — it ages just like your face.",
+        "🔬 Acne isn’t caused by “dirty” skin — it’s often linked to hormones or genetics.",
+        "😌 You don’t need to feel anything for a product to work — no tingling required.",
+        "🌙 A good night’s sleep can do as much for your skin as a new serum.",
+        "🛏️ Clean pillowcases, clean hands, clean phone = less irritation.",
+        "📉 Skin purging can happen — but if it lasts over 4–6 weeks, consider a break.",
+        "🧴 SPF 30 is enough — what matters is using the right amount, daily.",
+        "🧬 Skincare is personal — what works for someone else might not work for you.",
+        "🔄 Your skin changes with seasons, age, and habits — listen to it."
+      ]
+    },
+    "compliments": {
+      "list": [
+        "Radiant",
+        "Lovely",
+        "Brilliant",
+        "Charming",
+        "Graceful",
+        "Glowing",
+        "Magnificent",
+        "Wonderful",
+        "Luminous",
+        "Elegant",
+        "Delightful",
+        "Magical",
+        "Dazzling",
+        "Stunning"
+      ]
+    }
+  },
+  "profile": {
+    "welcomeStart": "Hi there,",
+    "signOutErr": "Couldn’t sign out. Try again."
+  },
+  "notifications": {
+    "emptyTitle": "No alerts yet",
+    "emptySubtitle": "We’ll post things like Privacy/Terms updates or important notices here.",
+    "loadErr": "Failed to load alerts",
+    "markReadErr": "Failed to mark as read"
+  },
+  "result": {
+    "verdict": {
+      "generally": {
+        "label": "Generally Suitable"
+      },
+      "mightNotAlign": {
+        "label": "Might Not Align"
+      },
+      "lowMatch": {
+        "label": "Low Match"
+      }
+    },
+    "highlitedFactors": {
+      "hydration_fit": "Hydration Fit",
+      "oil_control": "Oil Control",
+      "skin_barrier_support": "Skin Barrier Support",
+      "soothing_ingredients": "Soothing Ingredients",
+      "pore_clogging_risk": "Pore-Clogging Risk",
+      "fragrance_sensitivity_fit": "Fragrance Sensitivity Fit",
+      "exfoliation_potential": "Exfoliation Potential",
+      "antioxidant_content": "Antioxidant Content",
+      "sunscreen_layering": "Sunscreen Layering",
+      "climate_compatibility": "Climate Compatibility",
+      "lightweight_feel": "Lightweight Feel",
+      "fast_absorption": "Fast Absorption",
+      "pore_safety_score": "Pore Safety Score",
+      "richness": "Richness"
+    },
+    "breakoutRisk": {
+      "option0": "Likely",
+      "option1": "Possible",
+      "option2": "Unlikely"
+    },
+    "routineCompatibility": {
+      "option0": "Not Ideal",
+      "option1": "Good",
+      "option2": "Great"
+    },
+    "bestTime": {
+      "morning": "Morning",
+      "evening": "Evening"
+    },
+    "frequency": {
+      "daily": "{{times}} <b>/</b> day",
+      "weekly": "{{times}} <b>/</b> week"
+    },
+    "staticText": {
+      "routineCompatibility": "Routine Compatibility",
+      "breakoutRisk": "Irritation / Breakout Risk",
+      "bestTime": "Best Time",
+      "frequency": "Frequency",
+      "personalNote": "Personal Note",
+      "usageTip": "Usage Tip",
+      "addToSkincare": "Add to Sincare",
+      "addedToSkincare": "Added"
+    }
+  },
+  "updateScanDetails": {
+    "headerTitle": "Product Details",
+    "inputs": {
+      "nameLabel": "Product Name",
+      "namePlaceholder": "Enter product name",
+      "linkLabel": "Product Link",
+      "linkPlaceholder": "https://..."
+    },
+    "modal": {
+      "title": "Your Personal Link",
+      "description": "Keep a link to quickly find this product again. This link is just for you.",
+      "button": "Got it"
+    },
+    "buttons": {
+      "save": "Save Changes"
+    },
+    "headerSchedule": "Routine Schedule"
+  },
+  "scan": {
+    "permission": {
+      "title": "Camera access is required",
+      "cta": "Grant Permission"
+    },
+    "dropdown": {
+      "twoStepScan": "Two-step scan",
+      "fastStepScan": "Fast scan",
+      "howTo": "How it works"
+    },
+    "badges": {
+      "freeLeft_one": "{{count}} scan left",
+      "freeLeft_other": "{{count}} scans left"
+    },
+    "steps": {
+      "front": "Take a photo of the front label",
+      "back": "Now the back (ingredients)",
+      "fast": "Capture the product clearly"
+    },
+    "transitions": {
+      "frontCaptured": "🎉 Front side captured!"
+    },
+    "alerts": {
+      "outOfFree": {
+        "title": "Out of free scans",
+        "body": "You’ve used all your free scans. Get Premium to keep scanning.",
+        "goPremium": "Go to Premium"
+      },
+      "re": {
+        "gallery": {
+          "main": "Photo access needed",
+          "sub": "Beauty Ally needs access to your photos to upload from your gallery. You can allow this in Settings.",
+          "leftBtn": "Cancel",
+          "rightBtn": "Open Settings"
+        },
+        "camera": {
+          "main": "Camera access needed",
+          "sub": "Beauty Ally needs access to your camera to take photos. You can allow this in Settings.",
+          "leftBtn": "Cancel",
+          "rightBtn": "Open Settings"
+        }
+      },
+      "rateLimit": {
+        "title": "Slow down",
+        "body": "You’ve hit a temporary limit. Please try later."
+      },
+      "upload": {
+        "title": "Upload Failed",
+        "galleryErrorTitle": "Error",
+        "galleryErrorBody": "Something went wrong while picking from gallery.",
+        "genericBody": "Something went wrong while uploading your photo."
+      },
+      "ok": "OK"
+    },
+    "disclaimerPill": "AI-generated · Not medical advice"
+  },
+  "edit": {
+    "updateOkTitle": "Saved",
+    "updateErrTitle": "Unknown error occurred…",
+    "activeTreatments": {
+      "updateOkBody": "Active treatments updated",
+      "updateErrBody": "Failed to update active treatment"
+    },
+    "allergies": {
+      "updateOkBody": "Selected skin items updated",
+      "updateErrBody": "Couldn't update selected skin items"
+    },
+    "climate": {
+      "updateOkBody": "Climate updated",
+      "updateErrBody": "Failed to update current climate"
+    },
+    "gender": {
+      "updateOkBody": "Gender updated",
+      "updateErrBody": "Failed to update gender information"
+    },
+    "skinConcerns": {
+      "updateOkBody": "Selected skin items updated",
+      "updateErrBody": "Couldn't update selected skin items"
+    },
+    "skinType": {
+      "updateOkBody": "Skin type updated",
+      "updateErrBody": "Failed to update your skin type"
+    },
+    "sunscreen": {
+      "updateOkBody": "Sunscreen usage updated",
+      "updateErrBody": "Failed to update your sunscreen usage"
+    },
+    "language": {
+      "updateOkBody": "Language updated",
+      "updateErrBody": "Failed to update language"
+    }
+  },
+  "mySkincareShelf": {
+    "header": {
+      "morningRoutine": "Morning Routine",
+      "eveningRoutine": "Evening Routine"
+    },
+    "fastActions": {
+      "title": "Fast Actions",
+      "editOrder": "Edit Order",
+      "morning": "Morning",
+      "evening": "Evening",
+      "completeFullDay": "Mark Full Day"
+    },
+    "frequency": {
+      "daily": "Daily",
+      "specificDays": "Specific Days"
+    },
+    "alerts": {
+      "completeMorningTitle": "Mark All Morning Products",
+      "completeEveningTitle": "Mark All Evening Products",
+      "completeMorningDescription": "Hold the circle to complete",
+      "completeEveningDescription": "Hold the circle to complete",
+      "removeRoutineEntryTitle": "Remove from routine?",
+      "removeRoutineEntryDescription": "This will remove this entry from your routine.",
+      "removeRoutineEntryMultiTitle": "Remove from routine?",
+      "removeRoutineEntryMultiDescription": "This product is also in your other routine. What would you like to remove?",
+      "removeThisEntry": "Remove {{routine}} only",
+      "removeEverywhere": "Remove everywhere",
+      "cancel": "Cancel",
+      "confirm": "Confirm"
+    },
+    "toasts": {
+      "morningLogged": "Your skin is ready for the day ahead",
+      "eveningLogged": "All set for a restful night",
+      "dayPassed": "That day is already behind us",
+      "dayNotArrived": "We haven't reached that day just yet",
+      "markedApplied": "One step closer to your glow",
+      "markedNotApplied": "All set, marked as not applied",
+      "toggleFailed": "Something didn't go quite right, let's try again",
+      "removedFromRoutine": "That's been taken out of your list",
+      "favoritesUpdated": "Saved to your favorites"
+    },
+    "guides": {
+      "dateTitle": "Navigated away?",
+      "dateDescription": "Tap the date to instantly jump back to today.",
+      "dateButton": "Got it",
+      "swipeTitle": "Quick Apply",
+      "swipeDescription": "Swipe right on the entry to mark it as applied!",
+      "swipeButton": "Awesome"
+    },
+    "notifications": {
+      "title": "Skincare reminder",
+      "dayBody": "Have you taken care of your skin today?",
+      "eveningBody": "Don’t forget your evening skincare routine."
+    },
+    "menu": {
+      "morningRoutine": "Morning Routine",
+      "eveningRoutine": "Evening Routine",
+      "viewProductDetails": "View Product Details",
+      "editEntry": "Edit Entry",
+      "reorderSequence": "Reorder Routine",
+      "removeFromRoutine": "Remove from Routine"
+    },
+    "fullDay": {
+      "title": "Mark Full Day",
+      "description": "Hold the circle to complete"
+    }
+  },
+  "addToRoutine": {
+    "headerTitle": "Add to Routine",
+    "searchPlaceholder": "Search your shelf...",
+    "loadingError": "Failed to load products."
+  },
+  "reorderRoutine": {
+    "headerTitle": "Reorder Routine",
+    "segmented": {
+      "morning": "Morning",
+      "evening": "Evening"
+    },
+    "sectionHeader": {
+      "morningRoutine": "Morning Routine",
+      "eveningRoutine": "Evening Routine"
+    },
+    "empty": {
+      "noEntries": "No entries in this routine."
+    },
+    "errors": {
+      "saveFailed": "Could not save the new order."
+    }
+  }
+}

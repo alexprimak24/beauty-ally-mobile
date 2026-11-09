@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "이런!"
+  },
+  "errors": {
+    "generic": "문제가 발생했습니다.",
+    "deleteEntry": "항목을 삭제할 수 없습니다.",
+    "updateFavorites": "즐겨찾기를 업데이트할 수 없습니다.",
+    "updateSkincare": "스킨케어 상태를 업데이트할 수 없습니다.",
+    "saveProfileTitle": "변경 사항을 저장할 수 없어요",
+    "saveProfileBody": "잠시 후 다시 시도해 주세요.",
+    "unsupportedLink": "이 링크를 열 수 없습니다.",
+    "openLinkUnsupported": "이 링크를 열 수 없습니다.",
+    "openLink": "문제가 발생했습니다."
+  },
+  "upload": {
+    "noImage": "이미지가 제공되지 않았습니다.",
+    "consentRequired": "사진을 처리하려면 동의가 필요합니다.",
+    "failed": "업로드에 실패했습니다.",
+    "network": "네트워크 오류입니다. 다시 시도해 주세요."
+  },
+  "consentAlert": {
+    "title": "스캔이 비활성화됨",
+    "body": "설정에서 이미지 처리가 꺼져 있습니다. 계속하려면 다시 켜 주세요.",
+    "cancel": "취소",
+    "enable": "지금 켜기"
+  },
+  "timeAgo": {
+    "now": "방금 전",
+    "minutes_one": "{{count}}분 전",
+    "minutes_other": "{{count}}분 전",
+    "hours_one": "{{count}}시간 전",
+    "hours_other": "{{count}}시간 전",
+    "days_one": "{{count}}일 전",
+    "days_other": "{{count}}일 전",
+    "weeks_one": "{{count}}주 전",
+    "weeks_other": "{{count}}주 전",
+    "months_one": "{{count}}개월 전",
+    "months_other": "{{count}}개월 전",
+    "years_one": "{{count}}년 전",
+    "years_other": "{{count}}년 전"
+  },
+  "onboardingValidation": {
+    "noData": "온보딩 데이터를 찾을 수 없습니다.",
+    "incomplete": "필수 온보딩 항목을 완료해 주세요: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/월",
+    "perYearSuffix": "/년"
+  },
+  "today": "오늘",
+  "weekdays": {
+    "short": {
+      "mo": "월",
+      "tu": "화",
+      "we": "수",
+      "th": "목",
+      "fr": "금",
+      "sa": "토",
+      "su": "일"
+    },
+    "superShort": {
+      "mo": "월",
+      "tu": "화",
+      "we": "수",
+      "th": "목",
+      "fr": "금",
+      "sa": "토",
+      "su": "일"
+    }
+  }
+}

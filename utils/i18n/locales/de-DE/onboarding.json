@@ -1,0 +1,271 @@
+{
+  "welcome": {
+    "intro": "Finde deine passende Kosmetik",
+    "noAccMsg": "Bitte schließe zuerst den Onboarding-Prozess ab",
+    "signInMsg": "Du hast schon ein Konto?<strong> Anmelden</strong> ",
+    "action": "Los geht’s"
+  },
+  "gender": {
+    "title": "Was ist Ihr Geschlecht?",
+    "subtitle": "So können wir dein Erlebnis etwas persönlicher gestalten.",
+    "male": { "label": "Männlich" },
+    "female": { "label": "Weiblich" },
+    "nonBinary": { "label": "Nicht-binär" },
+    "preferNot": { "label": "Keine Angabe" }
+  },
+  "weather": {
+    "title": "Wie ist das Klima dort, wo du lebst?",
+    "subtitle": "Das Klima kann beeinflussen, wie sich Produkte auf der Haut anfühlen und einziehen.",
+
+    "coolDry": { "label": "Kühl & Trocken" },
+    "coolHumid": { "label": "Kühl & Feucht" },
+    "mildDry": { "label": "Mild & Trocken" },
+    "warmHumid": { "label": "Warm & Feucht" },
+    "hotDry": { "label": "Heiß & Trocken" },
+    "hotHumid": { "label": "Heiß & Feucht" },
+    "highUVYearRound": { "label": "Ganzjährig hohe UV-Strahlung" }
+  },
+  "skinType": {
+    "title": "Wie würdest du deine Haut beschreiben?",
+    "subtitle": "Wähle die Option, die am ehesten beschreibt, wie deine Haut die meiste Zeit ist.",
+
+    "normal": { "label": "Normal", "explanation": "" },
+    "dry": { "label": "Trocken", "explanation": "" },
+    "oily": { "label": "Fettig", "explanation": "" },
+    "sensitive": { "label": "Empfindlich", "explanation": "" },
+    "combination": {
+      "label": "Mischhaut",
+      "explanation": "(sowohl fettige als auch trockene Bereiche im Gesicht)"
+    }
+  },
+  "skinConcerns": {
+    "title": "Was sind deine wichtigsten Hautprobleme?",
+    "subtitle": "Wähle aus, was dir am wichtigsten ist, damit wir deine Ergebnisse personalisieren können.",
+
+    "breakouts": { "label": "Unreinheiten oder Pickel" },
+    "rednessSensitivity": { "label": "Rötungen oder empfindliche Haut" },
+    "cloggedPores": { "label": "Verstopfte Poren oder Mitesser" },
+    "hyperpigmentation": { "label": "Dunkle Flecken oder ungleichmäßiger Hautton" },
+    "dryness": { "label": "Trockenheit oder Dehydrierung" },
+    "wrinkles": { "label": "Feine Linien oder Falten" },
+    "unevenTexture": { "label": "Unregelmäßige Hautstruktur oder fahle Haut" },
+    "largePores": { "label": "Sichtbare Poren" },
+    "oilyShine": { "label": "Übermäßiger Glanz" },
+    "none": { "label": "Im Moment keine" }
+  },
+  "allergies": {
+    "title": "Gibt es Inhaltsstoffe, die deine Haut nicht gut verträgt?",
+    "subtitle": "Damit können wir Inhaltsstoffe markieren, die möglicherweise nicht gut zu dir passen.",
+
+    "alcohol": {
+      "label": "Alkohol",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "Duftstoffe",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "Ätherische Öle",
+      "examples": "Lavendelöl, Orangenschalenöl, Teebaumöl"
+    },
+    "lanolin": {
+      "label": "Lanolin",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "Kokosöl-Derivate",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "Farbstoffe",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "Glimmer (Mica)",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "Keine",
+      "examples": ""
+    }
+  },
+  "currentTreatment": {
+    "title": "Verwendest du derzeit einige dieser Hautpflege-Behandlungen?",
+    "subtitle": "So verstehen wir besser, was bereits Teil deiner Routine ist.",
+
+    "retinol": { "label": "Retinol oder Retinoide", "explanation": "" },
+    "vitaminC": { "label": "Vitamin C", "explanation": "" },
+    "ahaBha": {
+      "label": "AHA / BHA Säuren",
+      "explanation": "(Glykolsäure / Salicylsäure / Milchsäure)"
+    },
+    "benzoyl": { "label": "Benzoylperoxid", "explanation": "" },
+    "niacinamide": { "label": "Niacinamid", "explanation": "" },
+    "prescriptionCreams": { "label": "Cremes oder Gele auf Rezept", "explanation": "" },
+    "strongAcne": { "label": "Orale Medikamente gegen Akne", "explanation": "" },
+    "no": { "label": "Im Moment keine", "explanation": "" }
+  },
+  "sunscreenUsage": {
+    "title": "Wie oft verwendest du Sonnenschutz?",
+    "subtitle": "Das Klima kann beeinflussen, wie sich deine Haut anfühlt.",
+
+    "never": { "label": "Nie" },
+    "occasionally": { "label": "Gelegentlich" },
+    "sometimes": { "label": "Manchmal" },
+    "almostDaily": { "label": "Fast täglich" },
+    "daily": { "label": "Täglich" }
+  },
+  "summary": {
+    "title": "Wir personalisieren dein Erlebnis mit Hautdaten",
+    "steps": {
+      "step1": "Deine Präferenzen werden vorbereitet",
+      "step2": "Inhaltsstoff-Checks werden geladen",
+      "step3": "Deine Empfindlichkeiten werden berücksichtigt",
+      "step4": "Abgleichkriterien werden konfiguriert",
+      "step5": "Einrichtung wird abgeschlossen"
+    }
+  },
+  "congratulations": {
+    "title": "Glückwunsch, dein<br/>Hautprofil ist eingerichtet!",
+    "subtitle": "Wir nutzen dein Hautprofil und Produktfotos, um Zutatenlisten zu prüfen und Eignungshinweise anzuzeigen.",
+    "disclamer": "Nur KI-generierte Infos. Keine medizinische Beratung. Kein Medizinprodukt.",
+    "termsPriv": "Ich stimme den <strong>Nutzungsbedingungen</strong> und der <highlight>Datenschutzerklärung</highlight> zu",
+    "processConsent": "Ich willige ein, dass Beauty Ally <strong>mein Hautprofil</strong> und <highlight>Produktfotos</highlight> verarbeitet, um Zutatenlisten zu prüfen und allgemeine Eignungshinweise bereitzustellen. Ich kann meine Einwilligung jederzeit im Profil widerrufen.",
+    "termsRaw": "Ich stimme den Nutzungsbedingungen und der Datenschutzerklärung zu.",
+    "healthRaw": "Ich willige ein, dass Beauty Ally mein Hautprofil und Fotos verarbeitet, um eine Inhaltsstoffanalyse und Eignungsergebnisse bereitzustellen. Ich kann meine Einwilligung jederzeit in den Einstellungen widerrufen.",
+    "learnMsg": "Erfahre mehr darüber, wie wir deine Daten nutzen",
+    "ageConsent": "Durch Fortfahren bestätigen Sie, dass Sie 18+ oder volljährig in Ihrem Land sind.",
+    "modal": {
+      "title": "Wie wir deine Daten nutzen",
+      "explanation": "• Nur zur Bereitstellung der Kernfunktionen verwendet (Inhaltsstoffanalyse und Eignungsergebnisse)<br/>• Nicht verkauft oder für zielgerichtete Werbung genutzt<br/>• Speicherung in privater Cloud mit nutzerbezogenen Zugriffskontrollen<br/>• Du kannst Daten löschen oder die Einwilligung in Profil → Konto & Daten löschen widerrufen"
+    }
+  },
+  "createAccount": {
+    "title": "Erstelle dein Konto",
+    "subtitle": "Speichere deinen Fortschritt und sichere dein Konto.",
+    "terms": "Deine Hautdaten sind verschlüsselt und privat. Wir verwenden sie nur, um deine Routine zu personalisieren."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "Wähle deinen Plan",
+      "subtitle": "Personalisierte Scans · schlauere Wahl"
+    },
+    "loading": {
+      "default": {
+        "message": "Verarbeitung...",
+        "subMessage": "Einen Moment"
+      },
+      "purchasing": {
+        "message": "Abo wird bestätigt...",
+        "subMessage": "Sichere deinen Pro-Zugang"
+      },
+      "switching": {
+        "message": "Plan wird aktualisiert...",
+        "subMessage": "Änderungen werden angewendet"
+      },
+      "restoring": {
+        "message": "Käufe wiederherstellen...",
+        "subMessage": "Suche aktive Abos"
+      },
+      "freeScans": {
+        "message": "Schalte Scans frei...",
+        "subMessage": "Bereit zu strahlen!"
+      },
+      "loadingPaywall": {
+        "message": "Lade Erlebnis...",
+        "subMessage": "Beste Optionen für dich"
+      },
+      "packages": "Lade Pläne..."
+    },
+    "plans": {
+      "yearly": "Jährlich",
+      "monthly": "Monatlich",
+      "yearlyPlan": "Jahresplan",
+      "monthlyPlan": "Monatsplan",
+      "yearlyUpper": "JAHRESPLAN",
+      "monthlyUpper": "MONATSPLAN"
+    },
+    "freeScans": {
+      "used": "Gratis-Limit erreicht",
+      "offer": "Unsicher? 5 testen",
+      "claim": "5 Gratis-Scans sichern",
+      "noCard": "Keine Karte nötig."
+    },
+    "banner": {
+      "special": "SONDERPREIS"
+    },
+    "card": {
+      "currentBadge": "AKTUELLER PLAN",
+      "cancelAnytime": "Jederzeit kündbar",
+      "firstYear": "Erstes Jahr",
+      "firstMonth": "Erster Monat",
+      "then": "danach"
+    },
+    "benefits": {
+      "unlimited": "Unbegrenzte Scans",
+      "advanced": "Tiefe Analyse & Insights",
+      "bestValue": "Beste Wahl"
+    },
+    "cta": {
+      "active": "Aktiv",
+      "switchTo": "Wechseln zu",
+      "continue": "Weiter",
+      "noCommit": "Ohne Bindung. Jederzeit kündbar."
+    },
+    "footer": {
+      "terms": "AGB",
+      "privacy": "Datenschutz",
+      "restore": "Wiederherstellen"
+    },
+    "toast": {
+      "switchYearly": "Auf Jahresplan gewechselt",
+      "switchMonthly": "Auf Monatsplan gewechselt",
+      "premiumUn": "Premium freigeschaltet",
+      "restored": "Käufe wiederhergestellt",
+      "restoreErr": "Fehler beim Wiederherstellen.",
+      "freeActivated": "Gratis-Scans aktiviert",
+      "freeAlready": "Gratis-Scans schon verfügbar"
+    },
+    "subscribed": {
+      "title": "Du bist Pro!",
+      "subtitle": "Dein Abo ist aktiv. Genieße unbegrenzte Scans und tiefe Analysen.",
+      "currentPlanLabel": "Aktueller Plan",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(Jährlich)",
+      "monthSuffix": "(Monatlich)",
+      "fallback": "Premium",
+      "goHome": "Zum Start",
+      "manage": "Abo verwalten"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "Alles bereit",
+    "subtitle": "Dein Abo wurde aktiviert. Viel Spaß beim Erlebnis.",
+    "receipt": {
+      "statusLabel": "Status",
+      "statusActive": "Aktiv",
+      "statusPending": "Ausstehend",
+      "subscriptionLabel": "Abo",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Premium-Zugang"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "Fehler beim Hinzufügen deiner Einwilligungen. Bitte versuche es erneut",
+    "needConsent": "Bitte akzeptiere zuerst die Nutzungsbedingungen & den Datenschutz.",
+    "signupErr": "Konto konnte nicht erstellt werden. Bitte versuche es erneut."
+  },
+  "actions": {
+    "continue": "Weiter",
+    "update": "Aktualisieren",
+    "close": "Schließen",
+    "celebration": "Jetzt entdecken"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "Paket nicht verfügbar",
+      "purchaseFailed": "Kauf fehlgeschlagen"
+    }
+  }
+}

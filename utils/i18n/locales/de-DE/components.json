@@ -1,0 +1,280 @@
+{
+  "auth": {
+    "appleCta": "Mit Apple anmelden",
+    "appleCtaHint": "Mit deinem Apple-Konto fortfahren",
+    "googleCta": "Mit Google anmelden",
+    "googleCtaHint": "Mit deinem Google-Konto fortfahren",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "Onboarding unvollständig",
+        "message": "Bitte schließe die erforderlichen Schritte ab, bevor du dich registrierst."
+      },
+      "authIncomplete": {
+        "title": "Authentifizierung unvollständig",
+        "message": "Bitte erledige zusätzliche Schritte in deinem Konto."
+      },
+      "authFailed": {
+        "title": "Authentifizierung fehlgeschlagen",
+        "fallback": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+      },
+      "unknown": {
+        "title": "Ups",
+        "message": "Ein unbekannter Fehler ist aufgetreten."
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "Scan-Verarbeitung",
+      "subtitle": "Meine Bilder und mein Hautprofil verarbeiten, um Scan-Ergebnisse zu erzeugen.",
+      "a11yLabel": "Scan-Verarbeitung"
+    },
+    "links": {
+      "notifications": "Benachrichtigungen",
+      "terms": "Nutzungsbedingungen",
+      "privacy": "Datenschutzrichtlinie",
+      "contact": "Kontakt",
+      "manageSub": "Abonnement verwalten"
+    },
+    "contact": {
+      "emailSubject": "Beauty Ally Support-Anfrage",
+      "emailBody": "Hallo Beauty-Ally-Supportteam,\n\nich melde mich wegen eines Problems oder einer Frage zur App. Details finden Sie unten:\n\n[Beschreibe hier deine Frage oder das Problem]\n\nVielen Dank für die Unterstützung.\n\nBeste Grüße,\n\n---\nBenutzer-ID: {{userId}}\nSprache/Region: {{locale}}\nApp: Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "Scan-Verarbeitung deaktivieren?",
+          "body": "Wenn du dies ausschaltest, werden neue Fotos nicht mehr verarbeitet und die Analyse mit deinem Hautprofil pausiert. Deine bisherigen Ergebnisse bleiben in deinem Konto, sofern du sie nicht löschst. Du kannst dies jederzeit wieder einschalten.",
+          "cancel": "Abbrechen",
+          "confirm": "Ausschalten"
+        },
+        "on": {
+          "title": "Scan-Verarbeitung aktivieren?",
+          "body": "Durch das Aktivieren erlaubst du Beauty Ally, neue Bilder zu verarbeiten und dein Hautprofil zur Erstellung von Scan-Ergebnissen zu verwenden.",
+          "cancel": "Abbrechen",
+          "confirm": "Aktivieren"
+        }
+      },
+      "updateFailed": {
+        "title": "Aktualisierung fehlgeschlagen",
+        "body": "Deine Scan-Einstellung konnte nicht aktualisiert werden. Bitte versuche es erneut."
+      },
+      "delete": {
+        "title": "Konto & Daten löschen",
+        "body": "⚠️ \nWenn du dein Konto löschst, werden Profil, Scan-Verlauf, hochgeladene Fotos, OCR-Texte und Ergebnisse dauerhaft entfernt. Dies kann nicht rückgängig gemacht werden.\n\nEs wird nur dein Beauty-Ally-Konto gelöscht (nicht dein Apple-/Google-Konto).\n\nAktive Abonnements müssen in den Einstellungen des App Store oder Google Play gekündigt werden.",
+        "cancel": "Abbrechen",
+        "confirm": "Ja, löschen",
+        "errorTitle": "Fehler",
+        "errorBody": "Konto konnte nicht gelöscht werden. Bitte versuche es erneut."
+      }
+    },
+    "deletingModal": {
+      "deleting": "Dein Konto wird gelöscht…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "Abmelden",
+      "hint": "Von deinem Konto abmelden"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "Mein Beauty-Regal:"
+    },
+    "shelfTitle": "Mein Beauty-Regal:",
+    "recentlyScanned": "Kürzlich gescannt:"
+  },
+  "emptyEntry": {
+    "titleNone": "Noch nichts gescannt!",
+    "titleSearch": "Keine Scans für {{query}} gefunden.",
+    "hintSearch": "Stelle sicher, dass der Name korrekt geschrieben ist.",
+    "hintNone": "Mach deinen ersten Scan, um zu starten.",
+    "startScan": "Scan starten"
+  },
+  "emptyFavorites": {
+    "titleNone": "Noch keine Favoriten!",
+    "titleSearch": "Keine Favoriten für {{query}} gefunden.",
+    "hintSearch": "Versuche ein anderes Stichwort<br/>oder sieh dir die vollständige Liste an.",
+    "hintNone": "Tippe auf das <strong>Herz-Symbol</strong>, um Produkte zu speichern, die du liebst."
+  },
+  "emptyMySkincare": {
+    "titleNone": "Ups. Deine Hautpflege-Tasche<br/>ist noch leer!",
+    "titleSearch": "Keine Treffer in deiner Hautpflege-Tasche",
+    "hintSearch": "Prüfe deinen gesamten Scan-Verlauf<br/>oder scanne ein neues Produkt.",
+    "hintNone": "<strong>Wische nach links</strong> bei einem Produkt, um es deiner Routine hinzuzufügen."
+  },
+  "emptyRecentUploads": {
+    "title": "Noch nichts gescannt!",
+    "hint": "Tippe auf <strong>Scannen</strong>, um deine letzten Uploads zu sehen.",
+    "cta": "Scan starten"
+  },
+  "errorCard": {
+    "title": "Ups, etwas ist schiefgelaufen!",
+    "generic": "Bitte versuche es erneut."
+  },
+  "layoutGate": {
+    "loadingTitle": "Alles wird vorbereitet",
+    "loadingBody": "Deine Beauty Ally-Sitzung wird wiederhergestellt…",
+    "errorTitle": "Dein Profil konnte nicht geladen werden",
+    "errorBody": "Prüfe deine Verbindung und versuche es erneut.",
+    "retry": "Erneut versuchen"
+  },
+  "filter": {
+    "all": "Alle",
+    "verdicts": {
+      "generallySuitable": "Gut verträglich",
+      "mightNotAlign": "Evtl. ungeeignet",
+      "lowMatch": "Geringe Eignung"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "Diese Bewertung wird KI-gestützt anhand deines Hautprofils und der Produktinhaltsstoffe erstellt.",
+      "body": "Sie zeigt eine allgemeine Verträglichkeit — keine medizinische Beratung oder Sicherheitsbewertung. Teste Produkte stets lokal und wende dich bei Unsicherheit an Fachpersonal."
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "Mein Hautprofil",
+    "none": "Keins",
+    "fields": {
+      "gender": "Geschlecht",
+      "climate": "Klima",
+      "skinType": "Hauttyp",
+      "allergies": "Allergien",
+      "skinConcerns": "Hautanliegen",
+      "activeTreatment": "Aktive Behandlungen",
+      "sunscreenUsage": "Sonnenschutz-Nutzung"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "Beispiel:",
+    "tooltip": {
+      "rxTitle": "Verschreibungspflichtiger Wirkstoff.",
+      "rxBody": "Sprich mit deinem Arzt, bevor du ihn mit anderen Aktiva kombinierst.\nDiese App dient nur Informationszwecken."
+    }
+  },
+  "otherInput": {
+    "placeholder": "Sonstiges:"
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "Zu Favoriten hinzugefügt",
+      "favRemoved": "Aus Favoriten entfernt",
+      "skincareAdded": "Zu „Meine Hautpflege“ hinzugefügt",
+      "skincareRemoved": "Aus „Meine Hautpflege“ entfernt",
+      "deleted": "Eintrag gelöscht"
+    },
+    "removeConfirm": {
+      "title": "Aus deinem Hautpflege-Regal entfernen?",
+      "message": "Das Produkt wird aus deinem Regal entfernt und alle Routine-Einträge dazu werden gelöscht.",
+      "cancel": "Behalten",
+      "confirm": "Entfernen"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "So scannst du",
+        "subtitle": "Lerne die einfachsten Wege kennen, deine Hautpflegeprodukte zu scannen und zu analysieren."
+      },
+      "2": {
+        "title": "Schnellmodus",
+        "subtitle": "Erfasse das Produkt in einem schnellen Schritt, wenn du eine zügige Einschätzung möchtest."
+      },
+      "3": {
+        "title": "Präzisionsmodus",
+        "subtitle": "Fotografiere Vorder- und Rückseite getrennt, um ein klareres und detaillierteres Ergebnis zu erhalten."
+      },
+      "4": {
+        "title": "Von überall teilen",
+        "subtitle": "Speichere oder teile einen Produkt-Screenshot aus sozialen Medien, um ihn in der App zu prüfen."
+      },
+      "5": {
+        "title": "Beim Einkaufen prüfen",
+        "subtitle": "Teile beim Online-Shopping eine Produktseite oder einen Screenshot, um zu sehen, wie gut es zu deinem Hautprofil passt."
+      }
+    },
+    "actions": {
+      "continue": "Weiter",
+      "gotIt": "Verstanden"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "Scan-Verlauf",
+    "a11yOpenHistory": "Scan-Verlauf öffnen"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": [
+        "Foto wird hochgeladen…",
+        "Etikett wird gelesen…",
+        "Produkt wird geprüft…",
+        "Fast fertig…"
+      ],
+      "back": [
+        "Foto wird hochgeladen…",
+        "Inhaltsstoffe werden gelesen…",
+        "Produkt wird genauer geprüft…",
+        "Hautprofil wird geprüft…",
+        "Abgleich mit dir…",
+        "Fast fertig…"
+      ],
+      "both": [
+        "Etikett wird gelesen…",
+        "Produkt wird geprüft…",
+        "Hautprofil wird genauer betrachtet…",
+        "Abgleich mit dir…",
+        "Alles wird noch einmal geprüft…",
+        "Fast fertig…"
+      ]
+    },
+    "hint": "Das kann einen Moment dauern. Danke für deine Geduld."
+  },
+  "searchInput": {
+    "placeholder": "Produkte suchen…"
+  },
+  "signInSheet": {
+    "title": "Anmelden",
+    "legal": "Durch Fortfahren stimmst du unseren\n<terms>Nutzungsbedingungen</terms> und unserer <privacy>Datenschutzrichtlinie</privacy> zu."
+  },
+  "updatePfp": {
+    "title": "Wie sollen wir dich nennen?",
+    "placeholder": "Dein Name",
+    "save": "Speichern",
+    "discard": "Verwerfen",
+    "alerts": {
+      "uploadFailedTitle": "Upload fehlgeschlagen",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "Fehler",
+      "galleryErrorBody": "Beim Auswählen eines Fotos aus der Galerie ist etwas schiefgelaufen.",
+      "updateNameFailedTitle": "Dein Name konnte nicht aktualisiert werden",
+      "updateNameFailedBody": "Bitte versuche es in einem Moment erneut."
+    }
+  },
+  "updateRow": {
+    "set": "Festlegen"
+  },
+  "selectLanguage": "Sprache auswählen",
+  "languageChangeNotice": "Du kannst dies jederzeit in den Einstellungen ändern",
+  "unknownProduct": "Unbekanntes Produkt",
+  "routine": {
+    "productNameFallback": "Produktname",
+    "configureRoutine": "Routine anpassen",
+    "morningTitle": "Morgenroutine",
+    "eveningTitle": "Abendroutine",
+    "morningSubtitle": "Frisch in den Tag starten",
+    "eveningSubtitle": "Runterkommen und resetten",
+    "daily": "Täglich",
+    "specificDays": "Bestimmte Tage",
+    "addToRoutine": "Zur Routine hinzufügen",
+    "addedToRoutine": "Zur Routine hinzugefügt! ✨",
+    "failedToAdd": "Konnte nicht zur Routine hinzugefügt werden",
+    "notificationPrompt": {
+      "title": "Sanfte Erinnerungen?",
+      "message": "Möchtest du sanfte Erinnerungen zum Auftragen deiner Skincare-Produkte? Nur hilfreiche Benachrichtigungen, kein Spam.",
+      "allow": "Erinnerungen erlauben",
+      "notNow": "Nicht jetzt"
+    }
+  }
+}

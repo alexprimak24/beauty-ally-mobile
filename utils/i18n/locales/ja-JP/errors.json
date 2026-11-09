@@ -1,0 +1,32 @@
+{
+  "required": "この項目は空欄にできません。",
+  "invalidJson": "正しく処理されませんでした。もう一度試してみましょう。",
+  "unauthorized": "セッションが終了しました。続行するにはサインインしてください。",
+  "internalError": "サーバー側で問題が発生しました。少し時間をおいて再度お試しください。",
+  "validationFailed": "一部の内容に誤りがあるようです。確認のうえ再試行してください。",
+  "notFound": "お探しの内容が見つかりませんでした。",
+  "fileTooBig": "ファイルが大きすぎます。小さいファイルをお試しください。",
+  "unsupportedMediaType": "このファイル形式には対応していません。",
+  "invalidParam": "一部の情報が正しくないようです。確認してから再試行してください。",
+  "freeAlreadyActivated": "無料スキャンはすでに利用中です。",
+  "subscriptionRequired": "続行するにはサブスクリプションが必要です。",
+  "badRequest": "リクエスト内容に問題があるようです。",
+  "rateLimited": "操作が少し速すぎます。しばらくしてからお試しください。",
+  "fairUseRestricted": "現在の利用上限に達しました。後でもう一度お試しください。",
+  "consentRequired": "まず必要な同意事項を確認し、承認してください。",
+  "invalidConsentStatus": "その同意ステータスは無効です。",
+  "invalidConsentType": "その同意タイプはサポートされていません。",
+  "generic": "エラーが発生しました。後でもう一度お試しください。",
+
+  "photoCaptureError": "写真を撮影できませんでした",
+  "cameraMountError": "カメラを使用できません",
+
+  "bothImagesRequired": "2枚の写真を追加してください。",
+
+  "uploadFailed": "写真をアップロードできませんでした。もう一度お試しください。",
+  "ocrFailed": "写真を読み取れませんでした。もう一度お試しください。",
+  "gptExtrFailed": "製品を認識できませんでした。もう一度お試しください。",
+
+  "missingIngredients": "成分が見つかりませんでした。もう一度お試しください。",
+  "productNotDetected": "商品を認識できません。別の写真をお試しください。"
+}

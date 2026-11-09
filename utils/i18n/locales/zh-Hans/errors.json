@@ -1,0 +1,31 @@
+{
+  "required": "此字段不能为空。",
+  "invalidJson": "有些内容没有正确处理，我们再试一次。",
+  "unauthorized": "会话已结束，请登录后继续。",
+  "internalError": "我们这边出了点问题，请稍后再试。",
+  "validationFailed": "有些信息看起来不太对，请检查后再试。",
+  "notFound": "没有找到您需要的内容。",
+  "fileTooBig": "文件似乎太大了，请换个更小的。",
+  "unsupportedMediaType": "不支持这种文件类型。",
+  "invalidParam": "部分信息不正确，请检查后重试。",
+  "freeAlreadyActivated": "免费扫描已在使用中。",
+  "subscriptionRequired": "需要订阅才能继续。",
+  "badRequest": "您的请求看起来不太正确。",
+  "rateLimited": "操作有点频繁，请稍后再试。",
+  "fairUseRestricted": "已达到当前使用上限，请稍后重试。",
+  "consentRequired": "请先查看并同意所需授权。",
+  "invalidConsentStatus": "该授权状态无效。",
+  "invalidConsentType": "不支持该授权类型。",
+  "generic": "出错了，请稍后再试。",
+
+  "photoCaptureError": "无法拍摄照片",
+  "cameraMountError": "相机不可用",
+
+  "bothImagesRequired": "请添加两张照片。",
+
+  "uploadFailed": "无法上传照片。请再试一次。",
+  "ocrFailed": "无法读取照片。请再试一次。",
+  "gptExtrFailed": "无法识别产品。请再试一次。",
+  "missingIngredients": "未找到成分。我们再试一次。",
+  "productNotDetected": "未识别到产品。请换一张照片。"
+}

@@ -1,0 +1,269 @@
+{
+  "welcome": {
+    "intro": "Descubre tu match beauty",
+    "noAccMsg": "Primero completa el proceso de configuración inicial.",
+    "signInMsg": "¿Ya tienes una cuenta?<strong> Inicia sesión</strong> ",
+    "action": "Comenzar"
+  },
+  "gender": {
+    "title": "¿Cuál es tu género?",
+    "subtitle": "Esto nos ayuda a personalizar tu experiencia de una manera más cuidadosa.",
+
+    "male": { "label": "Hombre" },
+    "female": { "label": "Mujer" },
+    "nonBinary": { "label": "No binario" },
+    "preferNot": { "label": "Prefiero no decirlo" }
+  },
+  "weather": {
+    "title": "¿Cómo es el clima donde vives?",
+    "subtitle": "El clima puede influir en cómo se sienten los productos en la piel y cómo se absorben.",
+
+    "coolDry": { "label": "Frío y seco" },
+    "coolHumid": { "label": "Frío y húmedo" },
+    "mildDry": { "label": "Templado y seco" },
+    "warmHumid": { "label": "Cálido y húmedo" },
+    "hotDry": { "label": "Caluroso y seco" },
+    "hotHumid": { "label": "Caluroso y húmedo" },
+    "highUVYearRound": { "label": "Alta radiación UV todo el año" }
+  },
+  "skinType": {
+    "title": "¿Cómo describirías tu piel?",
+    "subtitle": "Elige la opción que más se acerque a cómo es tu piel la mayor parte del tiempo.",
+
+    "normal": { "label": "Normal", "explanation": "" },
+    "dry": { "label": "Seca", "explanation": "" },
+    "oily": { "label": "Grasa", "explanation": "" },
+    "sensitive": { "label": "Sensible", "explanation": "" },
+    "combination": { "label": "Mixta", "explanation": "(zonas grasas y secas en el rostro)" }
+  },
+  "skinConcerns": {
+    "title": "¿Cuáles son tus principales preocupaciones sobre tu piel?",
+    "subtitle": "Elige lo que más te importe para personalizar tus resultados.",
+
+    "breakouts": { "label": "Granitos o acné" },
+    "rednessSensitivity": { "label": "Enrojecimiento o sensibilidad" },
+    "cloggedPores": { "label": "Poros obstruidos o puntos negros" },
+    "hyperpigmentation": { "label": "Manchas oscuras o tono desigual" },
+    "dryness": { "label": "Sequedad o deshidratación" },
+    "wrinkles": { "label": "Líneas finas o arrugas" },
+    "unevenTexture": { "label": "Textura irregular o piel apagada" },
+    "largePores": { "label": "Poros visibles" },
+    "oilyShine": { "label": "Brillo excesivo" },
+    "none": { "label": "Ninguna por ahora" }
+  },
+  "allergies": {
+    "title": "¿Hay ingredientes que tu piel no tolere bien?",
+    "subtitle": "Usaremos esto para señalar ingredientes que podrían no ser los más adecuados para ti.",
+
+    "alcohol": {
+      "label": "Alcohol",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "Fragancias",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "Aceites esenciales",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "Lanolina",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "Derivados del aceite de coco",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "Colorantes",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "Mica",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "Ninguno",
+      "examples": ""
+    }
+  },
+  "currentTreatment": {
+    "title": "¿Usas actualmente alguno de estos tratamientos para la piel?",
+    "subtitle": "Esto nos ayuda a entender qué ya forma parte de tu rutina.",
+
+    "retinol": { "label": "Retinol o retinoides", "explanation": "" },
+    "vitaminC": { "label": "Vitamina C", "explanation": "" },
+    "ahaBha": {
+      "label": "Ácidos AHA / BHA",
+      "explanation": "(ácido glicólico / ácido salicílico / ácido láctico)"
+    },
+    "benzoyl": { "label": "Peróxido de benzoilo", "explanation": "" },
+    "niacinamide": { "label": "Niacinamida", "explanation": "" },
+    "prescriptionCreams": { "label": "Cremas o geles con receta médica", "explanation": "" },
+    "strongAcne": { "label": "Medicamentos orales para el acné", "explanation": "" },
+    "no": { "label": "Ninguno por ahora", "explanation": "" }
+  },
+  "sunscreenUsage": {
+    "title": "¿Con qué frecuencia usas protector solar?",
+    "subtitle": "El clima puede influir en cómo se siente tu piel.",
+
+    "never": { "label": "Nunca" },
+    "occasionally": { "label": "Ocasionalmente" },
+    "sometimes": { "label": "A veces" },
+    "almostDaily": { "label": "Casi a diario" },
+    "daily": { "label": "A diario" }
+  },
+  "summary": {
+    "title": "Estamos personalizando tu experiencia con datos de tu piel",
+    "steps": {
+      "step1": "Preparando tus preferencias",
+      "step2": "Listando verificaciones de ingredientes",
+      "step3": "Teniendo en cuenta tu sensibilidad",
+      "step4": "Configurando criterios de compatibilidad",
+      "step5": "Finalizando la configuración"
+    }
+  },
+  "congratulations": {
+    "title": "¡Enhorabuena!<br/>Tu perfil de piel está listo",
+    "subtitle": "Usamos tu perfil de piel y fotos de productos para revisar listas de ingredientes y mostrar señales de compatibilidad.",
+    "disclamer": "Información generada por IA. No es consejo médico. No es un dispositivo médico.",
+    "termsPriv": "Acepto los <strong>Términos de uso</strong> y la <highlight>Política de privacidad</highlight>",
+    "processConsent": "Autorizo a Beauty Ally a procesar <strong>mi perfil de piel</strong> y <highlight>fotos de productos</highlight> para ofrecer verificaciones de listas de ingredientes y señales generales de idoneidad. Puedo retirar mi consentimiento en cualquier momento en Perfil.",
+    "termsRaw": "Acepto los Términos de uso y la Política de privacidad.",
+    "healthRaw": "Autorizo a Beauty Ally a procesar mi perfil de piel y mis fotos para ofrecer análisis de ingredientes y resultados de idoneidad. Puedo retirar mi consentimiento en cualquier momento en Configuración.",
+    "learnMsg": "Más información sobre cómo usamos tus datos",
+    "ageConsent": "Al continuar confirmas que tienes 18+ o eres mayor de edad en tu país.",
+    "modal": {
+      "title": "Cómo usamos tus datos",
+      "explanation": "• Solo se usan para las funciones principales (análisis de ingredientes y resultados de idoneidad)<br/>• No se venden ni se usan para anuncios dirigidos<br/>• Se almacenan en la nube privada con controles de acceso por usuario<br/>• Puedes borrar los datos o retirar tu consentimiento en Perfil → Eliminar cuenta y datos"
+    }
+  },
+  "createAccount": {
+    "title": "Crea tu cuenta",
+    "subtitle": "Guarda tu progreso y protege tu cuenta.",
+    "terms": "Los datos de tu piel están cifrados y son privados. Solo los usamos para personalizar tu rutina."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "Elige tu plan",
+      "subtitle": "Escaneos personalizados · decisiones inteligentes"
+    },
+    "loading": {
+      "default": {
+        "message": "Procesando...",
+        "subMessage": "Un momento"
+      },
+      "purchasing": {
+        "message": "Confirmando suscripción...",
+        "subMessage": "Asegurando tu acceso Pro"
+      },
+      "switching": {
+        "message": "Actualizando tu plan...",
+        "subMessage": "Aplicando cambios a tu cuenta"
+      },
+      "restoring": {
+        "message": "Restaurando compras...",
+        "subMessage": "Buscando suscripciones activas"
+      },
+      "freeScans": {
+        "message": "Desbloqueando escaneos...",
+        "subMessage": "¡Prepárate para brillar!"
+      },
+      "loadingPaywall": {
+        "message": "Cargando experiencia...",
+        "subMessage": "Preparando las mejores opciones"
+      },
+      "packages": "Cargando planes..."
+    },
+    "plans": {
+      "yearly": "Anual",
+      "monthly": "Mensual",
+      "yearlyPlan": "Plan Anual",
+      "monthlyPlan": "Plan Mensual",
+      "yearlyUpper": "PLAN ANUAL",
+      "monthlyUpper": "PLAN MENSUAL"
+    },
+    "freeScans": {
+      "used": "Límite gratuito agotado",
+      "offer": "¿Dudas? 5 de prueba",
+      "claim": "Obtener 5 escaneos gratis",
+      "noCard": "No hace falta tarjeta."
+    },
+    "banner": {
+      "special": "PRECIO ESPECIAL"
+    },
+    "card": {
+      "currentBadge": "PLAN ACTUAL",
+      "cancelAnytime": "Cancela cuando quieras",
+      "firstYear": "Primer año",
+      "firstMonth": "Primer mes",
+      "then": "luego"
+    },
+    "benefits": {
+      "unlimited": "Escaneos ilimitados",
+      "advanced": "Análisis profundo y consejos",
+      "bestValue": "Mejor opción"
+    },
+    "cta": {
+      "active": "Activo",
+      "switchTo": "Cambiar a",
+      "continue": "Continuar",
+      "noCommit": "Sin compromiso. Cancela cuando quieras."
+    },
+    "footer": {
+      "terms": "Términos",
+      "privacy": "Privacidad",
+      "restore": "Restaurar"
+    },
+    "toast": {
+      "switchYearly": "Cambiado a Anual",
+      "switchMonthly": "Cambiado a Mensual",
+      "premiumUn": "Premium desbloqueado",
+      "restored": "Compras restauradas",
+      "restoreErr": "Error al restaurar. Inténtalo de nuevo.",
+      "freeActivated": "Escaneos activados",
+      "freeAlready": "Escaneos ya disponibles"
+    },
+    "subscribed": {
+      "title": "¡Ya eres Pro!",
+      "subtitle": "Tu suscripción está activa. Disfruta de escaneos ilimitados y análisis avanzado.",
+      "currentPlanLabel": "Plan Actual",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(Anual)",
+      "monthSuffix": "(Mensual)",
+      "fallback": "Premium",
+      "goHome": "Ir al Inicio",
+      "manage": "Gestionar suscripción"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "Todo listo",
+    "subtitle": "Tu suscripción se ha activado. Disfruta la experiencia.",
+    "receipt": {
+      "statusLabel": "Estado",
+      "statusActive": "Activo",
+      "statusPending": "Pendiente",
+      "subscriptionLabel": "Suscripción",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Acceso Premium"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "Error al registrar tus consentimientos. Intenta nuevamente.",
+    "needConsent": "Primero acepta los Términos y la Privacidad.",
+    "signupErr": "No se pudo crear la cuenta. Intenta nuevamente."
+  },
+  "actions": {
+    "continue": "Continuar",
+    "update": "Actualizar",
+    "close": "Cerrar",
+    "celebration": "Empezar a explorar"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "Paquete no disponible",
+      "purchaseFailed": "Error en la compra"
+    }
+  }
+}

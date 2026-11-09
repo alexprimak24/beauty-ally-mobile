@@ -1,0 +1,275 @@
+{
+  "auth": {
+    "appleCta": "Appleでサインイン",
+    "appleCtaHint": "Appleアカウントで続行",
+    "googleCta": "Googleでサインイン",
+    "googleCtaHint": "Googleアカウントで続行",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "オンボーディングが未完了",
+        "message": "登録の前に必要な手順を完了してください。"
+      },
+      "authIncomplete": {
+        "title": "認証が未完了",
+        "message": "アカウントで追加の手続きを完了してください。"
+      },
+      "authFailed": {
+        "title": "認証に失敗しました",
+        "fallback": "問題が発生しました。もう一度お試しください。"
+      },
+      "unknown": {
+        "title": "おっと",
+        "message": "不明なエラーが発生しました。"
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "スキャン処理",
+      "subtitle": "画像と肌プロフィールを処理してスキャン結果を生成します。",
+      "a11yLabel": "スキャン処理"
+    },
+    "links": {
+      "notifications": "通知センター",
+      "terms": "利用規約",
+      "privacy": "プライバシーポリシー",
+      "contact": "お問い合わせ",
+      "manageSub": "サブスクリプションを管理"
+    },
+    "contact": {
+      "emailSubject": "Beauty Ally サポートへの依頼",
+      "emailBody": "Beauty Allyサポートチーム様\n\nアプリに関する問題／質問についてご連絡します。詳細は以下のとおりです。\n\n［ご質問や問題の内容をここにご記入ください］\n\nご対応のほどよろしくお願いいたします。\n\n敬具\n\n---\nユーザーID: {{userId}}\nロケール: {{locale}}\nアプリ: Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "スキャン処理を無効にしますか？",
+          "body": "オフにすると、新しく撮影した写真の処理と、肌プロフィールを使った解析が一時停止されます。過去の結果は削除しない限りアカウントに残ります。必要になったらいつでも再度オンにできます。",
+          "cancel": "キャンセル",
+          "confirm": "オフにする"
+        },
+        "on": {
+          "title": "スキャン処理を有効にしますか？",
+          "body": "有効にすると、Beauty Allyが新しい画像を処理し、あなたの肌プロフィールを使用してスキャン結果を生成します。",
+          "cancel": "キャンセル",
+          "confirm": "有効にする"
+        }
+      },
+      "updateFailed": {
+        "title": "更新に失敗しました",
+        "body": "スキャン設定を更新できませんでした。もう一度お試しください。"
+      },
+      "delete": {
+        "title": "アカウントとデータを削除",
+        "body": "⚠️ \nアカウントを削除すると、プロフィール、スキャン履歴、アップロードした写真、OCRテキスト、結果が完全に削除されます。元に戻すことはできません。\n\nこれはBeauty Allyのアカウントのみを削除します（Apple／Googleのアカウントは対象外）。\n\n有効なサブスクリプションは、App StoreまたはGoogle Playの設定で解約してください。",
+        "cancel": "キャンセル",
+        "confirm": "はい、削除する",
+        "errorTitle": "エラー",
+        "errorBody": "アカウントを削除できませんでした。もう一度お試しください。"
+      }
+    },
+    "deletingModal": {
+      "deleting": "アカウントを削除しています…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "ログアウト",
+      "hint": "アカウントからサインアウト"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "マイビューティーシェルフ："
+    },
+    "shelfTitle": "マイビューティーシェルフ：",
+    "recentlyScanned": "最近スキャンしたもの："
+  },
+  "emptyEntry": {
+    "titleNone": "まだスキャンがありません！",
+    "titleSearch": "{{query}} のスキャンは見つかりませんでした。",
+    "hintSearch": "名前の綴りが正しいか確認してください。",
+    "hintNone": "まずは最初のスキャンをしてみましょう。",
+    "startScan": "スキャンを開始"
+  },
+  "emptyFavorites": {
+    "titleNone": "お気に入りはまだありません！",
+    "titleSearch": "{{query}} のお気に入りは見つかりませんでした。",
+    "hintSearch": "別のキーワードを試すか<br/>全リストを見てみましょう。",
+    "hintNone": "好きな製品は<strong>ハートアイコン</strong>で保存できます。"
+  },
+  "emptyMySkincare": {
+    "titleNone": "おっと。あなたのスキンケアバッグは<br/>まだ空です！",
+    "titleSearch": "スキンケアバッグに一致はありません",
+    "hintSearch": "スキャン履歴全体を確認するか<br/>新しい製品をスキャンしてみてください。",
+    "hintNone": "製品を<strong>左にスワイプ</strong>してルーティンに追加。"
+  },
+  "emptyRecentUploads": {
+    "title": "まだスキャンがありません！",
+    "hint": "最近のアップロードを見るには、<strong>スキャン</strong>をタップしてください。",
+    "cta": "スキャンを開始"
+  },
+  "errorCard": {
+    "title": "おっと、問題が発生しました！",
+    "generic": "もう一度お試しください。"
+  },
+  "layoutGate": {
+    "loadingTitle": "準備しています",
+    "loadingBody": "Beauty Ally のセッションを復元しています…",
+    "errorTitle": "プロフィールを読み込めませんでした",
+    "errorBody": "接続を確認して、もう一度お試しください。",
+    "retry": "もう一度試す"
+  },
+  "filter": {
+    "all": "すべて",
+    "verdicts": {
+      "generallySuitable": "全体的に相性◎",
+      "mightNotAlign": "合わない可能性あり",
+      "lowMatch": "相性低め"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "この評価は、あなたの肌プロフィールと製品の成分に基づいてAIが生成しています。",
+      "body": "あくまで一般的な相性の目安であり、医療アドバイスや安全スコアではありません。迷う場合は必ずパッチテストを行い、専門家に相談してください。"
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "マイスキンプロフィール",
+    "none": "なし",
+    "fields": {
+      "gender": "性別",
+      "climate": "気候",
+      "skinType": "肌質",
+      "allergies": "アレルギー",
+      "skinConcerns": "肌悩み",
+      "activeTreatment": "有効成分の使用",
+      "sunscreenUsage": "日焼け止めの使用状況"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "例：",
+    "tooltip": {
+      "rxTitle": "処方薬成分です。",
+      "rxBody": "他の有効成分と併用する前に医師に相談してください。\nこのアプリは情報提供のみを目的としています。"
+    }
+  },
+  "otherInput": {
+    "placeholder": "その他："
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "お気に入りに追加しました",
+      "favRemoved": "お気に入りから削除しました",
+      "skincareAdded": "マイスキンケアに追加しました",
+      "skincareRemoved": "マイスキンケアから削除しました",
+      "deleted": "エントリを削除しました"
+    },
+    "removeConfirm": {
+      "title": "スキンケア棚から削除しますか？",
+      "message": "この製品を棚から削除し、関連するすべてのルーティン項目も削除します。",
+      "cancel": "残す",
+      "confirm": "削除"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "スキャン方法",
+        "subtitle": "スキンケア製品をスキャンして分析する、かんたんな方法をご紹介します。"
+      },
+      "2": {
+        "title": "ファストモード",
+        "subtitle": "すばやく確認したいときは、製品を1ステップで撮影できます。"
+      },
+      "3": {
+        "title": "精密モード",
+        "subtitle": "表面と裏面を別々に撮影すると、より見やすく詳しい結果になります。"
+      },
+      "4": {
+        "title": "どこからでも共有",
+        "subtitle": "SNSで気になった製品のスクリーンショットを保存または共有して、アプリで確認できます。"
+      },
+      "5": {
+        "title": "買い物中にチェック",
+        "subtitle": "オンラインショッピング中に商品ページやスクリーンショットを共有して、自分の肌プロフィールに合うか確認できます。"
+      }
+    },
+    "actions": {
+      "continue": "続ける",
+      "gotIt": "了解"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "スキャン履歴",
+    "a11yOpenHistory": "スキャン履歴を開く"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": ["写真をアップロード中…", "ラベルを確認中…", "製品を確認中…", "もうすぐ完了…"],
+      "back": [
+        "写真をアップロード中…",
+        "成分を確認中…",
+        "製品を詳しく確認中…",
+        "肌プロフィールを確認中…",
+        "あなたとの相性を確認中…",
+        "もうすぐ完了…"
+      ],
+      "both": [
+        "ラベルを確認中…",
+        "製品を確認中…",
+        "肌プロフィールを確認中…",
+        "あなたとの相性を確認中…",
+        "全体を最終確認中…",
+        "もうすぐ完了…"
+      ]
+    },
+    "hint": "少しお時間がかかる場合があります。"
+  },
+  "searchInput": {
+    "placeholder": "製品を検索…"
+  },
+  "signInSheet": {
+    "title": "サインイン",
+    "legal": "続行すると、\n<terms>利用規約</terms>および<privacy>プライバシーポリシー</privacy>に同意したものとみなされます。"
+  },
+  "updatePfp": {
+    "title": "あなたを何とお呼びしますか？",
+    "placeholder": "お名前",
+    "save": "保存",
+    "discard": "破棄",
+    "alerts": {
+      "uploadFailedTitle": "アップロードに失敗しました",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "エラー",
+      "galleryErrorBody": "ギャラリーからの画像選択中に問題が発生しました。",
+      "updateNameFailedTitle": "名前を更新できませんでした",
+      "updateNameFailedBody": "しばらくしてからもう一度お試しください。"
+    }
+  },
+  "updateRow": {
+    "set": "設定"
+  },
+  "selectLanguage": "言語を選択",
+  "languageChangeNotice": "設定からいつでも変更できます",
+  "unknownProduct": "不明な製品",
+  "routine": {
+    "productNameFallback": "商品名",
+    "configureRoutine": "ルーティンを設定",
+    "morningTitle": "朝のルーティン",
+    "eveningTitle": "夜のルーティン",
+    "morningSubtitle": "気持ちよく一日をスタート",
+    "eveningSubtitle": "一日を整えてリセット",
+    "daily": "毎日",
+    "specificDays": "特定の日",
+    "addToRoutine": "ルーティンに追加",
+    "addedToRoutine": "ルーティンに追加しました ✨",
+    "failedToAdd": "ルーティンに追加できませんでした",
+    "notificationPrompt": {
+      "title": "やさしいリマインダーを使いますか？",
+      "message": "スキンケア製品を使うタイミングを、やさしくお知らせしましょうか？必要な通知だけで、スパムはありません。",
+      "allow": "リマインダーを許可",
+      "notNow": "今はしない"
+    }
+  }
+}

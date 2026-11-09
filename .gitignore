@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+
+# Expo and generated native projects
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+/android/
+/ios/
+.gradle/
+.kotlin/
+local.properties
+
+# Local caches and reports
+.cache/
+.metro-health-check*
+coverage/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Native credentials and signing material
+*.cer
+*.crt
+*.der
+*.jks
+*.keystore
+*.key
+*.mobileprovision
+*.orig.*
+*.p12
+*.p8
+*.pem
+GoogleService-Info.plist
+credentials.json
+google-services.json
+service-account*.json
+
+# Tooling and editor state
+.idea/
+*.swp
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Legacy Expo template output
+app-example/

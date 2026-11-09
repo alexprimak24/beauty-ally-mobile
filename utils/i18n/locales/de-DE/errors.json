@@ -1,0 +1,32 @@
+{
+  "required": "Dieses Feld darf nicht leer bleiben.",
+  "invalidJson": "Etwas wurde nicht richtig übermittelt. Versuchen wir’s noch einmal.",
+  "unauthorized": "Deine Sitzung ist beendet. Melde dich an, um fortzufahren.",
+  "internalError": "Bei uns ist etwas schiefgelaufen. Versuch’s in Kürze erneut.",
+  "validationFailed": "Einige Angaben scheinen nicht zu stimmen. Prüfe sie und versuche es erneut.",
+  "notFound": "Wir konnten nicht finden, wonach du suchst.",
+  "fileTooBig": "Diese Datei ist zu groß. Versuch eine kleinere.",
+  "unsupportedMediaType": "Dieser Dateityp wird nicht unterstützt.",
+  "invalidParam": "Einige Informationen wirken fehlerhaft. Bitte prüfe sie und versuche es erneut.",
+  "freeAlreadyActivated": "Kostenlose Scans sind bereits aktiv.",
+  "subscriptionRequired": "Zum Weitermachen brauchst du ein Abo.",
+  "badRequest": "Mit deiner Anfrage stimmt etwas nicht.",
+  "rateLimited": "Du bist etwas zu schnell. Versuch’s gleich nochmal.",
+  "fairUseRestricted": "Du hast das aktuelle Nutzungslimit erreicht. Versuche es später erneut.",
+  "consentRequired": "Bitte zuerst die erforderlichen Einwilligungen prüfen und akzeptieren.",
+  "invalidConsentStatus": "Dieser Einwilligungsstatus ist ungültig.",
+  "invalidConsentType": "Dieser Einwilligungstyp wird nicht unterstützt.",
+  "generic": "Etwas ist schiefgelaufen. Versuche es später erneut.",
+
+  "photoCaptureError": "Foto konnte nicht aufgenommen werden",
+  "cameraMountError": "Kamera nicht verfügbar",
+
+  "bothImagesRequired": "Bitte beide Fotos hinzufügen.",
+
+  "uploadFailed": "Foto konnte nicht hochgeladen werden. Bitte erneut versuchen.",
+  "ocrFailed": "Foto konnte nicht gelesen werden. Bitte erneut versuchen.",
+  "gptExtrFailed": "Produkt konnte nicht erkannt werden. Bitte erneut versuchen.",
+
+  "missingIngredients": "Keine Inhaltsstoffe gefunden. Versuchen wir es erneut.",
+  "productNotDetected": "Produkt nicht erkannt. Anderes Foto versuchen."
+}

@@ -1,0 +1,32 @@
+{
+  "required": "Ce champ ne peut pas être vide.",
+  "invalidJson": "La demande n’a pas été traitée correctement. Réessayons.",
+  "unauthorized": "Votre session a pris fin. Connectez-vous pour continuer.",
+  "internalError": "Un incident est survenu de notre côté. Réessayez dans un instant.",
+  "validationFailed": "Certains éléments semblent incorrects. Vérifiez et réessayez.",
+  "notFound": "Nous n’avons pas trouvé ce que vous cherchez.",
+  "fileTooBig": "Ce fichier semble trop volumineux. Essayez-en un plus petit.",
+  "unsupportedMediaType": "Ce type de fichier n’est pas pris en charge.",
+  "invalidParam": "Certaines informations paraissent incorrectes. Veuillez vérifier puis réessayer.",
+  "freeAlreadyActivated": "Les analyses gratuites sont déjà actives.",
+  "subscriptionRequired": "Un abonnement est nécessaire pour continuer.",
+  "badRequest": "Votre demande ne semblait pas correcte.",
+  "rateLimited": "Vous allez un peu trop vite. Réessayez dans un instant.",
+  "fairUseRestricted": "Vous avez atteint la limite d’utilisation actuelle. Réessayez plus tard.",
+  "consentRequired": "Veuillez d’abord consulter et accepter les consentements requis.",
+  "invalidConsentStatus": "Ce statut de consentement n’est pas valide.",
+  "invalidConsentType": "Ce type de consentement n’est pas pris en charge.",
+  "generic": "Une erreur s’est produite. Réessayez plus tard.",
+
+  "photoCaptureError": "Impossible de prendre la photo",
+  "cameraMountError": "Caméra indisponible",
+
+  "bothImagesRequired": "Ajoutez les deux photos.",
+
+  "uploadFailed": "Impossible de télécharger la photo. Réessaie.",
+  "ocrFailed": "Impossible de lire la photo. Réessaie.",
+  "gptExtrFailed": "Impossible de reconnaître le produit. Réessaie.",
+
+  "missingIngredients": "Aucun ingrédient trouvé. Réessayons.",
+  "productNotDetected": "Produit non reconnu. Essayez une autre photo."
+}

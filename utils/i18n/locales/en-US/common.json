@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "Oops"
+  },
+  "errors": {
+    "generic": "Something went wrong.",
+    "deleteEntry": "Could not delete entry.",
+    "updateFavorites": "Could not update favorites.",
+    "updateSkincare": "Could not update skincare status.",
+    "saveProfileTitle": "Couldn't save changes",
+    "saveProfileBody": "Please try again in a moment.",
+    "unsupportedLink": "Unable to open this link.",
+    "openLinkUnsupported": "Unable to open this link.",
+    "openLink": "Something went wrong."
+  },
+  "upload": {
+    "noImage": "No image provided.",
+    "consentRequired": "We need your consent to process photos.",
+    "failed": "Upload failed.",
+    "network": "Network error. Please try again."
+  },
+  "consentAlert": {
+    "title": "Scanning is disabled",
+    "body": "Image processing is turned off in your settings. Turn it back on to continue.",
+    "cancel": "Cancel",
+    "enable": "Enable now"
+  },
+  "timeAgo": {
+    "now": "Just now",
+    "minutes_one": "{{count}} minute ago",
+    "minutes_other": "{{count}} minutes ago",
+    "hours_one": "{{count}} hour ago",
+    "hours_other": "{{count}} hours ago",
+    "days_one": "{{count}} day ago",
+    "days_other": "{{count}} days ago",
+    "weeks_one": "{{count}} week ago",
+    "weeks_other": "{{count}} weeks ago",
+    "months_one": "{{count}} month ago",
+    "months_other": "{{count}} months ago",
+    "years_one": "{{count}} year ago",
+    "years_other": "{{count}} years ago"
+  },
+  "onboardingValidation": {
+    "noData": "No onboarding data found.",
+    "incomplete": "Please complete all required onboarding fields: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/mo",
+    "perYearSuffix": "/yr"
+  },
+  "today": "Today",
+  "weekdays": {
+    "short": {
+      "mo": "Mo",
+      "tu": "Tu",
+      "we": "We",
+      "th": "Th",
+      "fr": "Fr",
+      "sa": "Sa",
+      "su": "Su"
+    },
+    "superShort": {
+      "mo": "M",
+      "tu": "T",
+      "we": "W",
+      "th": "T",
+      "fr": "F",
+      "sa": "S",
+      "su": "S"
+    }
+  }
+}

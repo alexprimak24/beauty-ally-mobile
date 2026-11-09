@@ -1,0 +1,32 @@
+{
+  "required": "This field can’t be left empty.",
+  "invalidJson": "Something didn’t go through correctly. Let’s try that again.",
+  "unauthorized": "Your session has ended. Sign in to continue.",
+  "internalError": "Something went wrong on our side. Try again in a bit.",
+  "validationFailed": "Some details don’t look right. Take another look and try again.",
+  "notFound": "We couldn’t find what you’re looking for.",
+  "fileTooBig": "That file seems too large. Try a smaller one.",
+  "unsupportedMediaType": "That file type isn’t supported.",
+  "invalidParam": "Some information looks incorrect. Please review and try again.",
+  "freeAlreadyActivated": "Free scans are already in use.",
+  "subscriptionRequired": "You’ll need a subscription to keep going.",
+  "badRequest": "Something didn’t look right with your request.",
+  "rateLimited": "You’re moving a little too fast. Try again shortly.",
+  "fairUseRestricted": "You’ve reached the current usage limit. Try again later.",
+  "consentRequired": "Please review and accept the required consents first.",
+  "invalidConsentStatus": "That consent status isn’t valid.",
+  "invalidConsentType": "That consent type isn’t supported.",
+  "generic": "Something went wrong. Try again later.",
+
+  "photoCaptureError": "Couldn’t take the photo.",
+  "cameraMountError": "Camera Unavailable.",
+
+  "bothImagesRequired": "Please add both photos.",
+
+  "uploadFailed": "Couldn't upload photo. Please try again.",
+  "ocrFailed": "Couldn't read the photo. Please try again.",
+  "gptExtrFailed": "Couldn't recognize the product. Please try again.",
+
+  "missingIngredients": "No ingredients found. Let’s try again.",
+  "productNotDetected": "Product not recognized. Try another photo."
+}

@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "哎呀"
+  },
+  "errors": {
+    "generic": "出现问题。",
+    "deleteEntry": "无法删除条目。",
+    "updateFavorites": "无法更新收藏。",
+    "updateSkincare": "无法更新护肤状态。",
+    "saveProfileTitle": "无法保存更改",
+    "saveProfileBody": "请稍后再试。",
+    "unsupportedLink": "无法打开此链接。",
+    "openLinkUnsupported": "无法打开此链接。",
+    "openLink": "出现错误。"
+  },
+  "upload": {
+    "noImage": "没有提供图片。",
+    "consentRequired": "我们需要你的同意来处理照片。",
+    "failed": "上传失败。",
+    "network": "网络错误。请重试。"
+  },
+  "consentAlert": {
+    "title": "扫描已停用",
+    "body": "图像处理在你的设置中已关闭。开启后即可继续。",
+    "cancel": "取消",
+    "enable": "立即开启"
+  },
+  "timeAgo": {
+    "now": "刚刚",
+    "minutes_one": "{{count}} 分钟前",
+    "minutes_other": "{{count}} 分钟前",
+    "hours_one": "{{count}} 小时前",
+    "hours_other": "{{count}} 小时前",
+    "days_one": "{{count}} 天前",
+    "days_other": "{{count}} 天前",
+    "weeks_one": "{{count}} 周前",
+    "weeks_other": "{{count}} 周前",
+    "months_one": "{{count}} 个月前",
+    "months_other": "{{count}} 个月前",
+    "years_one": "{{count}} 年前",
+    "years_other": "{{count}} 年前"
+  },
+  "onboardingValidation": {
+    "noData": "未找到入门数据。",
+    "incomplete": "请完成所有必填入门字段：{{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/月",
+    "perYearSuffix": "/年"
+  },
+  "today": "今天",
+  "weekdays": {
+    "short": {
+      "mo": "周一",
+      "tu": "周二",
+      "we": "周三",
+      "th": "周四",
+      "fr": "周五",
+      "sa": "周六",
+      "su": "周日"
+    },
+    "superShort": {
+      "mo": "一",
+      "tu": "二",
+      "we": "三",
+      "th": "四",
+      "fr": "五",
+      "sa": "六",
+      "su": "日"
+    }
+  }
+}

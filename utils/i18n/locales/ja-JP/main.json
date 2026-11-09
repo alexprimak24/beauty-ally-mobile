@@ -1,0 +1,345 @@
+{
+  "favorites": {
+    "header": "お気に入り",
+    "loadingErr": "スキャンを読み込めませんでした。",
+    "searchPlaceholder": "お気に入りを入力…"
+  },
+  "history": {
+    "searchPlaceholder": "ここに商品名を入力…",
+    "loadingErr": "スキャンを読み込めませんでした。"
+  },
+  "mySkincare": {
+    "header": "マイスキンケア",
+    "searchPlaceholder": "スキンケアを入力…",
+    "loadingErr": "スキャンを読み込めませんでした。"
+  },
+  "home": {
+    "welcomeStart": "👋 ようこそ、",
+    "errorLoading": "スキャンを読み込めませんでした。",
+    "viewAll": "すべて表示",
+    "title": "知っていましたか？",
+    "facts": {
+      "list": [
+        "💧 スキンケアは清潔で少し湿った肌に。成分がなじみやすくなります。",
+        "🧪 一度に新製品を増やしすぎないほど、何が効いたか追跡しやすいです。",
+        "📅 継続がカギ — 多くのスキンケア結果は少なくとも4〜6週間かかります。",
+        "🚿 ぬるま湯で洗顔を。熱いお湯は乾燥や刺激の原因に。",
+        "🧴 保湿はスキップしないで — すべての肌タイプに潤いは必要です。",
+        "☀️ 毎朝日焼け止めを — 曇りでも忘れずに。",
+        "🔁 屋外では2時間ごとに日焼け止めを塗り直して — 一度だけでは不十分です。",
+        "⚠️ 有効成分を一度に多く使いすぎると肌に負担。シンプルに保ちましょう。",
+        "🌞 直射日光を避けて保管し、成分を守りましょう。",
+        "🪄 乾燥パッチには、軽い美容液を保湿の下に重ねてみて。",
+        "🌸 無香料の製品は敏感肌によりやさしいことが多いです。",
+        "🔥 ヒリつきや灼熱感は多くの場合“効いている”のではなく“刺激”。",
+        "📏 スキンケアは質感の薄いものから厚いものへ重ねましょう。",
+        "🧪 新製品は顔全体に使う前にパッチテストを。",
+        "🧼 10ステップは不要 — 自分に合う3〜4製品で十分。",
+        "🔁 強さより“続けること”。効果があるものを継続しましょう。",
+        "🧴 トナーは必須ではありません — 洗顔・治療・保湿・SPFに注力を。",
+        "🥄 スクラブより化学的角質ケアの方が穏やかな場合が多いです。",
+        "🚫 洗顔後に“つっぱる・キュッと鳴る”感じは強すぎのサイン。",
+        "💦 うるおった肌は落ち着いて健康的に見えます — 水分補給＆保湿を。",
+        "⏳ 新製品には時間を。結論を急がないで。",
+        "🧽 ダブル洗顔はメイクや日焼け止めを使ったときだけでOK。",
+        "🌿 やさしい“つっぱらない”洗顔料を。泡立ち＝優秀とは限りません。",
+        "🌱 エッセンシャルオイルは合わない人も — 特に敏感肌は注意。",
+        "🔒 最小限のルーティンは、荒れや刺激のリスクを減らします。",
+        "🧢 日焼け止めは髪の生え際や耳までしっかり。",
+        "🧖‍♀️ 首も忘れずに — 顔と同じように年齢サインが出ます。",
+        "🔬 ニキビは“汚れ”が原因とは限りません — 多くはホルモンや遺伝が関与します。",
+        "😌 効くために“何か感じる”必要はありません — ピリつきは不要です。",
+        "🌙 良い睡眠は新しい美容液に匹敵することも。",
+        "🛏️ 清潔な枕カバー・手・スマホ＝刺激の減少に。",
+        "📉 ピュージングは起こることがありますが、4〜6週間以上続くなら一度お休みを。",
+        "🧴 SPF30で十分 — 大事なのは“適量を毎日”使うこと。",
+        "🧬 スキンケアは個人差があります — 他人に効いたものが自分に合うとは限りません。",
+        "🔄 肌は季節・年齢・習慣で変化します — 肌の声に耳を傾けましょう。"
+      ]
+    },
+    "compliments": {
+      "list": [
+        "輝いてる",
+        "素敵",
+        "聡明",
+        "魅力的",
+        "優雅",
+        "つややか",
+        "壮麗",
+        "すばらしい",
+        "きらめく",
+        "エレガント",
+        "愛らしい",
+        "マジカル",
+        "眩しい",
+        "見事"
+      ]
+    }
+  },
+  "profile": {
+    "welcomeStart": "こんにちは、",
+    "signOutErr": "サインアウトできませんでした。もう一度お試しください。"
+  },
+  "notifications": {
+    "emptyTitle": "通知はまだありません",
+    "emptySubtitle": "プライバシー／利用規約の更新や大切なお知らせをここに表示します。",
+    "loadErr": "通知を読み込めませんでした",
+    "markReadErr": "既読にできませんでした"
+  },
+  "result": {
+    "verdict": {
+      "generally": {
+        "label": "全体的に相性◎"
+      },
+      "mightNotAlign": {
+        "label": "合わない可能性あり"
+      },
+      "lowMatch": {
+        "label": "相性低め"
+      }
+    },
+    "highlitedFactors": {
+      "hydration_fit": "保湿適合度",
+      "oil_control": "皮脂コントロール",
+      "skin_barrier_support": "肌バリアサポート",
+      "soothing_ingredients": "整肌成分",
+      "pore_clogging_risk": "毛穴詰まりリスク",
+      "fragrance_sensitivity_fit": "香料感受性",
+      "exfoliation_potential": "角質ケア強度",
+      "antioxidant_content": "抗酸化成分",
+      "sunscreen_layering": "日焼け止め相性",
+      "climate_compatibility": "気候適合度",
+      "lightweight_feel": "軽い使用感",
+      "fast_absorption": "吸収スピード",
+      "pore_safety_score": "毛穴の安全性",
+      "richness": "保湿リッチ度"
+    },
+    "breakoutRisk": {
+      "option0": "高め",
+      "option1": "可能性あり",
+      "option2": "低め"
+    },
+    "routineCompatibility": {
+      "option0": "やや不向き",
+      "option1": "相性良い",
+      "option2": "相性とても良い"
+    },
+    "bestTime": {
+      "morning": "朝",
+      "evening": "夜"
+    },
+    "frequency": {
+      "daily": "{{times}} <b>/</b> 日",
+      "weekly": "{{times}} <b>/</b> 週"
+    },
+    "staticText": {
+      "routineCompatibility": "スキンケア相性",
+      "breakoutRisk": "刺激 / 肌荒れリスク",
+      "bestTime": "おすすめ時間",
+      "frequency": "使用頻度",
+      "personalNote": "パーソナルコメント",
+      "usageTip": "使用アドバイス",
+      "addToSkincare": "ケアに追加",
+      "addedToSkincare": "追加済み"
+    }
+  },
+  "updateScanDetails": {
+    "headerTitle": "商品詳細",
+    "inputs": {
+      "nameLabel": "商品名",
+      "namePlaceholder": "商品名を入力",
+      "linkLabel": "商品リンク",
+      "linkPlaceholder": "https://..."
+    },
+    "modal": {
+      "title": "あなたのリンク",
+      "description": "リンクを保存して、いつでも商品に戻れます。このリンクはあなただけのものです。",
+      "button": "了解"
+    },
+    "buttons": {
+      "save": "保存"
+    },
+    "headerSchedule": "ルーティンスケジュール"
+  },
+  "scan": {
+    "permission": {
+      "title": "カメラへのアクセスが必要です",
+      "cta": "許可する"
+    },
+    "dropdown": {
+      "twoStepScan": "2ステップスキャン",
+      "fastStepScan": "高速スキャン",
+      "howTo": "使い方"
+    },
+    "badges": {
+      "freeLeft_one": "残り{{count}}回",
+      "freeLeft_other": "残り{{count}}回"
+    },
+    "steps": {
+      "front": "前面ラベルを撮影してください",
+      "back": "次に裏面（成分）を撮影してください",
+      "fast": "はっきり撮影してください"
+    },
+    "transitions": {
+      "frontCaptured": "🎉 表面を撮影しました！"
+    },
+    "alerts": {
+      "outOfFree": {
+        "title": "無料スキャンの上限に達しました",
+        "body": "無料スキャンをすべて使い切りました。続けるにはプレミアムへ。",
+        "goPremium": "プレミアムへ"
+      },
+      "re": {
+        "gallery": {
+          "main": "写真へのアクセスが必要です",
+          "sub": "ギャラリーからアップロードするには、Beauty Ally に写真へのアクセスを許可してください。設定で許可できます。",
+          "leftBtn": "キャンセル",
+          "rightBtn": "設定を開く"
+        },
+        "camera": {
+          "main": "カメラへのアクセスが必要です",
+          "sub": "写真を撮影するには、Beauty Ally にカメラへのアクセスを許可してください。設定で許可できます。",
+          "leftBtn": "キャンセル",
+          "rightBtn": "設定を開く"
+        }
+      },
+      "rateLimit": {
+        "title": "少し休みましょう",
+        "body": "一時的な上限に達しました。しばらくしてからお試しください。"
+      },
+      "upload": {
+        "title": "アップロードに失敗しました",
+        "galleryErrorTitle": "エラー",
+        "galleryErrorBody": "ギャラリーからの選択中に問題が発生しました。",
+        "genericBody": "写真のアップロード中に問題が発生しました。"
+      },
+      "ok": "OK"
+    },
+    "disclaimerPill": "AI生成・医療アドバイスではありません"
+  },
+  "edit": {
+    "updateOkTitle": "保存しました",
+    "updateErrTitle": "不明なエラーが発生しました…",
+    "activeTreatments": {
+      "updateOkBody": "有効成分の使用状況を更新しました",
+      "updateErrBody": "有効成分の更新に失敗しました"
+    },
+    "allergies": {
+      "updateOkBody": "選択した肌項目を更新しました",
+      "updateErrBody": "選択した肌項目を更新できませんでした"
+    },
+    "climate": {
+      "updateOkBody": "気候を更新しました",
+      "updateErrBody": "現在の気候を更新できませんでした"
+    },
+    "gender": {
+      "updateOkBody": "性別を更新しました",
+      "updateErrBody": "性別情報を更新できませんでした"
+    },
+    "skinConcerns": {
+      "updateOkBody": "選択した肌項目を更新しました",
+      "updateErrBody": "選択した肌項目を更新できませんでした"
+    },
+    "skinType": {
+      "updateOkBody": "肌質を更新しました",
+      "updateErrBody": "肌質を更新できませんでした"
+    },
+    "sunscreen": {
+      "updateOkBody": "日焼け止めの使用状況を更新しました",
+      "updateErrBody": "日焼け止めの使用状況を更新できませんでした"
+    },
+    "language": {
+      "updateOkBody": "言語を更新しました",
+      "updateErrBody": "言語を更新できませんでした"
+    }
+  },
+  "mySkincareShelf": {
+    "header": {
+      "morningRoutine": "朝のルーティン",
+      "eveningRoutine": "夜のルーティン"
+    },
+    "fastActions": {
+      "title": "クイック操作",
+      "editOrder": "順番を変更",
+      "morning": "朝",
+      "evening": "夜",
+      "completeFullDay": "1日分をまとめて記録"
+    },
+    "frequency": {
+      "daily": "毎日",
+      "specificDays": "特定の日"
+    },
+    "alerts": {
+      "completeMorningTitle": "朝の製品をすべて記録",
+      "completeEveningTitle": "夜の製品をすべて記録",
+      "completeMorningDescription": "完了するには円を長押ししてください",
+      "completeEveningDescription": "完了するには円を長押ししてください",
+      "removeRoutineEntryTitle": "ルーティンから削除しますか？",
+      "removeRoutineEntryDescription": "この項目をルーティンから削除します。",
+      "removeRoutineEntryMultiTitle": "ルーティンから削除しますか？",
+      "removeRoutineEntryMultiDescription": "この製品は別のルーティンにも入っています。どれを削除しますか？",
+      "removeThisEntry": "{{routine}}のみ削除",
+      "removeEverywhere": "すべてから削除",
+      "cancel": "キャンセル",
+      "confirm": "確認"
+    },
+    "toasts": {
+      "morningLogged": "お肌は今日を迎える準備ができています",
+      "eveningLogged": "心地よい夜の準備が整いました",
+      "dayPassed": "その日はすでに過ぎています",
+      "dayNotArrived": "その日はまだ来ていません",
+      "markedApplied": "理想のツヤにまた一歩近づきました",
+      "markedNotApplied": "完了しました、未使用として記録しました",
+      "toggleFailed": "うまくいきませんでした。もう一度お試しください",
+      "removedFromRoutine": "リストから削除しました",
+      "favoritesUpdated": "お気に入りに保存しました"
+    },
+    "guides": {
+      "dateTitle": "今日から離れましたか？",
+      "dateDescription": "日付をタップすると、すぐ今日に戻れます。",
+      "dateButton": "了解",
+      "swipeTitle": "クイック記録",
+      "swipeDescription": "右にスワイプして、使用済みとして記録しましょう。",
+      "swipeButton": "いいですね"
+    },
+    "notifications": {
+      "title": "スキンケアのリマインダー",
+      "dayBody": "今日はもうお肌のケアをしましたか？",
+      "eveningBody": "夜のスキンケアルーティンをお忘れなく。"
+    },
+    "menu": {
+      "morningRoutine": "朝のルーティン",
+      "eveningRoutine": "夜のルーティン",
+      "viewProductDetails": "商品詳細を見る",
+      "editEntry": "項目を編集",
+      "reorderSequence": "ルーティンを並べ替え",
+      "removeFromRoutine": "ルーティンから削除"
+    },
+    "fullDay": {
+      "title": "1日分をまとめて記録",
+      "description": "完了するには円を長押ししてください"
+    }
+  },
+  "addToRoutine": {
+    "headerTitle": "ルーティンに追加",
+    "searchPlaceholder": "シェルフを検索...",
+    "loadingError": "商品を読み込めませんでした。"
+  },
+  "reorderRoutine": {
+    "headerTitle": "ルーティンを並べ替え",
+    "segmented": {
+      "morning": "朝",
+      "evening": "夜"
+    },
+    "sectionHeader": {
+      "morningRoutine": "朝のルーティン",
+      "eveningRoutine": "夜のルーティン"
+    },
+    "empty": {
+      "noEntries": "このルーティンにはまだ項目がありません。"
+    },
+    "errors": {
+      "saveFailed": "新しい順番を保存できませんでした。"
+    }
+  }
+}

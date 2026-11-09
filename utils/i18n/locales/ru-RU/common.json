@@ -1,0 +1,84 @@
+{
+  "alerts": {
+    "oops": "Упс"
+  },
+  "errors": {
+    "generic": "Что-то пошло не так.",
+    "deleteEntry": "Не удалось удалить запись.",
+    "updateFavorites": "Не удалось обновить избранное.",
+    "updateSkincare": "Не удалось обновить статус в уходе.",
+    "saveProfileTitle": "Не удалось сохранить изменения",
+    "saveProfileBody": "Пожалуйста, попробуйте ещё раз чуть позже.",
+    "unsupportedLink": "Не удалось открыть ссылку.",
+    "openLinkUnsupported": "Не удалось открыть эту ссылку.",
+    "openLink": "Произошла ошибка."
+  },
+  "upload": {
+    "noImage": "Изображение не выбрано.",
+    "consentRequired": "Нужно ваше согласие на обработку фото.",
+    "failed": "Загрузка не удалась.",
+    "network": "Ошибка сети. Пожалуйста, попробуйте ещё раз."
+  },
+  "consentAlert": {
+    "title": "Сканирование отключено",
+    "body": "Обработка изображений выключена в настройках. Включите её, чтобы продолжить.",
+    "cancel": "Отмена",
+    "enable": "Включить"
+  },
+  "timeAgo": {
+    "now": "Только что",
+    "minutes_one": "{{count}} минуту назад",
+    "minutes_few": "{{count}} минуты назад",
+    "minutes_many": "{{count}} минут назад",
+    "minutes_other": "{{count}} минут назад",
+    "hours_one": "{{count}} час назад",
+    "hours_few": "{{count}} часа назад",
+    "hours_many": "{{count}} часов назад",
+    "hours_other": "{{count}} часов назад",
+    "days_one": "{{count}} день назад",
+    "days_few": "{{count}} дня назад",
+    "days_many": "{{count}} дней назад",
+    "days_other": "{{count}} дней назад",
+    "weeks_one": "{{count}} неделю назад",
+    "weeks_few": "{{count}} недели назад",
+    "weeks_many": "{{count}} недель назад",
+    "weeks_other": "{{count}} недель назад",
+    "months_one": "{{count}} месяц назад",
+    "months_few": "{{count}} месяца назад",
+    "months_many": "{{count}} месяцев назад",
+    "months_other": "{{count}} месяцев назад",
+    "years_one": "{{count}} год назад",
+    "years_few": "{{count}} года назад",
+    "years_many": "{{count}} лет назад",
+    "years_other": "{{count}} лет назад"
+  },
+  "onboardingValidation": {
+    "noData": "Данные онбординга не найдены.",
+    "incomplete": "Пожалуйста, заполните обязательные поля: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/мес",
+    "perYearSuffix": "/год"
+  },
+  "today": "Сегодня",
+  "weekdays": {
+    "short": {
+      "mo": "Пн",
+      "tu": "Вт",
+      "we": "Ср",
+      "th": "Чт",
+      "fr": "Пт",
+      "sa": "Сб",
+      "su": "Вс"
+    },
+    "superShort": {
+      "mo": "Пн",
+      "tu": "Вт",
+      "we": "Ср",
+      "th": "Чт",
+      "fr": "Пт",
+      "sa": "Сб",
+      "su": "Вс"
+    }
+  }
+}

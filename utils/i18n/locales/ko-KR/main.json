@@ -1,0 +1,345 @@
+{
+  "favorites": {
+    "header": "즐겨찾기",
+    "loadingErr": "스캔을 불러올 수 없습니다.",
+    "searchPlaceholder": "즐겨찾기를 입력하세요..."
+  },
+  "history": {
+    "searchPlaceholder": "여기에 제품을 입력하세요...",
+    "loadingErr": "스캔을 불러올 수 없습니다."
+  },
+  "mySkincare": {
+    "header": "내 스킨케어",
+    "searchPlaceholder": "내 스킨케어를 입력하세요...",
+    "loadingErr": "스캔을 불러올 수 없습니다."
+  },
+  "home": {
+    "welcomeStart": "👋 환영합니다,",
+    "errorLoading": "스캔을 불러올 수 없습니다.",
+    "viewAll": "모두 보기",
+    "title": "알고 계셨나요?",
+    "facts": {
+      "list": [
+        "💧 스킨케어는 깨끗하고 약간 젖은 피부에 바르면 흡수가 더 잘 돼요.",
+        "🧪 한 번에 새 제품을 적게 쓸수록 무엇이 효과 있는지 파악하기 쉬워요.",
+        "📅 꾸준함이 중요해요 — 대부분의 스킨케어 효과는 최소 4–6주가 걸립니다.",
+        "🚿 미온수로 세안하세요 — 너무 뜨거운 물은 피부를 건조하게 하고 자극을 줄 수 있어요.",
+        "🧴 보습제는 꼭 사용하세요 — 모든 피부 타입에 수분이 필요해요.",
+        "☀️ 매일 아침 선크림을 바르세요 — 흐린 날에도요.",
+        "🔁 야외에 있다면 2시간마다 선크림을 덧발라 주세요 — 한 번만으로는 부족해요.",
+        "⚠️ 활성 성분을 한꺼번에 너무 많이 쓰면 피부가 부담스러울 수 있어요. 간단하게 유지하세요.",
+        "🌞 제품은 직사광선을 피해서 보관해 성분을 보호하세요.",
+        "🪄 건조한 부위가 있나요? 보습제 전에 가벼운 세럼을 한 겹 레이어링해 보세요.",
+        "🌸 무향 제품이 민감성 피부에 더 순한 경우가 많아요.",
+        "🔥 따갑거나 화끈거림은 보통 ‘효과’가 아니라 ‘자극’의 신호예요.",
+        "📏 스킨케어는 질감이 얇은 것부터 두꺼운 순서로 바르세요.",
+        "🧪 새 제품은 얼굴 전체에 사용하기 전에 패치 테스트를 하세요.",
+        "🧼 10단계 루틴은 필요 없어요 — 나에게 맞는 3–4가지면 충분해요.",
+        "🔁 강도보다 꾸준함 — 효과 있는 루틴을 지속하세요.",
+        "🧴 토너는 선택 사항이에요 — 클렌저, 케어 제품, 보습, SPF에 집중하세요.",
+        "🥄 스크럽보다 화학적 각질 제거제가 더 순한 경우가 많아요.",
+        "🚫 세안 후 피부가 당기고 뽀득거리면 너무 자극적인 거예요.",
+        "💦 수분 충전된 피부는 더 차분하고 건강해 보입니다 — 물을 마시고 보습하세요.",
+        "⏳ 새 제품에 시간을 주세요 — 너무 일찍 판단하지 마세요.",
+        "🧽 더블 클렌징은 메이크업이나 선크림을 사용했을 때만 필요해요.",
+        "🌿 순하고 당김 없는 클렌저를 사용하세요 — 거품이 많다고 더 좋은 건 아니에요.",
+        "🌱 에센셜 오일은 특히 민감성 피부에 맞지 않을 수 있어요.",
+        "🔒 미니멀 루틴은 트러블과 자극의 위험을 줄여줘요.",
+        "🧢 선크림은 헤어라인과 귀까지 꼼꼼히 바르세요.",
+        "🧖‍♀️ 목도 잊지 마세요 — 얼굴과 마찬가지로 나이가 드는 부위예요.",
+        "🔬 여드름은 ‘지저분함’ 때문만이 아니에요 — 호르몬이나 유전과도 관련이 많아요.",
+        "😌 제품이 효과를 내려면 꼭 느낌이 있어야 하는 건 아니에요 — 따가움은 필수 아님.",
+        "🌙 좋은 수면은 새 세럼만큼 피부에 도움이 돼요.",
+        "🛏️ 깨끗한 베개 커버, 손, 휴대폰 = 자극 감소.",
+        "📉 스킨 퍼지(초기 트러블)는 있을 수 있어요 — 4–6주 이상 지속되면 중단을 고려하세요.",
+        "🧴 SPF 30이면 충분해요 — 중요한 건 매일, 적정량을 바르는 거예요.",
+        "🧬 스킨케어는 개인적이에요 — 남에게 맞는 것이 내게는 맞지 않을 수 있어요.",
+        "🔄 피부는 계절, 나이, 습관에 따라 변해요 — 피부의 신호를 들어보세요."
+      ]
+    },
+    "compliments": {
+      "list": [
+        "빛나는",
+        "사랑스러운",
+        "영롱한",
+        "매력적인",
+        "우아한",
+        "광채 나는",
+        "감탄스러운",
+        "멋진",
+        "환한",
+        "엘레강스한",
+        "기분 좋게 만드는",
+        "마법 같은",
+        "눈부신",
+        "압도적으로 아름다운"
+      ]
+    }
+  },
+  "profile": {
+    "welcomeStart": "안녕하세요,",
+    "signOutErr": "로그아웃할 수 없습니다. 다시 시도해 주세요."
+  },
+  "notifications": {
+    "emptyTitle": "아직 알림이 없어요",
+    "emptySubtitle": "개인정보/이용약관 업데이트나 중요한 공지를 여기에 안내해 드려요.",
+    "loadErr": "알림을 불러오지 못했어요",
+    "markReadErr": "읽음 표시에 실패했어요"
+  },
+  "result": {
+    "verdict": {
+      "generally": {
+        "label": "전반적으로 잘 맞아요"
+      },
+      "mightNotAlign": {
+        "label": "잘 안 맞을 수 있어요"
+      },
+      "lowMatch": {
+        "label": "매칭도 낮음"
+      }
+    },
+    "highlitedFactors": {
+      "hydration_fit": "보습 적합도",
+      "oil_control": "유분 조절",
+      "skin_barrier_support": "피부 보호 지원",
+      "soothing_ingredients": "진정 성분",
+      "pore_clogging_risk": "모공 막힘 위험",
+      "fragrance_sensitivity_fit": "향료 민감도",
+      "exfoliation_potential": "각질 제거 강도",
+      "antioxidant_content": "항산화 성분",
+      "sunscreen_layering": "선크림 궁합",
+      "climate_compatibility": "기후 적합도",
+      "lightweight_feel": "가벼운 사용감",
+      "fast_absorption": "빠른 흡수",
+      "pore_safety_score": "모공 안전도",
+      "richness": "영양감"
+    },
+    "breakoutRisk": {
+      "option0": "높음",
+      "option1": "가능성 있음",
+      "option2": "낮음"
+    },
+    "routineCompatibility": {
+      "option0": "잘 안 맞음",
+      "option1": "잘 맞음",
+      "option2": "매우 잘 맞음"
+    },
+    "bestTime": {
+      "morning": "아침",
+      "evening": "저녁"
+    },
+    "frequency": {
+      "daily": "{{times}} <b>/</b> 일",
+      "weekly": "{{times}} <b>/</b> 주"
+    },
+    "staticText": {
+      "routineCompatibility": "루틴 궁합",
+      "breakoutRisk": "자극 / 트러블 위험",
+      "bestTime": "사용 추천 시간",
+      "frequency": "사용 빈도",
+      "personalNote": "개인 맞춤 코멘트",
+      "usageTip": "사용 팁",
+      "addToSkincare": "루틴에 추가",
+      "addedToSkincare": "추가됨"
+    }
+  },
+  "updateScanDetails": {
+    "headerTitle": "제품 정보",
+    "inputs": {
+      "nameLabel": "제품 이름",
+      "namePlaceholder": "제품 이름 입력",
+      "linkLabel": "제품 링크",
+      "linkPlaceholder": "https://..."
+    },
+    "modal": {
+      "title": "내 링크",
+      "description": "링크를 저장해 두면 언제든 이 제품으로 돌아올 수 있어요. 이 링크는 나만 볼 수 있어요.",
+      "button": "확인"
+    },
+    "buttons": {
+      "save": "저장"
+    },
+    "headerSchedule": "루틴 일정"
+  },
+  "scan": {
+    "permission": {
+      "title": "카메라 접근 권한이 필요합니다",
+      "cta": "권한 허용"
+    },
+    "dropdown": {
+      "twoStepScan": "2단계 스캔",
+      "fastStepScan": "빠른 스캔",
+      "howTo": "사용 방법"
+    },
+    "badges": {
+      "freeLeft_one": "{{count}}회 남음",
+      "freeLeft_other": "{{count}}회 남음"
+    },
+    "steps": {
+      "front": "앞면 라벨을 촬영해 주세요",
+      "back": "이제 뒷면(성분)",
+      "fast": "제품을 선명하게 촬영해 주세요"
+    },
+    "transitions": {
+      "frontCaptured": "🎉 앞면 촬영 완료!"
+    },
+    "alerts": {
+      "outOfFree": {
+        "title": "무료 스캔을 모두 사용했어요",
+        "body": "무료 스캔을 모두 사용했습니다. 계속하려면 프리미엄을 이용해 보세요.",
+        "goPremium": "프리미엄으로 이동"
+      },
+      "re": {
+        "gallery": {
+          "main": "사진 접근 권한이 필요합니다",
+          "sub": "갤러리에서 업로드하려면 Beauty Ally가 사진에 접근할 수 있어야 합니다. 설정에서 허용할 수 있습니다.",
+          "leftBtn": "취소",
+          "rightBtn": "설정 열기"
+        },
+        "camera": {
+          "main": "카메라 접근 권한이 필요합니다",
+          "sub": "사진을 촬영하려면 Beauty Ally의 카메라 접근을 허용해 주세요. 설정에서 허용할 수 있습니다.",
+          "leftBtn": "취소",
+          "rightBtn": "설정 열기"
+        }
+      },
+      "rateLimit": {
+        "title": "잠시만요",
+        "body": "일시적인 제한에 도달했어요. 잠시 후 다시 시도해 주세요."
+      },
+      "upload": {
+        "title": "업로드 실패",
+        "galleryErrorTitle": "오류",
+        "galleryErrorBody": "갤러리에서 선택 중 문제가 발생했어요.",
+        "genericBody": "사진 업로드 중 문제가 발생했어요."
+      },
+      "ok": "확인"
+    },
+    "disclaimerPill": "AI 생성 · 의학적 조언 아님"
+  },
+  "edit": {
+    "updateOkTitle": "저장됨",
+    "updateErrTitle": "알 수 없는 오류가 발생했어요…",
+    "activeTreatments": {
+      "updateOkBody": "유효성분 사용 이력이 업데이트되었어요",
+      "updateErrBody": "유효성분 사용 이력을 업데이트하지 못했어요"
+    },
+    "allergies": {
+      "updateOkBody": "선택한 피부 항목이 업데이트되었어요",
+      "updateErrBody": "선택한 피부 항목을 업데이트하지 못했어요"
+    },
+    "climate": {
+      "updateOkBody": "기후 정보가 업데이트되었어요",
+      "updateErrBody": "현재 기후 정보를 업데이트하지 못했어요"
+    },
+    "gender": {
+      "updateOkBody": "성별 정보가 업데이트되었어요",
+      "updateErrBody": "성별 정보를 업데이트하지 못했어요"
+    },
+    "skinConcerns": {
+      "updateOkBody": "선택한 피부 항목이 업데이트되었어요",
+      "updateErrBody": "선택한 피부 항목을 업데이트하지 못했어요"
+    },
+    "skinType": {
+      "updateOkBody": "피부 타입이 업데이트되었어요",
+      "updateErrBody": "피부 타입을 업데이트하지 못했어요"
+    },
+    "sunscreen": {
+      "updateOkBody": "선크림 사용 정보가 업데이트되었어요",
+      "updateErrBody": "선크림 사용 정보를 업데이트하지 못했어요"
+    },
+    "language": {
+      "updateOkBody": "언어가 업데이트되었어요",
+      "updateErrBody": "언어를 업데이트하지 못했어요"
+    }
+  },
+  "mySkincareShelf": {
+    "header": {
+      "morningRoutine": "아침 루틴",
+      "eveningRoutine": "저녁 루틴"
+    },
+    "fastActions": {
+      "title": "빠른 동작",
+      "editOrder": "순서 수정",
+      "morning": "아침",
+      "evening": "저녁",
+      "completeFullDay": "하루 전체 표시"
+    },
+    "frequency": {
+      "daily": "매일",
+      "specificDays": "특정 요일"
+    },
+    "alerts": {
+      "completeMorningTitle": "아침 제품 모두 표시",
+      "completeEveningTitle": "저녁 제품 모두 표시",
+      "completeMorningDescription": "완료하려면 원을 길게 누르세요",
+      "completeEveningDescription": "완료하려면 원을 길게 누르세요",
+      "removeRoutineEntryTitle": "루틴에서 제거할까요?",
+      "removeRoutineEntryDescription": "이 항목이 루틴에서 제거됩니다.",
+      "removeRoutineEntryMultiTitle": "루틴에서 제거할까요?",
+      "removeRoutineEntryMultiDescription": "이 제품은 다른 루틴에도 있어요. 무엇을 제거할까요?",
+      "removeThisEntry": "{{routine}}만 제거",
+      "removeEverywhere": "모두 제거",
+      "cancel": "취소",
+      "confirm": "확인"
+    },
+    "toasts": {
+      "morningLogged": "피부가 하루를 맞이할 준비를 마쳤어요",
+      "eveningLogged": "편안한 밤을 위한 준비가 끝났어요",
+      "dayPassed": "그날은 이미 지나갔어요",
+      "dayNotArrived": "그날은 아직 오지 않았어요",
+      "markedApplied": "당신의 glow에 한 걸음 더 가까워졌어요",
+      "markedNotApplied": "완료됐어요, 미사용으로 표시했어요",
+      "toggleFailed": "조금 문제가 있었어요. 다시 시도해 볼게요",
+      "removedFromRoutine": "목록에서 삭제했어요",
+      "favoritesUpdated": "즐겨찾기에 저장했어요"
+    },
+    "guides": {
+      "dateTitle": "오늘에서 벗어났나요?",
+      "dateDescription": "날짜를 탭하면 바로 오늘로 돌아갈 수 있어요.",
+      "dateButton": "알겠어요",
+      "swipeTitle": "빠른 적용",
+      "swipeDescription": "항목을 오른쪽으로 밀어 사용함으로 표시하세요!",
+      "swipeButton": "좋아요"
+    },
+    "notifications": {
+      "title": "스킨케어 알림",
+      "dayBody": "오늘 피부 관리는 하셨나요?",
+      "eveningBody": "저녁 스킨케어 루틴을 잊지 마세요."
+    },
+    "menu": {
+      "morningRoutine": "아침 루틴",
+      "eveningRoutine": "저녁 루틴",
+      "viewProductDetails": "제품 정보 보기",
+      "editEntry": "항목 수정",
+      "reorderSequence": "루틴 순서 변경",
+      "removeFromRoutine": "루틴에서 제거"
+    },
+    "fullDay": {
+      "title": "하루 전체 표시",
+      "description": "완료하려면 원을 길게 누르세요"
+    }
+  },
+  "addToRoutine": {
+    "headerTitle": "루틴에 추가",
+    "searchPlaceholder": "내 선반 검색...",
+    "loadingError": "제품을 불러오지 못했어요."
+  },
+  "reorderRoutine": {
+    "headerTitle": "루틴 순서 변경",
+    "segmented": {
+      "morning": "아침",
+      "evening": "저녁"
+    },
+    "sectionHeader": {
+      "morningRoutine": "아침 루틴",
+      "eveningRoutine": "저녁 루틴"
+    },
+    "empty": {
+      "noEntries": "이 루틴에는 아직 항목이 없어요."
+    },
+    "errors": {
+      "saveFailed": "새 순서를 저장하지 못했어요."
+    }
+  }
+}

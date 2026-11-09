@@ -1,0 +1,32 @@
+{
+  "required": "Este campo não pode ficar em branco.",
+  "invalidJson": "Algo não foi processado corretamente. Vamos tentar de novo.",
+  "unauthorized": "Sua sessão foi encerrada. Faça login para continuar.",
+  "internalError": "Algo deu errado do nosso lado. Tente novamente em instantes.",
+  "validationFailed": "Alguns detalhes parecem incorretos. Confira e tente de novo.",
+  "notFound": "Não encontramos o que você procura.",
+  "fileTooBig": "Esse arquivo parece grande demais. Tente um menor.",
+  "unsupportedMediaType": "Esse tipo de arquivo não é compatível.",
+  "invalidParam": "Algumas informações parecem incorretas. Revise e tente novamente.",
+  "freeAlreadyActivated": "As verificações gratuitas já estão em uso.",
+  "subscriptionRequired": "Você precisa de uma assinatura para continuar.",
+  "badRequest": "Sua solicitação parecia incorreta.",
+  "rateLimited": "Você está um pouquinho rápido. Tente de novo em breve.",
+  "fairUseRestricted": "Você atingiu o limite de uso atual. Tente mais tarde.",
+  "consentRequired": "Revise e aceite primeiro os consentimentos exigidos.",
+  "invalidConsentStatus": "Esse status de consentimento é inválido.",
+  "invalidConsentType": "Esse tipo de consentimento não é compatível.",
+  "generic": "Algo deu errado. Tente novamente mais tarde.",
+
+  "photoCaptureError": "Não foi possível tirar a foto",
+  "cameraMountError": "Câmera indisponível",
+
+  "bothImagesRequired": "Adicione as duas fotos.",
+
+  "uploadFailed": "Não foi possível enviar a foto. Tente novamente.",
+  "ocrFailed": "Não foi possível ler a foto. Tente novamente.",
+  "gptExtrFailed": "Não foi possível reconhecer o produto. Tente novamente.",
+
+  "missingIngredients": "Ingredientes não encontrados. Vamos tentar novamente.",
+  "productNotDetected": "Produto não reconhecido. Tente outra foto."
+}

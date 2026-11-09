@@ -1,0 +1,276 @@
+{
+  "welcome": {
+    "intro": "Discover your cosmetic fit",
+    "noAccMsg": "Please complete the onboarding process first",
+    "signInMsg": "Already have an account?<strong> Sign in</strong> ",
+    "action": "Get Started"
+  },
+  "gender": {
+    "title": "What is your gender?",
+    "subtitle": "This helps us tailor your experience a little more thoughtfully.",
+
+    "male": { "label": "Male" },
+    "female": { "label": "Female" },
+    "nonBinary": { "label": "Non-binary" },
+    "preferNot": { "label": "Prefer not to say" }
+  },
+
+  "weather": {
+    "title": "What’s the climate like where you live?",
+    "subtitle": "Climate may affect how products feel and absorb.",
+
+    "coolDry": { "label": "Cool & Dry" },
+    "coolHumid": { "label": "Cool & Humid" },
+    "mildDry": { "label": "Mild & Dry" },
+    "warmHumid": { "label": "Warm & Humid" },
+    "hotDry": { "label": "Hot & Dry" },
+    "hotHumid": { "label": "Hot & Humid" },
+    "highUVYearRound": { "label": "High UV Year-Round" }
+  },
+
+  "skinType": {
+    "title": "How would you describe your skin?",
+    "subtitle": "Choose the option that feels closest to how your skin is most of the time.",
+
+    "normal": { "label": "Normal", "explanation": "" },
+    "dry": { "label": "Dry", "explanation": "" },
+    "oily": { "label": "Oily", "explanation": "" },
+    "sensitive": { "label": "Sensitive", "explanation": "" },
+    "combination": {
+      "label": "Combination",
+      "explanation": "(both oily and dry areas on the face)"
+    }
+  },
+
+  "skinConcerns": {
+    "title": "What are your main skin concerns?",
+    "subtitle": "Pick what matters most to you so we can personalize your results.",
+
+    "breakouts": { "label": "Breakouts" },
+    "rednessSensitivity": { "label": "Redness or sensitivity" },
+    "cloggedPores": { "label": "Clogged pores or blackheads" },
+    "hyperpigmentation": { "label": "Dark spots or uneven tone" },
+    "dryness": { "label": "Dryness or dehydration" },
+    "wrinkles": { "label": "Fine lines or wrinkles" },
+    "unevenTexture": { "label": "Uneven texture or dullness" },
+    "largePores": { "label": "Visible pores" },
+    "oilyShine": { "label": "Excess shine" },
+    "none": { "label": "None right now" }
+  },
+
+  "allergies": {
+    "title": "Any ingredients your skin doesn’t get along with?",
+    "subtitle": "We’ll use this to help flag ingredients that may not be the best fit for you.",
+
+    "alcohol": {
+      "label": "Alcohol",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "Fragrance",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "Essential Oils",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "Lanolin",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "Coconut Oil Derivatives",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "Dyes",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "Mica",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "None",
+      "examples": ""
+    }
+  },
+
+  "currentTreatment": {
+    "title": "Do you currently use any of these skincare treatments?",
+    "subtitle": "This helps us understand what’s already in your routine.",
+
+    "retinol": { "label": "Retinol or retinoids", "explanation": "" },
+    "vitaminC": { "label": "Vitamin C", "explanation": "" },
+    "ahaBha": { "label": "AHAs / BHAs", "explanation": "(glycolic / salicylic / lactic acid)" },
+    "benzoyl": { "label": "Benzoyl peroxide", "explanation": "" },
+    "niacinamide": { "label": "Niacinamide", "explanation": "" },
+    "prescriptionCreams": { "label": "Prescription creams or gels", "explanation": "" },
+    "strongAcne": { "label": "Oral acne medications", "explanation": "" },
+    "no": { "label": "None right now", "explanation": "" }
+  },
+
+  "sunscreenUsage": {
+    "title": "How often do you use sunscreen?",
+    "subtitle": "Climate can shape how your skin feels.",
+
+    "never": { "label": "Never" },
+    "occasionally": { "label": "Occasionally" },
+    "sometimes": { "label": "Sometimes" },
+    "almostDaily": { "label": "Almost Daily" },
+    "daily": { "label": "Daily" }
+  },
+
+  "summary": {
+    "title": "We’re personalizing your experience with skin data",
+    "steps": {
+      "step1": "Preparing your preferences",
+      "step2": "Getting ingredient checks ready",
+      "step3": "Accounting for your sensitivity choices",
+      "step4": "Configuring match criteria",
+      "step5": "Finalizing setup"
+    }
+  },
+  "congratulations": {
+    "title": "Congratulations, your<br/>skin profile is all set!",
+    "subtitle": "We use your skin profile and product photos to check ingredient lists and show fit hints.",
+    "disclamer": "AI-generated info only. Not medical advice. Not a medical device.",
+    "termsPriv": "I agree to the <strong>Terms of Use</strong> and <highlight>Privacy Policy</highlight>",
+    "processConsent": "I consent to Beauty Ally processing <strong>my skin profile</strong> and <highlight>product photos </highlight> to provide ingredient-list checks and general suitability signals. I can withdraw consent anytime in Profile.",
+    "termsRaw": "I agree to the Terms of Use and Privacy Policy.",
+    "healthRaw": "I consent to Beauty Ally processing my skin profile and photos to provide ingredient analysis and suitability results. I can withdraw consent anytime in Settings.",
+    "learnMsg": "Learn more about how we use your data",
+    "ageConsent": "By continuing, you confirm you’re at least 18 (or the age of majority in your country).",
+    "modal": {
+      "title": "How we use your data",
+      "explanation": "• Used only to provide the core features (ingredient analysis and suitability results)<br/>• Not sold or used for targeted ads<br/>• Stored in private cloud storage with per-user access controls<br/>• You can delete data or withdraw consent in Profile → Delete Account & Data"
+    }
+  },
+  "createAccount": {
+    "title": "Create your account",
+    "subtitle": "Save your progress and secure your account.",
+    "terms": "Your skin data is encrypted and private. We only use it to personalize your routine."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "Choose Your Plan",
+      "subtitle": "Personalized scans · smarter choices"
+    },
+    "loading": {
+      "default": {
+        "message": "Processing...",
+        "subMessage": "Just a moment"
+      },
+      "purchasing": {
+        "message": "Confirming Subscription...",
+        "subMessage": "Securing your Pro access"
+      },
+      "switching": {
+        "message": "Updating Your Plan...",
+        "subMessage": "Applying changes to your account"
+      },
+      "restoring": {
+        "message": "Restoring Purchases...",
+        "subMessage": "Checking for active subscriptions"
+      },
+      "freeScans": {
+        "message": "Unlocking Free Scans...",
+        "subMessage": "Get ready to glow!"
+      },
+      "loadingPaywall": {
+        "message": "Loading Experience...",
+        "subMessage": "Preparing the best options for you"
+      },
+      "packages": "Loading packages…"
+    },
+    "plans": {
+      "yearly": "Yearly",
+      "monthly": "Monthly",
+      "yearlyPlan": "Yearly Plan",
+      "monthlyPlan": "Monthly Plan",
+      "yearlyUpper": "YEARLY PLAN",
+      "monthlyUpper": "MONTHLY PLAN"
+    },
+    "freeScans": {
+      "used": "Free scans already used",
+      "offer": "Not sure? Get 5 free scans",
+      "claim": "Claim 5 Free Scans",
+      "noCard": "No credit card required."
+    },
+    "banner": {
+      "special": "SPECIAL PRICE"
+    },
+    "card": {
+      "currentBadge": "CURRENT PLAN",
+      "cancelAnytime": "Cancel anytime",
+      "firstYear": "First year",
+      "firstMonth": "First month",
+      "then": "then"
+    },
+    "benefits": {
+      "unlimited": "Unlimited Scans",
+      "advanced": "Deeper Analysis & Insights",
+      "bestValue": "Best Choice"
+    },
+    "cta": {
+      "active": "Active",
+      "switchTo": "Switch to",
+      "continue": "Continue",
+      "noCommit": "No commitment. Cancel anytime."
+    },
+    "footer": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "restore": "Restore"
+    },
+    "toast": {
+      "switchYearly": "Switched to Yearly",
+      "switchMonthly": "Switched to Monthly",
+      "premiumUn": "Premium unlocked",
+      "restored": "Purchases restored",
+      "restoreErr": "Restore failed. Try again.",
+      "freeActivated": "Free scans activated",
+      "freeAlready": "Free scans already set"
+    },
+    "subscribed": {
+      "title": "You are Pro!",
+      "subtitle": "Your subscription is active. Enjoy unlimited scans and deeper analysis.",
+      "currentPlanLabel": "Current Plan",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(Yearly)",
+      "monthSuffix": "(Monthly)",
+      "fallback": "Premium",
+      "goHome": "Go to Home",
+      "manage": "Manage Subscription"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "You’re all set",
+    "subtitle": "Your subscription is activated. Enjoy the experience.",
+    "receipt": {
+      "statusLabel": "Status",
+      "statusActive": "Active",
+      "statusPending": "Pending",
+      "subscriptionLabel": "Subscription",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Premium Access"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "Error while adding your consents. Please try again",
+    "needConsent": "Please accept Terms & Privacy first.",
+    "signupErr": "Could not create the account. Please try again."
+  },
+  "actions": {
+    "continue": "Continue",
+    "update": "Update",
+    "close": "Close",
+    "celebration": "Start Exploring"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "Package not available",
+      "purchaseFailed": "Purchase failed"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "required": "Tego pola nie można pozostawić pustego.",
+  "invalidJson": "Coś nie przeszło poprawnie. Spróbujmy jeszcze raz.",
+  "unauthorized": "Twoja sesja dobiegła końca. Zaloguj się, aby kontynuować.",
+  "internalError": "Wystąpił błąd po naszej stronie. Spróbuj za chwilę.",
+  "validationFailed": "Niektóre dane wyglądają niepoprawnie. Sprawdź je i spróbuj ponownie.",
+  "notFound": "Nie znaleźliśmy tego, czego szukasz.",
+  "fileTooBig": "Ten plik jest za duży. Spróbuj mniejszego.",
+  "unsupportedMediaType": "Ten typ pliku nie jest obsługiwany.",
+  "invalidParam": "Część informacji wygląda na nieprawidłową. Sprawdź i spróbuj ponownie.",
+  "freeAlreadyActivated": "Darmowe skany są już w użyciu.",
+  "subscriptionRequired": "Aby kontynuować, potrzebna jest subskrypcja.",
+  "badRequest": "W Twoim żądaniu coś wyglądało niepoprawnie.",
+  "rateLimited": "Działasz trochę za szybko. Spróbuj ponownie za chwilę.",
+  "fairUseRestricted": "Osiągnięto bieżący limit użycia. Spróbuj później.",
+  "consentRequired": "Najpierw przejrzyj i zaakceptuj wymagane zgody.",
+  "invalidConsentStatus": "Ten status zgody jest nieprawidłowy.",
+  "invalidConsentType": "Ten typ zgody nie jest obsługiwany.",
+  "generic": "Coś poszło nie tak. Spróbuj później.",
+
+  "photoCaptureError": "Nie udało się zrobić zdjęcia",
+  "cameraMountError": "Aparat niedostępny",
+
+  "bothImagesRequired": "Dodaj oba zdjęcia.",
+
+  "uploadFailed": "Nie udało się przesłać zdjęcia. Spróbuj ponownie.",
+  "ocrFailed": "Nie udało się odczytać zdjęcia. Spróbuj ponownie.",
+  "gptExtrFailed": "Nie udało się rozpoznać produktu. Spróbuj ponownie.",
+
+  "missingIngredients": "Nie znaleziono składników. Spróbujmy ponownie.",
+  "productNotDetected": "Nie rozpoznano produktu. Spróbuj innego zdjęcia."
+}

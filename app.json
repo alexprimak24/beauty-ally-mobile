@@ -1,0 +1,144 @@
+{
+  "expo": {
+    "name": "Beauty Ally",
+    "slug": "beauty-ai",
+    "owner": "sycrafted",
+    "version": "1.1.3",
+    "orientation": "portrait",
+    "icon": "./assets/images/logo.png",
+    "scheme": "beautyai",
+    "userInterfaceStyle": "automatic",
+    "backgroundColor": "#f4f6f8",
+    "ios": {
+      "usesAppleSignIn": true,
+      "bundleIdentifier": "com.sycrafted.beautyai",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false,
+        "CFBundleLocalizations": [
+          "en",
+          "ru",
+          "uk",
+          "fr",
+          "es",
+          "de",
+          "pt-BR",
+          "zh-Hans",
+          "ja",
+          "ko",
+          "hi",
+          "ar",
+          "pl"
+        ]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/adaptiveIcon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.sycrafted.beautyai",
+      "versionCode": 1,
+      "blockedPermissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS",
+        "android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"
+      ],
+      "permissions": ["android.permission.CAMERA"]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/logo.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-localization",
+      [
+        "expo-notifications",
+        {
+          "sounds": ["./assets/sounds/skincare_reminder.wav"]
+        }
+      ],
+      "expo-font",
+      "expo-apple-authentication",
+      "expo-web-browser",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/icons/splashBottle.png",
+          "backgroundColor": "#F4F6F8",
+          "imageWidth": 180,
+          "resizeMode": "contain"
+        }
+      ],
+      [
+        "expo-sharing",
+        {
+          "ios": {
+            "enabled": true,
+            "extensionBundleIdentifier": "com.sycrafted.beautyai.ShareExtension",
+            "appGroupId": "group.com.sycrafted.beautyai",
+            "activationRule": {
+              "supportsImageWithMaxCount": 2
+            }
+          },
+          "android": {
+            "enabled": true,
+            "singleShareMimeTypes": ["image/*"],
+            "multipleShareMimeTypes": ["image/*"]
+          }
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow Beauty Ally to use your camera to take product photos for analysis and to update your profile picture.",
+          "recordAudioAndroid": false
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow Beauty Ally to access your photo library to import product images for analysis and to update your profile picture."
+        }
+      ],
+      [
+        "expo-video",
+        {
+          "supportsBackgroundPlayback": false,
+          "supportsPictureInPicture": false
+        }
+      ],
+      [
+        "expo-screen-orientation",
+        {
+          "initialOrientation": "PORTRAIT"
+        }
+      ],
+      "expo-asset",
+      [
+        "@sentry/react-native/expo",
+        {
+          "url": "https://sentry.io/",
+          "project": "beauty-ally-mobile",
+          "organization": "sycrafted"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "783f6e75-2264-494c-b02c-8dfb3676b91a"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/783f6e75-2264-494c-b02c-8dfb3676b91a"
+    }
+  }
+}

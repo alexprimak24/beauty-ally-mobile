@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "Ups"
+  },
+  "errors": {
+    "generic": "Coś poszło nie tak.",
+    "deleteEntry": "Nie można było usunąć wpisu.",
+    "updateFavorites": "Nie udało się zaktualizować ulubionych.",
+    "updateSkincare": "Nie udało się zaktualizować statusu pielęgnacji.",
+    "saveProfileTitle": "Nie udało się zapisać zmian",
+    "saveProfileBody": "Spróbuj ponownie za chwilę.",
+    "unsupportedLink": "Nie można otworzyć tego linku.",
+    "openLinkUnsupported": "Nie można otworzyć tego linku.",
+    "openLink": "Coś poszło nie tak."
+  },
+  "upload": {
+    "noImage": "Nie przesłano obrazu.",
+    "consentRequired": "Potrzebujemy Twojej zgody na przetwarzanie zdjęć.",
+    "failed": "Przesyłanie nie powiodło się.",
+    "network": "Błąd sieci. Spróbuj ponownie."
+  },
+  "consentAlert": {
+    "title": "Skanowanie jest wyłączone",
+    "body": "Przetwarzanie obrazów jest wyłączone w ustawieniach. Włącz je, aby kontynuować.",
+    "cancel": "Anuluj",
+    "enable": "Włącz teraz"
+  },
+  "timeAgo": {
+    "now": "Przed chwilą",
+    "minutes_one": "{{count}} minutę temu",
+    "minutes_other": "{{count}} min temu",
+    "hours_one": "{{count}} godzinę temu",
+    "hours_other": "{{count}} godz. temu",
+    "days_one": "{{count}} dzień temu",
+    "days_other": "{{count}} dni temu",
+    "weeks_one": "{{count}} tydzień temu",
+    "weeks_other": "{{count}} tyg. temu",
+    "months_one": "{{count}} miesiąc temu",
+    "months_other": "{{count}} mies. temu",
+    "years_one": "{{count}} rok temu",
+    "years_other": "{{count}} lat temu"
+  },
+  "onboardingValidation": {
+    "noData": "Brak danych z onboardingu.",
+    "incomplete": "Uzupełnij wszystkie wymagane pola: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/mies.",
+    "perYearSuffix": "/rok"
+  },
+  "today": "Dziś",
+  "weekdays": {
+    "short": {
+      "mo": "Pon",
+      "tu": "Wto",
+      "we": "Śro",
+      "th": "Czw",
+      "fr": "Pią",
+      "sa": "Sob",
+      "su": "Nie"
+    },
+    "superShort": {
+      "mo": "Pn",
+      "tu": "Wt",
+      "we": "Śr",
+      "th": "Cz",
+      "fr": "Pt",
+      "sa": "Sb",
+      "su": "Nd"
+    }
+  }
+}

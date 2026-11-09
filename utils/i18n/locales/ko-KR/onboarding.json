@@ -1,0 +1,273 @@
+{
+  "welcome": {
+    "intro": "나에게 맞는 화장품 찾기",
+    "noAccMsg": "먼저 온보딩을 완료해 주세요",
+    "signInMsg": "이미 계정이 있나요?<strong> 로그인</strong> ",
+    "action": "시작하기"
+  },
+  "gender": {
+    "title": "성별이 어떻게 되시나요?",
+    "subtitle": "보다 세심하게 맞춤 경험을 제공하는 데 도움이 됩니다.",
+
+    "male": { "label": "남성" },
+    "female": { "label": "여성" },
+    "nonBinary": { "label": "논바이너리" },
+    "preferNot": { "label": "말하고 싶지 않음" }
+  },
+
+  "weather": {
+    "title": "지금 살고 계신 곳의 기후는 어떤가요?",
+    "subtitle": "기후는 제품이 피부에서 느껴지는 방식과 흡수에 영향을 줄 수 있습니다.",
+
+    "coolDry": { "label": "서늘하고 건조함" },
+    "coolHumid": { "label": "서늘하고 습함" },
+    "mildDry": { "label": "온화하고 건조함" },
+    "warmHumid": { "label": "따뜻하고 습함" },
+    "hotDry": { "label": "덥고 건조함" },
+    "hotHumid": { "label": "덥고 습함" },
+    "highUVYearRound": { "label": "연중 강한 자외선" }
+  },
+
+  "skinType": {
+    "title": "당신의 피부를 어떻게 설명하시겠어요?",
+    "subtitle": "평소 피부 상태와 가장 가까운 옵션을 선택하세요.",
+
+    "normal": { "label": "중성", "explanation": "" },
+    "dry": { "label": "건성", "explanation": "" },
+    "oily": { "label": "지성", "explanation": "" },
+    "sensitive": { "label": "민감성", "explanation": "" },
+    "combination": { "label": "복합성", "explanation": "(얼굴에 지성과 건성 부위가 함께 있음)" }
+  },
+
+  "skinConcerns": {
+    "title": "가장 신경 쓰이는 피부 고민은 무엇인가요?",
+    "subtitle": "가장 해당되는 것을 선택하면 결과를 더 맞춤화할 수 있어요.",
+
+    "breakouts": { "label": "여드름이나 트러블" },
+    "rednessSensitivity": { "label": "붉어짐 또는 민감함" },
+    "cloggedPores": { "label": "막힌 모공 또는 블랙헤드" },
+    "hyperpigmentation": { "label": "기미나 고르지 않은 피부톤" },
+    "dryness": { "label": "건조함 또는 수분 부족" },
+    "wrinkles": { "label": "잔주름 또는 주름" },
+    "unevenTexture": { "label": "고르지 않은 피부결 또는 칙칙함" },
+    "largePores": { "label": "눈에 띄는 모공" },
+    "oilyShine": { "label": "과한 번들거림" },
+    "none": { "label": "지금은 없음" }
+  },
+
+  "allergies": {
+    "title": "피부에 잘 맞지 않는 성분이 있나요?",
+    "subtitle": "맞지 않을 수 있는 성분을 표시하는 데 도움이 됩니다.",
+
+    "alcohol": {
+      "label": "알코올",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "향료",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "에센셜 오일",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "라놀린",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "코코넛 오일 유도체",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "합성색소",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "운모(Mica)",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "없어요",
+      "examples": ""
+    }
+  },
+
+  "currentTreatment": {
+    "title": "현재 다음과 같은 스킨케어 치료를 사용하고 있나요?",
+    "subtitle": "현재 루틴에 이미 포함된 제품을 이해하는 데 도움이 됩니다.",
+
+    "retinol": { "label": "레티놀 또는 레티노이드", "explanation": "" },
+    "vitaminC": { "label": "비타민 C", "explanation": "" },
+    "ahaBha": { "label": "AHA / BHA 산", "explanation": "(글리콜산 / 살리실산 / 젖산)" },
+    "benzoyl": { "label": "벤조일 퍼옥사이드", "explanation": "" },
+    "niacinamide": { "label": "나이아신아마이드", "explanation": "" },
+    "prescriptionCreams": { "label": "처방 크림 또는 젤", "explanation": "" },
+    "strongAcne": { "label": "경구용 여드름 치료제", "explanation": "" },
+    "no": { "label": "현재 사용하지 않음", "explanation": "" }
+  },
+
+  "sunscreenUsage": {
+    "title": "얼마나 자주 자외선 차단제를 사용하시나요?",
+    "subtitle": "기후는 피부가 느끼는 상태에 영향을 줄 수 있습니다.",
+
+    "never": { "label": "전혀 사용하지 않음" },
+    "occasionally": { "label": "가끔" },
+    "sometimes": { "label": "때때로" },
+    "almostDaily": { "label": "거의 매일" },
+    "daily": { "label": "매일" }
+  },
+
+  "summary": {
+    "title": "피부 데이터로 경험을 개인화하는 중이에요",
+    "steps": {
+      "step1": "선호도를 준비하는 중",
+      "step2": "성분 확인을 준비하는 중",
+      "step3": "민감성 선택을 반영하는 중",
+      "step4": "매칭 기준 설정 중",
+      "step5": "설정을 마무리하는 중"
+    }
+  },
+  "congratulations": {
+    "title": "축하합니다!<br/>피부 프로필 설정이 완료됐어요.",
+    "subtitle": "피부 프로필과 제품 사진을 사용해 성분표를 확인하고 적합성 힌트를 보여드립니다.",
+    "disclamer": "AI가 생성한 정보입니다. 의학적 조언이 아닙니다. 의료기기가 아닙니다.",
+    "termsPriv": "나는 <strong>이용 약관</strong>과 <highlight>개인정보 처리방침</highlight>에 동의합니다",
+    "processConsent": "Beauty Ally가 <strong>내 피부 프로필</strong>과 <highlight>제품 사진</highlight>을 처리하여 성분표 확인과 일반적인 적합성 신호를 제공하는 데 동의합니다. 동의는 언제든 프로필에서 철회할 수 있습니다.",
+    "termsRaw": "이용 약관과 개인정보 처리방침에 동의합니다.",
+    "healthRaw": "Beauty Ally가 내 피부 프로필과 사진을 처리하여 성분 분석과 적합성 결과를 제공하는 데 동의합니다. 동의는 설정에서 언제든 철회할 수 있습니다.",
+    "learnMsg": "데이터 이용 방식 자세히 보기",
+    "ageConsent": "계속하면 만 18세 이상(또는 거주 국가의 성년 연령)임을 확인합니다.",
+    "modal": {
+      "title": "데이터 사용 방식",
+      "explanation": "• 핵심 기능 제공에만 사용됨(성분 분석 및 적합성 결과)<br/>• 타겟 광고에 판매/사용하지 않음<br/>• 사용자별 접근 제어가 적용된 개인 클라우드 저장소에 보관<br/>• 프로필 → 계정 및 데이터 삭제에서 데이터를 삭제하거나 동의를 철회할 수 있음"
+    }
+  },
+  "createAccount": {
+    "title": "계정 만들기",
+    "subtitle": "진행 상황을 저장하고 계정을 안전하게 보호하세요.",
+    "terms": "피부 데이터는 암호화되어 안전하게 보호됩니다. 개인 맞춤 루틴을 위해서만 사용됩니다."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "플랜을 선택하세요",
+      "subtitle": "나만을 위한 스캔 · 현명한 선택"
+    },
+    "loading": {
+      "default": {
+        "message": "처리 중...",
+        "subMessage": "잠시만 기다려주세요"
+      },
+      "purchasing": {
+        "message": "구독 확인 중...",
+        "subMessage": "Pro 권한을 확보하고 있습니다"
+      },
+      "switching": {
+        "message": "플랜 변경 중...",
+        "subMessage": "계정 정보를 업데이트하고 있습니다"
+      },
+      "restoring": {
+        "message": "구매 복원 중...",
+        "subMessage": "활성 구독을 찾고 있습니다"
+      },
+      "freeScans": {
+        "message": "무료 스캔 잠금 해제 중...",
+        "subMessage": "빛날 준비 되셨나요?"
+      },
+      "loadingPaywall": {
+        "message": "화면 로딩 중...",
+        "subMessage": "최적의 옵션을 준비하고 있습니다"
+      },
+      "packages": "플랜 불러오는 중..."
+    },
+    "plans": {
+      "yearly": "연간",
+      "monthly": "월간",
+      "yearlyPlan": "연간 플랜",
+      "monthlyPlan": "월간 플랜",
+      "yearlyUpper": "연간 플랜",
+      "monthlyUpper": "월간 플랜"
+    },
+    "freeScans": {
+      "used": "무료 한도 소진됨",
+      "offer": "고민되나요? 5회 체험",
+      "claim": "무료 스캔 5회 받기",
+      "noCard": "카드 등록 필요 없음."
+    },
+    "banner": {
+      "special": "특별 할인가"
+    },
+    "card": {
+      "currentBadge": "현재 플랜",
+      "cancelAnytime": "언제든 취소 가능",
+      "firstYear": "첫 1년",
+      "firstMonth": "첫 1개월",
+      "then": "이후"
+    },
+    "benefits": {
+      "unlimited": "무제한 스캔",
+      "advanced": "심층 성분 분석 및 인사이트",
+      "bestValue": "최고의 선택"
+    },
+    "cta": {
+      "active": "이용 중",
+      "switchTo": "변경하기",
+      "continue": "계속하기",
+      "noCommit": "약정 없음. 언제든 취소 가능."
+    },
+    "footer": {
+      "terms": "이용약관",
+      "privacy": "개인정보처리방침",
+      "restore": "구매 복원"
+    },
+    "toast": {
+      "switchYearly": "연간 플랜으로 변경됨",
+      "switchMonthly": "월간 플랜으로 변경됨",
+      "premiumUn": "Premium 잠금 해제됨",
+      "restored": "구매가 복원되었습니다",
+      "restoreErr": "복원 실패. 다시 시도해주세요.",
+      "freeActivated": "무료 스캔 활성화됨",
+      "freeAlready": "이미 무료 스캔 이용 가능"
+    },
+    "subscribed": {
+      "title": "Pro가 되셨습니다!",
+      "subtitle": "구독이 활성화되었습니다. 무제한 스캔과 심층 분석을 즐겨보세요.",
+      "currentPlanLabel": "현재 플랜",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(연간)",
+      "monthSuffix": "(월간)",
+      "fallback": "Premium",
+      "goHome": "홈으로 이동",
+      "manage": "구독 관리"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "모든 준비 완료",
+    "subtitle": "구독이 활성화되었습니다. 경험을 즐겨보세요.",
+    "receipt": {
+      "statusLabel": "상태",
+      "statusActive": "활성",
+      "statusPending": "대기 중",
+      "subscriptionLabel": "구독",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Premium 액세스"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "동의 추가 중 오류가 발생했습니다. 다시 시도해 주세요",
+    "needConsent": "먼저 약관 및 개인정보에 동의해 주세요.",
+    "signupErr": "계정을 생성할 수 없습니다. 다시 시도해 주세요."
+  },
+  "actions": {
+    "continue": "계속",
+    "update": "업데이트",
+    "close": "닫기",
+    "celebration": "탐색 시작"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "패키지 이용 불가",
+      "purchaseFailed": "구매 실패"
+    }
+  }
+}

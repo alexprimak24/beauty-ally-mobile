@@ -1,0 +1,280 @@
+{
+  "auth": {
+    "appleCta": "Zaloguj się przez Apple",
+    "appleCtaHint": "Kontynuuj, używając konta Apple",
+    "googleCta": "Zaloguj się przez Google",
+    "googleCtaHint": "Kontynuuj, używając konta Google",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "Nieukończony onboarding",
+        "message": "Dokończ wymagane kroki przed rejestracją."
+      },
+      "authIncomplete": {
+        "title": "Niepełna autoryzacja",
+        "message": "Uzupełnij dodatkowe kroki na swoim koncie."
+      },
+      "authFailed": {
+        "title": "Błąd logowania",
+        "fallback": "Coś poszło nie tak. Spróbuj ponownie."
+      },
+      "unknown": {
+        "title": "Ups",
+        "message": "Wystąpił nieznany błąd."
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "Przetwarzanie skanów",
+      "subtitle": "Przetwarzaj moje obrazy i profil skóry, aby generować wyniki skanów.",
+      "a11yLabel": "Przetwarzanie skanów"
+    },
+    "links": {
+      "notifications": "Centrum powiadomień",
+      "terms": "Regulamin",
+      "privacy": "Polityka prywatności",
+      "contact": "Kontakt",
+      "manageSub": "Zarządzaj subskrypcją"
+    },
+    "contact": {
+      "emailSubject": "Zgłoszenie do wsparcia Beauty Ally",
+      "emailBody": "Dzień dobry Zespole Wsparcia Beauty Ally,\n\nZwracam się z pytaniem lub zgłoszeniem dotyczącym aplikacji. Szczegóły poniżej:\n\n[Opisz swoje pytanie lub problem]\n\nDziękuję za pomoc.\n\nPozdrawiam,\n\n---\nID użytkownika: {{userId}}\nJęzyk/region: {{locale}}\nAplikacja: Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "Wyłączyć przetwarzanie skanów?",
+          "body": "Wyłączenie zatrzyma przetwarzanie nowych zdjęć i wstrzyma analizę z użyciem Twojego profilu skóry. Dotychczasowe wyniki pozostaną na koncie, dopóki ich nie usuniesz. W każdej chwili możesz ponownie włączyć tę opcję.",
+          "cancel": "Anuluj",
+          "confirm": "Wyłącz"
+        },
+        "on": {
+          "title": "Włączyć przetwarzanie skanów?",
+          "body": "Włączając, zezwalasz Beauty Ally na przetwarzanie nowych obrazów i używanie Twojego profilu skóry do generowania wyników.",
+          "cancel": "Anuluj",
+          "confirm": "Włącz"
+        }
+      },
+      "updateFailed": {
+        "title": "Aktualizacja nie powiodła się",
+        "body": "Nie udało się zaktualizować preferencji skanowania. Spróbuj ponownie."
+      },
+      "delete": {
+        "title": "Usuń konto i dane",
+        "body": "⚠️ \nUsunięcie konta trwale usunie Twój profil, historię skanów, przesłane zdjęcia, tekst OCR i wyniki. Tego nie można cofnąć.\n\nUsuwasz wyłącznie konto Beauty Ally (nie konto Apple/Google).\n\nAktywne subskrypcje należy anulować w ustawieniach App Store lub Google Play.",
+        "cancel": "Anuluj",
+        "confirm": "Tak, usuń",
+        "errorTitle": "Błąd",
+        "errorBody": "Nie udało się usunąć konta. Spróbuj ponownie."
+      }
+    },
+    "deletingModal": {
+      "deleting": "Usuwanie Twojego konta…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "Wyloguj się",
+      "hint": "Wyloguj się ze swojego konta"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "Moja półka beauty:"
+    },
+    "shelfTitle": "Moja półka beauty:",
+    "recentlyScanned": "Ostatnio zeskanowane:"
+  },
+  "emptyEntry": {
+    "titleNone": "Jeszcze nic nie zeskanowano!",
+    "titleSearch": "Brak skanów dla {{query}}.",
+    "hintSearch": "Upewnij się, że nazwa jest poprawnie wpisana.",
+    "hintNone": "Wykonaj pierwszy skan, aby zacząć.",
+    "startScan": "Rozpocznij skan"
+  },
+  "emptyFavorites": {
+    "titleNone": "Brak ulubionych!",
+    "titleSearch": "Brak ulubionych dla {{query}}.",
+    "hintSearch": "Spróbuj innego słowa kluczowego<br/>albo przeglądaj całą listę.",
+    "hintNone": "Stuknij <strong>ikonę serca</strong>, aby zapisać ulubione produkty."
+  },
+  "emptyMySkincare": {
+    "titleNone": "Ups. Twoja kosmetyczka<br/>jest jeszcze pusta!",
+    "titleSearch": "Brak wyników w Twojej kosmetyczce",
+    "hintSearch": "Sprawdź pełną historię skanów<br/>albo zeskanuj nowy produkt.",
+    "hintNone": "<strong>Przesuń w lewo</strong> na produkcie, aby dodać go do rutyny."
+  },
+  "emptyRecentUploads": {
+    "title": "Jeszcze nic nie zeskanowano!",
+    "hint": "Aby zobaczyć ostatnie przesłania, stuknij przycisk <strong>Skan</strong>.",
+    "cta": "Rozpocznij skan"
+  },
+  "errorCard": {
+    "title": "Ups, coś poszło nie tak!",
+    "generic": "Spróbuj ponownie."
+  },
+  "layoutGate": {
+    "loadingTitle": "Przygotowujemy wszystko",
+    "loadingBody": "Przywracamy sesję Beauty Ally…",
+    "errorTitle": "Nie udało się wczytać profilu",
+    "errorBody": "Sprawdź połączenie i spróbuj ponownie.",
+    "retry": "Spróbuj ponownie"
+  },
+  "filter": {
+    "all": "Wszystkie",
+    "verdicts": {
+      "generallySuitable": "Dobrze dopasowany",
+      "mightNotAlign": "Może nie pasować",
+      "lowMatch": "Niskie dopasowanie"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "Ta ocena jest generowana przez AI na podstawie Twojego profilu skóry i składników produktu.",
+      "body": "Odwzorowuje ogólną kompatybilność — to nie porada medyczna ani ocena bezpieczeństwa. Zawsze wykonaj próbę uczuleniową i w razie wątpliwości skonsultuj się ze specjalistą."
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "Mój profil skóry",
+    "none": "Brak",
+    "fields": {
+      "gender": "Płeć",
+      "climate": "Klimat",
+      "skinType": "Typ skóry",
+      "allergies": "Alergie",
+      "skinConcerns": "Problemy skórne",
+      "activeTreatment": "Aktywne kuracje",
+      "sunscreenUsage": "Stosowanie SPF"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "Przykład:",
+    "tooltip": {
+      "rxTitle": "Składnik wyłącznie na receptę.",
+      "rxBody": "Skonsultuj się z lekarzem przed łączeniem z innymi aktywnymi składnikami.\nTa aplikacja służy wyłącznie celom informacyjnym."
+    }
+  },
+  "otherInput": {
+    "placeholder": "Inne:"
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "Dodano do ulubionych",
+      "favRemoved": "Usunięto z ulubionych",
+      "skincareAdded": "Dodano do Mojej pielęgnacji",
+      "skincareRemoved": "Usunięto z Mojej pielęgnacji",
+      "deleted": "Wpis usunięty"
+    },
+    "removeConfirm": {
+      "title": "Usunąć z półki pielęgnacyjnej?",
+      "message": "Produkt zostanie usunięty z półki, a wszystkie jego wpisy w rutynie zostaną wyczyszczone.",
+      "cancel": "Zostaw",
+      "confirm": "Usuń"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "Jak skanować",
+        "subtitle": "Poznaj najprostsze sposoby skanowania i analizowania produktów do pielęgnacji skóry."
+      },
+      "2": {
+        "title": "Tryb szybki",
+        "subtitle": "Uchwyć produkt w jednym szybkim kroku, gdy chcesz sprawdzić go szybciej."
+      },
+      "3": {
+        "title": "Tryb dokładny",
+        "subtitle": "Zrób osobne zdjęcia przodu i tyłu, aby uzyskać jaśniejszy i bardziej szczegółowy wynik."
+      },
+      "4": {
+        "title": "Udostępniaj z dowolnego miejsca",
+        "subtitle": "Zapisz lub udostępnij zrzut ekranu produktu z mediów społecznościowych, aby sprawdzić go w aplikacji."
+      },
+      "5": {
+        "title": "Sprawdzaj podczas zakupów",
+        "subtitle": "Podczas zakupów online udostępnij stronę produktu lub zrzut ekranu, aby zobaczyć, jak pasuje do profilu Twojej skóry."
+      }
+    },
+    "actions": {
+      "continue": "Dalej",
+      "gotIt": "Rozumiem"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "Historia skanów",
+    "a11yOpenHistory": "Otwórz historię skanów"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": [
+        "Przesyłanie zdjęcia…",
+        "Odczytywanie etykiety…",
+        "Sprawdzanie produktu…",
+        "Prawie gotowe…"
+      ],
+      "back": [
+        "Przesyłanie zdjęcia…",
+        "Odczytywanie składników…",
+        "Dokładniejsze sprawdzanie produktu…",
+        "Analiza profilu skóry…",
+        "Sprawdzanie dopasowania…",
+        "Prawie gotowe…"
+      ],
+      "both": [
+        "Odczytywanie etykiety…",
+        "Sprawdzanie produktu…",
+        "Analiza profilu skóry…",
+        "Sprawdzanie dopasowania…",
+        "Upewnianie się, że wszystko pasuje…",
+        "Prawie gotowe…"
+      ]
+    },
+    "hint": "To może chwilę potrwać. Dziękujemy."
+  },
+  "searchInput": {
+    "placeholder": "Szukaj produktów…"
+  },
+  "signInSheet": {
+    "title": "Zaloguj się",
+    "legal": "Kontynuując, akceptujesz nasz\n<terms>Regulamin</terms> i <privacy>Politykę prywatności</privacy>."
+  },
+  "updatePfp": {
+    "title": "Jak mamy się do Ciebie zwracać?",
+    "placeholder": "Twoje imię",
+    "save": "Zapisz",
+    "discard": "Odrzuć",
+    "alerts": {
+      "uploadFailedTitle": "Błąd przesyłania",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "Błąd",
+      "galleryErrorBody": "Coś poszło nie tak podczas wybierania zdjęcia z galerii.",
+      "updateNameFailedTitle": "Nie udało się zaktualizować imienia",
+      "updateNameFailedBody": "Spróbuj ponownie za chwilę."
+    }
+  },
+  "updateRow": {
+    "set": "Ustaw"
+  },
+  "selectLanguage": "Wybierz język",
+  "languageChangeNotice": "W każdej chwili możesz to zmienić w Ustawieniach",
+  "unknownProduct": "Nieznany produkt",
+  "routine": {
+    "productNameFallback": "Nazwa produktu",
+    "configureRoutine": "Ustaw rutynę",
+    "morningTitle": "Poranna rutyna",
+    "eveningTitle": "Wieczorna rutyna",
+    "morningSubtitle": "Zacznij dzień świeżo",
+    "eveningSubtitle": "Wyhamuj i zresetuj się",
+    "daily": "Codziennie",
+    "specificDays": "Wybrane dni",
+    "addToRoutine": "Dodaj do rutyny",
+    "addedToRoutine": "Dodano do rutyny! ✨",
+    "failedToAdd": "Nie udało się dodać do rutyny",
+    "notificationPrompt": {
+      "title": "Delikatne przypomnienia?",
+      "message": "Czy chcesz dostawać delikatne przypomnienia o nałożeniu produktów pielęgnacyjnych? Tylko przydatne powiadomienia, bez spamu.",
+      "allow": "Włącz przypomnienia",
+      "notNow": "Nie teraz"
+    }
+  }
+}

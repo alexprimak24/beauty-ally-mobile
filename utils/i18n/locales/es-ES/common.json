@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "Ups"
+  },
+  "errors": {
+    "generic": "Algo salió mal.",
+    "deleteEntry": "No se pudo eliminar el elemento.",
+    "updateFavorites": "No se pudieron actualizar los favoritos.",
+    "updateSkincare": "No se pudo actualizar el estado en la rutina.",
+    "saveProfileTitle": "No se pudieron guardar los cambios",
+    "saveProfileBody": "Inténtalo de nuevo en un momento.",
+    "unsupportedLink": "No se puede abrir este enlace.",
+    "openLinkUnsupported": "No se puede abrir este enlace.",
+    "openLink": "Ocurrió un error."
+  },
+  "upload": {
+    "noImage": "No se proporcionó ninguna imagen.",
+    "consentRequired": "Necesitamos tu consentimiento para procesar fotos.",
+    "failed": "Error al subir.",
+    "network": "Error de red. Inténtalo de nuevo."
+  },
+  "consentAlert": {
+    "title": "El escaneo está desactivado",
+    "body": "El procesamiento de imágenes está desactivado en tus ajustes. Actívalo para continuar.",
+    "cancel": "Cancelar",
+    "enable": "Activar ahora"
+  },
+  "timeAgo": {
+    "now": "Justo ahora",
+    "minutes_one": "Hace {{count}} minuto",
+    "minutes_other": "Hace {{count}} minutos",
+    "hours_one": "Hace {{count}} hora",
+    "hours_other": "Hace {{count}} horas",
+    "days_one": "Hace {{count}} día",
+    "days_other": "Hace {{count}} días",
+    "weeks_one": "Hace {{count}} semana",
+    "weeks_other": "Hace {{count}} semanas",
+    "months_one": "Hace {{count}} mes",
+    "months_other": "Hace {{count}} meses",
+    "years_one": "Hace {{count}} año",
+    "years_other": "Hace {{count}} años"
+  },
+  "onboardingValidation": {
+    "noData": "No se encontraron datos de onboarding.",
+    "incomplete": "Completa todos los campos obligatorios: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/mes",
+    "perYearSuffix": "/año"
+  },
+  "today": "Hoy",
+  "weekdays": {
+    "short": {
+      "mo": "Lun",
+      "tu": "Mar",
+      "we": "Mié",
+      "th": "Jue",
+      "fr": "Vie",
+      "sa": "Sáb",
+      "su": "Dom"
+    },
+    "superShort": {
+      "mo": "Lu",
+      "tu": "Ma",
+      "we": "Mi",
+      "th": "Ju",
+      "fr": "Vi",
+      "sa": "Sá",
+      "su": "Do"
+    }
+  }
+}

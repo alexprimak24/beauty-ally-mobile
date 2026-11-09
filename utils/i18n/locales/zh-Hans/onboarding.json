@@ -1,0 +1,273 @@
+{
+  "welcome": {
+    "intro": "发现你的理想护肤搭配",
+    "noAccMsg": "请先完成初始设置（onboarding）。",
+    "signInMsg": "已经有账号了？<strong> 登录</strong> ",
+    "action": "开始使用"
+  },
+  "gender": {
+    "title": "您的性别是？",
+    "subtitle": "这有助于我们更贴心地为您定制体验。",
+
+    "male": { "label": "男" },
+    "female": { "label": "女" },
+    "nonBinary": { "label": "非二元" },
+    "preferNot": { "label": "不便透露" }
+  },
+
+  "weather": {
+    "title": "您所在地区的气候是什么样的？",
+    "subtitle": "气候可能会影响产品在皮肤上的感觉和吸收情况。",
+
+    "coolDry": { "label": "清凉 · 干燥" },
+    "coolHumid": { "label": "清凉 · 潮湿" },
+    "mildDry": { "label": "温和 · 干燥" },
+    "warmHumid": { "label": "温暖 · 潮湿" },
+    "hotDry": { "label": "炎热 · 干燥" },
+    "hotHumid": { "label": "炎热 · 潮湿" },
+    "highUVYearRound": { "label": "全年高紫外线" }
+  },
+
+  "skinType": {
+    "title": "您会如何描述自己的皮肤？",
+    "subtitle": "请选择最接近您平时皮肤状态的选项。",
+
+    "normal": { "label": "中性肤质", "explanation": "" },
+    "dry": { "label": "干性肤质", "explanation": "" },
+    "oily": { "label": "油性肤质", "explanation": "" },
+    "sensitive": { "label": "敏感肌", "explanation": "" },
+    "combination": { "label": "混合肌", "explanation": "（面部同时存在偏油与偏干区域）" }
+  },
+
+  "skinConcerns": {
+    "title": "你最关注的皮肤问题是什么？",
+    "subtitle": "选择对你来说最重要的，这样我们可以更好地个性化你的结果。",
+
+    "breakouts": { "label": "痘痘或粉刺" },
+    "rednessSensitivity": { "label": "泛红或敏感" },
+    "cloggedPores": { "label": "毛孔堵塞或黑头" },
+    "hyperpigmentation": { "label": "色斑或肤色不均" },
+    "dryness": { "label": "干燥或缺水" },
+    "wrinkles": { "label": "细纹或皱纹" },
+    "unevenTexture": { "label": "肤质不均或暗沉" },
+    "largePores": { "label": "明显毛孔" },
+    "oilyShine": { "label": "油光过多" },
+    "none": { "label": "目前没有" }
+  },
+
+  "allergies": {
+    "title": "有没有你的皮肤不太适合的成分？",
+    "subtitle": "我们会用这些信息来标记可能不太适合你的成分。",
+
+    "alcohol": {
+      "label": "酒精",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "香精/香料",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "精油",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "羊毛脂",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "椰子油衍生物",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "色素/染料",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "云母",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "没有",
+      "examples": ""
+    }
+  },
+
+  "currentTreatment": {
+    "title": "你目前是否在使用以下任何护肤治疗？",
+    "subtitle": "这可以帮助我们了解你目前的护肤步骤。",
+
+    "retinol": { "label": "视黄醇或维A类", "explanation": "" },
+    "vitaminC": { "label": "维生素C", "explanation": "" },
+    "ahaBha": { "label": "AHA / BHA 酸", "explanation": "(乙醇酸 / 水杨酸 / 乳酸)" },
+    "benzoyl": { "label": "过氧化苯甲酰", "explanation": "" },
+    "niacinamide": { "label": "烟酰胺", "explanation": "" },
+    "prescriptionCreams": { "label": "处方乳膏或凝胶", "explanation": "" },
+    "strongAcne": { "label": "口服祛痘药物", "explanation": "" },
+    "no": { "label": "目前没有", "explanation": "" }
+  },
+
+  "sunscreenUsage": {
+    "title": "你多久使用一次防晒产品？",
+    "subtitle": "气候可能会影响你的皮肤感受。",
+
+    "never": { "label": "从不" },
+    "occasionally": { "label": "偶尔" },
+    "sometimes": { "label": "有时" },
+    "almostDaily": { "label": "几乎每天" },
+    "daily": { "label": "每天" }
+  },
+
+  "summary": {
+    "title": "我们正基于你的肌肤数据个性化体验",
+    "steps": {
+      "step1": "准备你的偏好设置",
+      "step2": "加载成分检查",
+      "step3": "纳入敏感度选项",
+      "step4": "配置匹配标准",
+      "step5": "完成最后设置"
+    }
+  },
+  "congratulations": {
+    "title": "太棒了，你的<br/>肌肤档案已就绪！",
+    "subtitle": "我们会结合你的肌肤档案与产品照片，检查成分表并给出适配提示。",
+    "disclamer": "仅为 AI 生成信息。非医疗建议。并非医疗器械。",
+    "termsPriv": "我同意 <strong>使用条款</strong> 与 <highlight>隐私政策</highlight>",
+    "processConsent": "我同意 Beauty Ally 处理<strong>我的肌肤档案</strong>与<highlight>产品照片</highlight>，以提供成分表检查与一般适配提示。我可随时在「个人资料」撤回同意。",
+    "termsRaw": "我同意使用条款与隐私政策。",
+    "healthRaw": "我同意 Beauty Ally 处理我的肌肤档案与照片，以提供成分分析与适配结果。我可随时在「设置」撤回同意。",
+    "learnMsg": "了解我们如何使用你的数据",
+    "ageConsent": "继续操作即表示您已年满18岁（或已达到您所在国家的法定成年年龄）。",
+    "modal": {
+      "title": "我们如何使用你的数据",
+      "explanation": "• 仅用于提供核心功能（成分分析与适配结果）<br/>• 不会被出售或用于定向广告<br/>• 存储在私有云端，按用户隔离访问<br/>• 你可在 个人资料 → 删除账号与数据 中删除或撤回同意"
+    }
+  },
+  "createAccount": {
+    "title": "创建账户",
+    "subtitle": "保存你的进度并保护你的账户。",
+    "terms": "你的皮肤数据已加密并保持私密。我们只会用它来个性化你的护肤方案。"
+  },
+  "paymentPage": {
+    "header": {
+      "title": "选择您的方案",
+      "subtitle": "个性化扫描 · 更明智的选择"
+    },
+    "loading": {
+      "default": {
+        "message": "处理中...",
+        "subMessage": "请稍候"
+      },
+      "purchasing": {
+        "message": "确认订阅中...",
+        "subMessage": "正在为您开通 Pro 权限"
+      },
+      "switching": {
+        "message": "更新方案中...",
+        "subMessage": "正在应用更改到您的账户"
+      },
+      "restoring": {
+        "message": "恢复购买中...",
+        "subMessage": "正在查找有效订阅"
+      },
+      "freeScans": {
+        "message": "正在解锁免费扫描...",
+        "subMessage": "准备焕发光彩！"
+      },
+      "loadingPaywall": {
+        "message": "加载体验中...",
+        "subMessage": "正在为您准备最佳选项"
+      },
+      "packages": "加载方案..."
+    },
+    "plans": {
+      "yearly": "年度",
+      "monthly": "月度",
+      "yearlyPlan": "年度计划",
+      "monthlyPlan": "月度计划",
+      "yearlyUpper": "年度计划",
+      "monthlyUpper": "月度计划"
+    },
+    "freeScans": {
+      "used": "免费扫描次数已用尽",
+      "offer": "还在犹豫？领5次免费",
+      "claim": "领取 5 次免费扫描",
+      "noCard": "无需信用卡。"
+    },
+    "banner": {
+      "special": "特惠价格"
+    },
+    "card": {
+      "currentBadge": "当前方案",
+      "cancelAnytime": "随时取消",
+      "firstYear": "第一年",
+      "firstMonth": "第一个月",
+      "then": "之后"
+    },
+    "benefits": {
+      "unlimited": "无限次扫描",
+      "advanced": "深度成分分析与洞察",
+      "bestValue": "最佳选择"
+    },
+    "cta": {
+      "active": "已激活",
+      "switchTo": "切换至",
+      "continue": "继续",
+      "noCommit": "无长期承诺。随时取消。"
+    },
+    "footer": {
+      "terms": "条款",
+      "privacy": "隐私",
+      "restore": "恢复购买"
+    },
+    "toast": {
+      "switchYearly": "已切换至年度计划",
+      "switchMonthly": "已切换至月度计划",
+      "premiumUn": "Premium 已解锁",
+      "restored": "购买已恢复",
+      "restoreErr": "恢复失败。请重试。",
+      "freeActivated": "免费扫描已激活",
+      "freeAlready": "免费扫描已就绪"
+    },
+    "subscribed": {
+      "title": "您已成为 Pro！",
+      "subtitle": "您的订阅已激活。享受无限次扫描和深度分析。",
+      "currentPlanLabel": "当前方案",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(年度)",
+      "monthSuffix": "(月度)",
+      "fallback": "Premium",
+      "goHome": "返回首页",
+      "manage": "管理订阅"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "一切就绪",
+    "subtitle": "您的订阅已激活。尽情享受体验吧。",
+    "receipt": {
+      "statusLabel": "状态",
+      "statusActive": "活跃",
+      "statusPending": "待处理",
+      "subscriptionLabel": "订阅",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Premium 权限"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "添加同意时出错，请重试。",
+    "needConsent": "请先同意条款与隐私政策。",
+    "signupErr": "无法创建账号，请重试。"
+  },
+  "actions": {
+    "continue": "继续",
+    "update": "更新",
+    "close": "关闭",
+    "celebration": "开始探索"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "套餐不可用",
+      "purchaseFailed": "购买失败"
+    }
+  }
+}

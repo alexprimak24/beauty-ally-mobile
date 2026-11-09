@@ -1,0 +1,345 @@
+{
+  "favorites": {
+    "header": "Ulubione",
+    "loadingErr": "Nie udało się wczytać skanów.",
+    "searchPlaceholder": "Wpisz swoje ulubione..."
+  },
+  "history": {
+    "searchPlaceholder": "Wpisz nazwę produktu...",
+    "loadingErr": "Nie udało się wczytać skanów."
+  },
+  "mySkincare": {
+    "header": "Moja pielęgnacja",
+    "searchPlaceholder": "Wpisz swoją pielęgnację...",
+    "loadingErr": "Nie udało się wczytać skanów."
+  },
+  "home": {
+    "welcomeStart": "👋 Witaj,",
+    "errorLoading": "Nie udało się wczytać skanów.",
+    "viewAll": "Zobacz wszystkie",
+    "title": "Czy wiesz, że?",
+    "facts": {
+      "list": [
+        "💧 Nakładaj pielęgnację na czystą, lekko wilgotną skórę — pomaga to lepiej wchłaniać składniki.",
+        "🧪 Im mniej nowych produktów naraz, tym łatwiej śledzić, co działa.",
+        "📅 Bądź systematyczn(a)y — większość efektów pielęgnacji widać po co najmniej 4–6 tygodniach.",
+        "🚿 Myj twarz letnią wodą — gorąca może przesuszać i podrażniać skórę.",
+        "🧴 Nie pomijaj kremu nawilżającego — każdy typ skóry potrzebuje nawilżenia.",
+        "☀️ Stosuj filtr przeciwsłoneczny każdego ranka — nawet w pochmurne dni.",
+        "🔁 Aplikuj filtr ponownie co 2 godziny, jeśli jesteś na zewnątrz — jedna warstwa to za mało.",
+        "⚠️ Zbyt wiele składników aktywnych naraz może przeciążyć skórę. Postaw na prostotę.",
+        "🌞 Przechowuj produkty z dala od bezpośredniego słońca, aby zachować ich właściwości.",
+        "🪄 Suche miejsca? Spróbuj nałożyć lekkie serum pod krem nawilżający.",
+        "🌸 Produkty bezzapachowe bywają łagodniejsze dla wrażliwej skóry.",
+        "🔥 Pieczenie lub szczypanie zwykle oznacza podrażnienie — nie „skuteczność”.",
+        "📏 Nakładaj pielęgnację od najrzadszej do najgęstszej konsystencji.",
+        "🧪 Rób próbę uczuleniową przed użyciem nowego produktu na całą twarz.",
+        "🧼 Nie potrzebujesz 10-etapowej rutyny — wystarczą właściwe 3–4 produkty.",
+        "🔁 Systematyczność wygrywa z intensywnością — trzymaj się tego, co działa.",
+        "🧴 Tonik jest opcjonalny — skup się na żelu do mycia, kuracji, kremie i SPF.",
+        "🥄 Kwasy (chemiczne złuszczanie) często są delikatniejsze niż peelingi mechaniczne.",
+        "🚫 Uczucie „skrzypiącej czystości” po myciu? To znak, że kosmetyk jest zbyt silny.",
+        "💦 Nawilżona skóra wygląda spokojniej i zdrowiej — pij wodę i nawilżaj.",
+        "⏳ Daj nowym produktom czas — nie oceniaj ich zbyt szybko.",
+        "🧽 Podwójne oczyszczanie jest potrzebne głównie, gdy używasz makijażu lub SPF.",
+        "🌿 Wybieraj delikatne, nieagresywne środki myjące — piana nie zawsze znaczy lepiej.",
+        "🌱 Olejki eteryczne nie wszystkim służą — zwłaszcza wrażliwej skórze.",
+        "🔒 Minimalna rutyna zmniejsza ryzyko wyprysków i podrażnień.",
+        "🧢 Nakładaj filtr aż do linii włosów i na uszy.",
+        "🧖‍♀️ Nie zapominaj o szyi — starzeje się tak samo jak twarz.",
+        "🔬 Trądzik nie wynika z „brudu” — często wiąże się z hormonami lub genetyką.",
+        "😌 Nie musisz nic „czuć”, by produkt działał — mrowienie nie jest wymagane.",
+        "🌙 Dobry sen potrafi zdziałać dla skóry tyle, co nowa kuracja.",
+        "🛏️ Czyste poszewki, czyste ręce, czysty telefon = mniej podrażnień.",
+        "📉 Może pojawić się tzw. „purging” — jeśli trwa dłużej niż 4–6 tygodni, zrób przerwę.",
+        "🧴 SPF 30 wystarczy — najważniejsze to używać go codziennie i w odpowiedniej ilości.",
+        "🧬 Pielęgnacja jest indywidualna — to, co działa u innych, nie musi działać u Ciebie.",
+        "🔄 Skóra zmienia się wraz z porami roku, wiekiem i nawykami — słuchaj jej."
+      ]
+    },
+    "compliments": {
+      "list": [
+        "Promienna",
+        "Urocza",
+        "Błyskotliwa",
+        "Czarująca",
+        "Pełna gracji",
+        "Lśniąca",
+        "Wspaniała",
+        "Cudowna",
+        "Świetlista",
+        "Elegancka",
+        "Zachwycająca",
+        "Magiczna",
+        "Olśniewająca",
+        "Oszałamiająca"
+      ]
+    }
+  },
+  "profile": {
+    "welcomeStart": "Cześć,",
+    "signOutErr": "Nie udało się wylogować. Spróbuj ponownie."
+  },
+  "notifications": {
+    "emptyTitle": "Brak powiadomień",
+    "emptySubtitle": "Tutaj umieścimy m.in. aktualizacje Prywatności/Regulaminu oraz ważne ogłoszenia.",
+    "loadErr": "Nie udało się wczytać powiadomień",
+    "markReadErr": "Nie udało się oznaczyć jako przeczytane"
+  },
+  "result": {
+    "verdict": {
+      "generally": {
+        "label": "Dobrze dopasowany"
+      },
+      "mightNotAlign": {
+        "label": "Może nie pasować"
+      },
+      "lowMatch": {
+        "label": "Niskie dopasowanie"
+      }
+    },
+    "highlitedFactors": {
+      "hydration_fit": "Poziom nawilżenia",
+      "oil_control": "Kontrola sebum",
+      "skin_barrier_support": "Wsparcie skóry",
+      "soothing_ingredients": "Składniki kojące",
+      "pore_clogging_risk": "Ryzyko zapychania",
+      "fragrance_sensitivity_fit": "Wrażl. na zapach",
+      "exfoliation_potential": "Potencjał złuszcz.",
+      "antioxidant_content": "Antyoksydanty",
+      "sunscreen_layering": "Z SPF",
+      "climate_compatibility": "Zgodność z klim.",
+      "lightweight_feel": "Lekka konsystencja",
+      "fast_absorption": "Szybkie wchłanianie",
+      "pore_safety_score": "Bezpieczeństwo porów",
+      "richness": "Bogactwo formuły"
+    },
+    "breakoutRisk": {
+      "option0": "Wysokie",
+      "option1": "Możliwe",
+      "option2": "Niskie"
+    },
+    "routineCompatibility": {
+      "option0": "Niezbyt dobra",
+      "option1": "Dobra",
+      "option2": "Bardzo dobra"
+    },
+    "bestTime": {
+      "morning": "Rano",
+      "evening": "Wieczór"
+    },
+    "frequency": {
+      "daily": "{{times}} <b>/</b> dzień",
+      "weekly": "{{times}} <b>/</b> tydz."
+    },
+    "staticText": {
+      "routineCompatibility": "Zgodność z rutyną",
+      "breakoutRisk": "Ryzyko podrażnień / trądziku",
+      "bestTime": "Najlepsza pora",
+      "frequency": "Częstotliwość",
+      "personalNote": "Osobista notatka",
+      "usageTip": "Wskazówka użycia",
+      "addToSkincare": "Dodaj do pielęgnacji",
+      "addedToSkincare": "Dodano"
+    }
+  },
+  "updateScanDetails": {
+    "headerTitle": "Szczegóły produktu",
+    "inputs": {
+      "nameLabel": "Nazwa produktu",
+      "namePlaceholder": "Wpisz nazwę produktu",
+      "linkLabel": "Link do produktu",
+      "linkPlaceholder": "https://..."
+    },
+    "modal": {
+      "title": "Twój link",
+      "description": "Zapisz link, aby łatwo wrócić do produktu. Ten link jest tylko dla Ciebie.",
+      "button": "Rozumiem"
+    },
+    "buttons": {
+      "save": "Zapisz zmiany"
+    },
+    "headerSchedule": "Harmonogram rutyny"
+  },
+  "scan": {
+    "permission": {
+      "title": "Wymagany jest dostęp do aparatu",
+      "cta": "Nadaj uprawnienia"
+    },
+    "dropdown": {
+      "twoStepScan": "Skan w 2 krokach",
+      "fastStepScan": "Szybki skan",
+      "howTo": "Jak to działa"
+    },
+    "badges": {
+      "freeLeft_one": "Pozostał {{count}} skan",
+      "freeLeft_other": "Pozostało {{count}} skanów"
+    },
+    "steps": {
+      "front": "Zrób zdjęcie przodu etykiety",
+      "back": "Teraz tył (składniki)",
+      "fast": "Zrób wyraźne zdjęcie produktu"
+    },
+    "transitions": {
+      "frontCaptured": "🎉 Przód sfotografowany!"
+    },
+    "alerts": {
+      "outOfFree": {
+        "title": "Koniec darmowych skanów",
+        "body": "Wykorzystał(a)eś wszystkie darmowe skany. Przejdź na Premium, aby kontynuować.",
+        "goPremium": "Przejdź do Premium"
+      },
+      "re": {
+        "gallery": {
+          "main": "Wymagany dostęp do zdjęć",
+          "sub": "Aby przesłać z galerii, aplikacja Beauty Ally potrzebuje dostępu do Twoich zdjęć. Możesz to włączyć w Ustawieniach.",
+          "leftBtn": "Anuluj",
+          "rightBtn": "Otwórz Ustawienia"
+        },
+        "camera": {
+          "main": "Wymagany dostęp do aparatu",
+          "sub": "Aby robić zdjęcia, Beauty Ally potrzebuje dostępu do aparatu. Możesz to włączyć w Ustawieniach.",
+          "leftBtn": "Anuluj",
+          "rightBtn": "Otwórz Ustawienia"
+        }
+      },
+      "rateLimit": {
+        "title": "Zwolnij",
+        "body": "Osiągnięto tymczasowy limit. Spróbuj później."
+      },
+      "upload": {
+        "title": "Błąd przesyłania",
+        "galleryErrorTitle": "Błąd",
+        "galleryErrorBody": "Wystąpił problem podczas wyboru z galerii.",
+        "genericBody": "Wystąpił problem podczas przesyłania zdjęcia."
+      },
+      "ok": "OK"
+    },
+    "disclaimerPill": "Generowane przez AI · To nie porada medyczna"
+  },
+  "edit": {
+    "updateOkTitle": "Zapisano",
+    "updateErrTitle": "Wystąpił nieznany błąd…",
+    "activeTreatments": {
+      "updateOkBody": "Zaktualizowano aktywne kuracje",
+      "updateErrBody": "Nie udało się zaktualizować aktywnej kuracji"
+    },
+    "allergies": {
+      "updateOkBody": "Zaktualizowano wybrane elementy skóry",
+      "updateErrBody": "Nie udało się zaktualizować wybranych elementów skóry"
+    },
+    "climate": {
+      "updateOkBody": "Zaktualizowano klimat",
+      "updateErrBody": "Nie udało się zaktualizować bieżącego klimatu"
+    },
+    "gender": {
+      "updateOkBody": "Zaktualizowano płeć",
+      "updateErrBody": "Nie udało się zaktualizować informacji o płci"
+    },
+    "skinConcerns": {
+      "updateOkBody": "Zaktualizowano wybrane elementy skóry",
+      "updateErrBody": "Nie udało się zaktualizować wybranych elementów skóry"
+    },
+    "skinType": {
+      "updateOkBody": "Zaktualizowano typ skóry",
+      "updateErrBody": "Nie udało się zaktualizować Twojego typu skóry"
+    },
+    "sunscreen": {
+      "updateOkBody": "Zaktualizowano stosowanie SPF",
+      "updateErrBody": "Nie udało się zaktualizować informacji o stosowaniu SPF"
+    },
+    "language": {
+      "updateOkBody": "Zaktualizowano język",
+      "updateErrBody": "Nie udało się zaktualizować języka"
+    }
+  },
+  "mySkincareShelf": {
+    "header": {
+      "morningRoutine": "Poranna rutyna",
+      "eveningRoutine": "Wieczorna rutyna"
+    },
+    "fastActions": {
+      "title": "Szybkie działania",
+      "editOrder": "Zmień kolejność",
+      "morning": "Poranek",
+      "evening": "Wieczór",
+      "completeFullDay": "Oznacz cały dzień"
+    },
+    "frequency": {
+      "daily": "Codziennie",
+      "specificDays": "Wybrane dni"
+    },
+    "alerts": {
+      "completeMorningTitle": "Oznacz wszystkie poranne produkty",
+      "completeEveningTitle": "Oznacz wszystkie wieczorne produkty",
+      "completeMorningDescription": "Przytrzymaj kółko, aby zakończyć",
+      "completeEveningDescription": "Przytrzymaj kółko, aby zakończyć",
+      "removeRoutineEntryTitle": "Usunąć z rutyny?",
+      "removeRoutineEntryDescription": "Ta pozycja zostanie usunięta z Twojej rutyny.",
+      "removeRoutineEntryMultiTitle": "Usunąć z rutyny?",
+      "removeRoutineEntryMultiDescription": "Ten produkt jest też w drugiej rutynie. Co chcesz usunąć?",
+      "removeThisEntry": "Usuń tylko {{routine}}",
+      "removeEverywhere": "Usuń wszędzie",
+      "cancel": "Anuluj",
+      "confirm": "Potwierdź"
+    },
+    "toasts": {
+      "morningLogged": "Twoja skóra jest gotowa na nowy dzień",
+      "eveningLogged": "Wszystko gotowe na spokojną noc",
+      "dayPassed": "Ten dzień jest już za nami",
+      "dayNotArrived": "Ten dzień jeszcze nie nadszedł",
+      "markedApplied": "O krok bliżej do Twojego glow",
+      "markedNotApplied": "Gotowe, oznaczono jako nienałożone",
+      "toggleFailed": "Coś poszło nie tak, spróbujmy jeszcze raz",
+      "removedFromRoutine": "To zostało usunięte z Twojej listy",
+      "favoritesUpdated": "Zapisano w ulubionych"
+    },
+    "guides": {
+      "dateTitle": "Odeszłaś od dzisiaj?",
+      "dateDescription": "Dotknij daty, aby od razu wrócić do dzisiaj.",
+      "dateButton": "Rozumiem",
+      "swipeTitle": "Szybkie oznaczenie",
+      "swipeDescription": "Przesuń wpis w prawo, aby oznaczyć go jako nałożony!",
+      "swipeButton": "Super"
+    },
+    "notifications": {
+      "title": "Przypomnienie o pielęgnacji skóry",
+      "dayBody": "Czy zadbałaś już dziś o swoją skórę?",
+      "eveningBody": "Nie zapomnij o swojej wieczornej pielęgnacji skóry."
+    },
+    "menu": {
+      "morningRoutine": "Poranna rutyna",
+      "eveningRoutine": "Wieczorna rutyna",
+      "viewProductDetails": "Zobacz szczegóły produktu",
+      "editEntry": "Edytuj wpis",
+      "reorderSequence": "Zmień kolejność rutyny",
+      "removeFromRoutine": "Usuń z rutyny"
+    },
+    "fullDay": {
+      "title": "Oznacz cały dzień",
+      "description": "Przytrzymaj kółko, aby zakończyć"
+    }
+  },
+  "addToRoutine": {
+    "headerTitle": "Dodaj do rutyny",
+    "searchPlaceholder": "Szukaj na swojej półce...",
+    "loadingError": "Nie udało się załadować produktów."
+  },
+  "reorderRoutine": {
+    "headerTitle": "Zmień kolejność rutyny",
+    "segmented": {
+      "morning": "Poranek",
+      "evening": "Wieczór"
+    },
+    "sectionHeader": {
+      "morningRoutine": "Poranna rutyna",
+      "eveningRoutine": "Wieczorna rutyna"
+    },
+    "empty": {
+      "noEntries": "Brak wpisów w tej rutynie."
+    },
+    "errors": {
+      "saveFailed": "Nie udało się zapisać nowej kolejności."
+    }
+  }
+}

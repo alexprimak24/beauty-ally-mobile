@@ -1,0 +1,377 @@
+{
+  "favorites": {
+    "header": "收藏",
+    "loadingErr": "无法加载扫描结果。",
+    "searchPlaceholder": "在收藏中搜索…"
+  },
+  "history": {
+    "searchPlaceholder": "在此输入产品名称…",
+    "loadingErr": "无法加载扫描结果。"
+  },
+  "mySkincare": {
+    "header": "我的护肤",
+    "searchPlaceholder": "在你的护肤清单中搜索…",
+    "loadingErr": "无法加载扫描结果。"
+  },
+  "home": {
+    "welcomeStart": "👋 欢迎，",
+    "errorLoading": "无法加载扫描结果。",
+    "viewAll": "查看全部",
+    "title": "你知道吗？",
+    "facts": {
+      "list": [
+        "💧 护肤品涂在洁净、微湿的皮肤上，成分更易吸收。",
+        "🧪 同时上新越少，越容易判断哪些有效。",
+        "📅 要坚持——多数护肤效果至少需要 4–6 周。",
+        "🚿 用温水清洁；过热会让皮肤干燥、受刺激。",
+        "🧴 别跳过保湿——所有肤质都需要补水。",
+        "☀️ 每天早上都要涂防晒——即使多云。",
+        "🔁 在室外每 2 小时补涂一次防晒——一层不够。",
+        "⚠️ 活性成分太多会给皮肤带来负担，保持简单。",
+        "🌞 把产品避开阳光直射，保护其有效成分。",
+        "🪄 有干皮？试试在面霜下叠加一层清透精华。",
+        "🌸 无香精的产品通常对敏感肌更温和。",
+        "🔥 刺痛或灼热感通常意味着刺激，而非“更有效”。",
+        "📏 护肤按质地从薄到厚依次涂抹。",
+        "🧪 新品先做局部测试，再全脸使用。",
+        "🧼 不需要 10 步护理——合适的 3–4 步就好。",
+        "🔁 稳定胜过激进——坚持对你有效的方案。",
+        "🧴 化妆水可选；基础是清洁、针对性护理、保湿与防晒。",
+        "🥄 化学去角质通常比磨砂更温和。",
+        "🚫 清洁后紧绷发涩，说明洁面太强了。",
+        "💦 皮肤水润更稳定、更健康——多喝水并做好保湿。",
+        "⏳ 给新品一些时间——别太早下结论。",
+        "🧽 只有化妆或用了厚防晒时才需要双重清洁。",
+        "🌿 选择温和、不伤肤的洁面——泡沫并非越多越好。",
+        "🌱 精油并不适合所有人——尤其是敏感肌。",
+        "🔒 极简护理可降低爆痘及刺激风险。",
+        "🧢 防晒要涂到发际线与耳朵。",
+        "🧖‍♀️ 别忘了颈部——它和脸一样会老化。",
+        "🔬 痘痘并非“脏”造成，常与荷尔蒙或遗传相关。",
+        "😌 护肤无需“有感觉”才有效——刺痛并非必要。",
+        "🌙 好睡眠对皮肤的帮助不逊于一瓶新精华。",
+        "🛏️ 干净的枕套、双手与手机=更少刺激源。",
+        "📉 适应期可能出现；若超过 4–6 周，考虑暂停。",
+        "🧴 SPF 30 已足够——关键是每天足量。",
+        "🧬 护肤是个体化的——他人有效的不一定适合你。",
+        "🔄 皮肤会随季节、年龄与习惯变化——倾听它。"
+      ]
+    },
+    "compliments": {
+      "male": [
+        "传奇",
+        "出色",
+        "耀眼",
+        "迷人",
+        "优雅",
+        "光彩照人",
+        "非凡",
+        "精彩",
+        "明亮",
+        "典雅",
+        "惹人喜爱",
+        "神奇",
+        "夺目",
+        "惊艳"
+      ],
+      "female": [
+        "传奇",
+        "出色",
+        "耀眼",
+        "迷人",
+        "优雅",
+        "光彩照人",
+        "非凡",
+        "精彩",
+        "明亮",
+        "典雅",
+        "惹人喜爱",
+        "神奇",
+        "夺目",
+        "惊艳"
+      ],
+      "neutral": [
+        "传奇",
+        "出色",
+        "耀眼",
+        "迷人",
+        "优雅",
+        "光彩照人",
+        "非凡",
+        "精彩",
+        "明亮",
+        "典雅",
+        "惹人喜爱",
+        "神奇",
+        "夺目",
+        "惊艳"
+      ]
+    }
+  },
+  "profile": {
+    "welcomeStart": "你好，",
+    "signOutErr": "退出失败，请重试。"
+  },
+  "notifications": {
+    "emptyTitle": "还没有通知",
+    "emptySubtitle": "我们会在这里发布隐私/条款更新或重要提示。",
+    "loadErr": "通知加载失败",
+    "markReadErr": "标记为已读失败"
+  },
+  "result": {
+    "verdict": {
+      "generally": {
+        "label": "整体适合"
+      },
+      "mightNotAlign": {
+        "label": "可能不太适合"
+      },
+      "lowMatch": {
+        "label": "匹配度较低"
+      }
+    },
+    "highlitedFactors": {
+      "hydration_fit": "保湿匹配度",
+      "oil_control": "控油效果",
+      "skin_barrier_support": "屏障支持",
+      "soothing_ingredients": "舒缓成分",
+      "pore_clogging_risk": "堵塞毛孔风险",
+      "fragrance_sensitivity_fit": "香精敏感度",
+      "exfoliation_potential": "去角质强度",
+      "antioxidant_content": "抗氧化成分",
+      "sunscreen_layering": "防晒叠加适配",
+      "climate_compatibility": "气候适配度",
+      "lightweight_feel": "清爽肤感",
+      "fast_absorption": "吸收速度",
+      "pore_safety_score": "毛孔安全度",
+      "richness": "滋润度"
+    },
+    "breakoutRisk": {
+      "option0": "较高",
+      "option1": "可能",
+      "option2": "较低"
+    },
+    "routineCompatibility": {
+      "option0": "不太适合",
+      "option1": "较适合",
+      "option2": "非常适合"
+    },
+    "bestTime": {
+      "morning": "早间",
+      "evening": "晚间"
+    },
+    "frequency": {
+      "daily": "{{times}} <b>/</b> 天",
+      "weekly": "{{times}} <b>/</b> 周"
+    },
+    "staticText": {
+      "routineCompatibility": "护肤流程适配度",
+      "breakoutRisk": "刺激 / 爆痘风险",
+      "bestTime": "最佳使用时间",
+      "frequency": "使用频率",
+      "personalNote": "专属提示",
+      "usageTip": "使用建议",
+      "addToSkincare": "加入护肤",
+      "addedToSkincare": "已加入"
+    }
+  },
+  "updateScanDetails": {
+    "headerTitle": "产品详情",
+    "inputs": {
+      "nameLabel": "产品名称",
+      "namePlaceholder": "输入产品名称",
+      "linkLabel": "产品链接",
+      "linkPlaceholder": "https://..."
+    },
+    "modal": {
+      "title": "你的专属链接",
+      "description": "保存链接，方便随时回到该产品。此链接仅属于你。",
+      "button": "知道了"
+    },
+    "buttons": {
+      "save": "保存更改"
+    },
+    "headerSchedule": "护理流程安排"
+  },
+  "scan": {
+    "permission": {
+      "title": "需要相机权限",
+      "cta": "授予权限"
+    },
+    "dropdown": {
+      "twoStepScan": "两步扫描",
+      "fastStepScan": "快速扫描",
+      "howTo": "如何使用"
+    },
+    "badges": {
+      "freeLeft_one": "剩余{{count}}次扫描",
+      "freeLeft_other": "剩余{{count}}次扫描"
+    },
+    "steps": {
+      "front": "拍摄正面标签",
+      "back": "现在背面（成分）",
+      "fast": "清晰拍摄产品"
+    },
+    "transitions": {
+      "frontCaptured": "🎉 已拍摄正面！"
+    },
+    "alerts": {
+      "outOfFree": {
+        "title": "免费次数已用完",
+        "body": "你已用尽免费扫描次数。升级 Premium 以继续使用。",
+        "goPremium": "前往 Premium"
+      },
+      "re": {
+        "gallery": {
+          "main": "需要照片访问权限",
+          "sub": "从相册上传需要 Beauty Ally 访问你的照片。你可以在设置中授权。",
+          "leftBtn": "取消",
+          "rightBtn": "打开设置"
+        },
+        "camera": {
+          "main": "需要相机访问权限",
+          "sub": "拍摄照片需要 Beauty Ally 访问你的相机。你可以在设置中授权。",
+          "leftBtn": "取消",
+          "rightBtn": "打开设置"
+        }
+      },
+      "rateLimit": {
+        "title": "请稍慢一些",
+        "body": "你已触发临时限频，请稍后再试。"
+      },
+      "upload": {
+        "title": "上传失败",
+        "galleryErrorTitle": "错误",
+        "galleryErrorBody": "从相册选择时出现问题。",
+        "genericBody": "上传照片时出现问题。"
+      },
+      "ok": "好的"
+    },
+    "disclaimerPill": "AI 生成 · 非医疗建议"
+  },
+  "edit": {
+    "updateOkTitle": "已保存",
+    "updateErrTitle": "发生未知错误…",
+    "activeTreatments": {
+      "updateOkBody": "活性护理已更新",
+      "updateErrBody": "无法更新活性护理"
+    },
+    "allergies": {
+      "updateOkBody": "已更新所选肌肤条目",
+      "updateErrBody": "无法更新所选肌肤条目"
+    },
+    "climate": {
+      "updateOkBody": "气候已更新",
+      "updateErrBody": "无法更新当前气候"
+    },
+    "gender": {
+      "updateOkBody": "性别已更新",
+      "updateErrBody": "无法更新性别信息"
+    },
+    "skinConcerns": {
+      "updateOkBody": "已更新所选肌肤条目",
+      "updateErrBody": "无法更新所选肌肤条目"
+    },
+    "skinType": {
+      "updateOkBody": "肤质已更新",
+      "updateErrBody": "无法更新你的肤质"
+    },
+    "sunscreen": {
+      "updateOkBody": "防晒使用习惯已更新",
+      "updateErrBody": "无法更新防晒使用情况"
+    },
+    "language": {
+      "updateOkBody": "语言已更新",
+      "updateErrBody": "无法更新语言"
+    }
+  },
+  "mySkincareShelf": {
+    "header": {
+      "morningRoutine": "晨间护理",
+      "eveningRoutine": "晚间护理"
+    },
+    "fastActions": {
+      "title": "快捷操作",
+      "editOrder": "编辑顺序",
+      "morning": "早晨",
+      "evening": "晚上",
+      "completeFullDay": "标记全天产品"
+    },
+    "frequency": {
+      "daily": "每天",
+      "specificDays": "特定日期"
+    },
+    "alerts": {
+      "completeMorningTitle": "标记所有晨间产品",
+      "completeEveningTitle": "标记所有晚间产品",
+      "completeMorningDescription": "按住圆圈即可完成",
+      "completeEveningDescription": "按住圆圈即可完成",
+      "removeRoutineEntryTitle": "从护理流程中移除？",
+      "removeRoutineEntryDescription": "这会将该条目从你的护理流程中移除。",
+      "removeRoutineEntryMultiTitle": "从护理流程中移除？",
+      "removeRoutineEntryMultiDescription": "这个产品也在你的另一个护理流程中。你想移除哪一项？",
+      "removeThisEntry": "仅移除{{routine}}",
+      "removeEverywhere": "全部移除",
+      "cancel": "取消",
+      "confirm": "确认"
+    },
+    "toasts": {
+      "morningLogged": "你的肌肤已为新的一天做好准备",
+      "eveningLogged": "一切准备就绪，迎接安稳夜晚",
+      "dayPassed": "那一天已经过去了",
+      "dayNotArrived": "那一天还没有到来",
+      "markedApplied": "离你的 glow 又近了一步",
+      "markedNotApplied": "已完成，已标记为未使用",
+      "toggleFailed": "刚刚出了点小问题，我们再试一次",
+      "removedFromRoutine": "已从你的列表中移除",
+      "favoritesUpdated": "已保存到收藏"
+    },
+    "guides": {
+      "dateTitle": "切换到别的日期了？",
+      "dateDescription": "点按日期即可立即返回今天。",
+      "dateButton": "知道了",
+      "swipeTitle": "快速应用",
+      "swipeDescription": "将条目向右滑动，即可标记为已使用！",
+      "swipeButton": "太好了"
+    },
+    "notifications": {
+      "title": "护肤提醒",
+      "dayBody": "你今天护理皮肤了吗？",
+      "eveningBody": "别忘了晚间护肤步骤。"
+    },
+    "menu": {
+      "morningRoutine": "晨间护理",
+      "eveningRoutine": "晚间护理",
+      "viewProductDetails": "查看产品详情",
+      "editEntry": "编辑条目",
+      "reorderSequence": "重新排序护理流程",
+      "removeFromRoutine": "从护理流程中移除"
+    },
+    "fullDay": {
+      "title": "标记全天产品",
+      "description": "按住圆圈即可完成"
+    }
+  },
+  "addToRoutine": {
+    "headerTitle": "添加到护理流程",
+    "searchPlaceholder": "搜索你的护肤架...",
+    "loadingError": "加载产品失败。"
+  },
+  "reorderRoutine": {
+    "headerTitle": "重新排序护理流程",
+    "segmented": {
+      "morning": "早晨",
+      "evening": "晚上"
+    },
+    "sectionHeader": {
+      "morningRoutine": "晨间护理",
+      "eveningRoutine": "晚间护理"
+    },
+    "empty": {
+      "noEntries": "此护理流程中还没有条目。"
+    },
+    "errors": {
+      "saveFailed": "无法保存新的顺序。"
+    }
+  }
+}

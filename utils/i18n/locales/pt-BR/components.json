@@ -1,0 +1,275 @@
+{
+  "auth": {
+    "appleCta": "Entrar com a Apple",
+    "appleCtaHint": "Continuar com sua conta Apple",
+    "googleCta": "Entrar com o Google",
+    "googleCtaHint": "Continuar com sua conta Google",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "Onboarding incompleto",
+        "message": "Conclua as etapas obrigatórias antes de se cadastrar."
+      },
+      "authIncomplete": {
+        "title": "Autenticação incompleta",
+        "message": "Conclua as etapas adicionais na sua conta."
+      },
+      "authFailed": {
+        "title": "Falha na autenticação",
+        "fallback": "Algo deu errado. Tente novamente."
+      },
+      "unknown": {
+        "title": "Ops",
+        "message": "Ocorreu um erro desconhecido."
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "Processamento de scans",
+      "subtitle": "Processar minhas imagens e perfil de pele para gerar resultados de scans.",
+      "a11yLabel": "Processamento de scans"
+    },
+    "links": {
+      "notifications": "Central de notificações",
+      "terms": "Termos de Uso",
+      "privacy": "Política de Privacidade",
+      "contact": "Fale Conosco",
+      "manageSub": "Gerenciar assinatura"
+    },
+    "contact": {
+      "emailSubject": "Beauty Ally — Solicitação de Suporte",
+      "emailBody": "Olá, equipe de suporte da Beauty Ally,\n\nEstou entrando em contato sobre um problema ou dúvida no app. Seguem os detalhes:\n\n[Descreva sua dúvida ou problema aqui]\n\nObrigado(a) pela ajuda.\n\nAtenciosamente,\n\n---\nID do usuário: {{userId}}\nLocalidade: {{locale}}\nApp: Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "Desativar processamento de scans?",
+          "body": "Ao desativar, novas fotos não serão processadas e a análise usando seu perfil de pele ficará em pausa. Seus resultados anteriores permanecem na conta até você excluí-los. Você pode reativar quando quiser.",
+          "cancel": "Cancelar",
+          "confirm": "Desativar"
+        },
+        "on": {
+          "title": "Ativar processamento de scans?",
+          "body": "Ao ativar, você permite que a Beauty Ally processe novas imagens e use seu perfil de pele para gerar resultados de scans.",
+          "cancel": "Cancelar",
+          "confirm": "Ativar"
+        }
+      },
+      "updateFailed": {
+        "title": "Falha na atualização",
+        "body": "Não foi possível atualizar sua preferência de scanning. Tente novamente."
+      },
+      "delete": {
+        "title": "Excluir conta e dados",
+        "body": "⚠️ \nA exclusão da conta remove permanentemente seu perfil, histórico de scans, fotos enviadas, texto de OCR e resultados. Isso não pode ser desfeito.\n\nIsso exclui apenas sua conta Beauty Ally (não sua conta Apple/Google).\n\nAssinaturas ativas devem ser canceladas nos ajustes da App Store ou Google Play.",
+        "cancel": "Cancelar",
+        "confirm": "Sim, excluir",
+        "errorTitle": "Erro",
+        "errorBody": "Falha ao excluir a conta. Tente novamente."
+      }
+    },
+    "deletingModal": {
+      "deleting": "Excluindo sua conta…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "Sair",
+      "hint": "Sair da sua conta"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "Minha prateleira de beleza:"
+    },
+    "shelfTitle": "Minha prateleira de beleza:",
+    "recentlyScanned": "Escaneados recentemente:"
+  },
+  "emptyEntry": {
+    "titleNone": "Nada escaneado ainda!",
+    "titleSearch": "Nenhum scan encontrado para {{query}}.",
+    "hintSearch": "Confira se o nome está escrito corretamente.",
+    "hintNone": "Faça seu primeiro scan para começar.",
+    "startScan": "Iniciar scan"
+  },
+  "emptyFavorites": {
+    "titleNone": "Ainda sem favoritos!",
+    "titleSearch": "Nenhum favorito para {{query}}.",
+    "hintSearch": "Tente outra palavra-chave<br/>ou veja sua lista completa.",
+    "hintNone": "Toque no <strong>ícone de coração</strong> para salvar os produtos que você ama."
+  },
+  "emptyMySkincare": {
+    "titleNone": "Opa. Sua nécessaire de skincare<br/>ainda está vazia!",
+    "titleSearch": "Nenhuma correspondência na sua nécessaire",
+    "hintSearch": "Tente conferir seu histórico completo de scans<br/>ou escanear um novo produto.",
+    "hintNone": "<strong>Deslize para a esquerda</strong> em um produto para adicioná-lo à sua rotina."
+  },
+  "emptyRecentUploads": {
+    "title": "Nada escaneado ainda!",
+    "hint": "Para ver seus envios recentes, toque no botão <strong>Scan</strong>.",
+    "cta": "Iniciar scan"
+  },
+  "errorCard": {
+    "title": "Ops, algo deu errado!",
+    "generic": "Tente novamente."
+  },
+  "layoutGate": {
+    "loadingTitle": "Preparando tudo",
+    "loadingBody": "Restaurando sua sessão do Beauty Ally…",
+    "errorTitle": "Não foi possível carregar seu perfil",
+    "errorBody": "Verifique sua conexão e tente novamente.",
+    "retry": "Tentar novamente"
+  },
+  "filter": {
+    "all": "Todos",
+    "verdicts": {
+      "generallySuitable": "Bem compatível",
+      "mightNotAlign": "Pode não combinar",
+      "lowMatch": "Compat. baixa"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "Esta avaliação é gerada por IA com base no seu perfil de pele e nos ingredientes do produto.",
+      "body": "Ela reflete compatibilidade geral — não é conselho médico nem um índice de segurança. Sempre faça teste de contato e, em caso de dúvida, consulte um profissional."
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "Meu Perfil de Pele",
+    "none": "Nenhum",
+    "fields": {
+      "gender": "Gênero",
+      "climate": "Clima",
+      "skinType": "Tipo de pele",
+      "allergies": "Alergias",
+      "skinConcerns": "Questões da pele",
+      "activeTreatment": "Ativos em uso",
+      "sunscreenUsage": "Uso de protetor"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "Exemplo:",
+    "tooltip": {
+      "rxTitle": "Ingrediente sujeito a prescrição.",
+      "rxBody": "Converse com seu médico antes de combinar com outros ativos.\nEste app é apenas informativo."
+    }
+  },
+  "otherInput": {
+    "placeholder": "Outro:"
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "Adicionado aos Favoritos",
+      "favRemoved": "Removido dos Favoritos",
+      "skincareAdded": "Adicionado ao Meu Skincare",
+      "skincareRemoved": "Removido do Meu Skincare",
+      "deleted": "Entrada excluída"
+    },
+    "removeConfirm": {
+      "title": "Remover da sua prateleira de skincare?",
+      "message": "O produto será removido da prateleira e todas as entradas dele na rotina serão apagadas.",
+      "cancel": "Manter",
+      "confirm": "Remover"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "Como escanear",
+        "subtitle": "Aprenda as formas mais simples de escanear e analisar seus produtos de cuidados com a pele."
+      },
+      "2": {
+        "title": "Modo rápido",
+        "subtitle": "Capture o produto em uma etapa rápida quando quiser uma verificação mais ágil."
+      },
+      "3": {
+        "title": "Modo precisão",
+        "subtitle": "Tire fotos separadas da frente e do verso para ter um resultado mais claro e detalhado."
+      },
+      "4": {
+        "title": "Compartilhe de qualquer lugar",
+        "subtitle": "Salve ou compartilhe uma captura de um produto visto nas redes sociais para conferir no app."
+      },
+      "5": {
+        "title": "Confira enquanto compra",
+        "subtitle": "Ao comprar online, compartilhe uma página de produto ou captura para ver como ela combina com seu perfil de pele."
+      }
+    },
+    "actions": {
+      "continue": "Continuar",
+      "gotIt": "Entendi"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "Histórico de scans",
+    "a11yOpenHistory": "Abrir histórico de scans"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": ["Enviando a foto…", "Lendo o rótulo…", "Analisando o produto…", "Quase pronto…"],
+      "back": [
+        "Enviando a foto…",
+        "Lendo os ingredientes…",
+        "Analisando o produto com mais atenção…",
+        "Verificando seu perfil de pele…",
+        "Conferindo como isso se encaixa em você…",
+        "Quase pronto…"
+      ],
+      "both": [
+        "Lendo o rótulo…",
+        "Analisando o produto…",
+        "Verificando seu perfil de pele…",
+        "Vendo como o produto combina com você…",
+        "Garantindo que tudo se encaixa…",
+        "Quase pronto…"
+      ]
+    },
+    "hint": "Isso pode levar um momento. Obrigado por aguardar."
+  },
+  "searchInput": {
+    "placeholder": "Pesquisar produtos…"
+  },
+  "signInSheet": {
+    "title": "Entrar",
+    "legal": "Ao continuar, você concorda com nossos\n<terms>Termos de Uso</terms> e <privacy>Política de Privacidade</privacy>."
+  },
+  "updatePfp": {
+    "title": "Como devemos te chamar?",
+    "placeholder": "Seu nome",
+    "save": "Salvar",
+    "discard": "Descartar",
+    "alerts": {
+      "uploadFailedTitle": "Falha no envio",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "Erro",
+      "galleryErrorBody": "Algo deu errado ao selecionar foto da galeria.",
+      "updateNameFailedTitle": "Não foi possível atualizar seu nome",
+      "updateNameFailedBody": "Tente novamente em instantes."
+    }
+  },
+  "updateRow": {
+    "set": "Definir"
+  },
+  "selectLanguage": "Selecionar idioma",
+  "languageChangeNotice": "Você pode alterar isso a qualquer momento em Configurações",
+  "unknownProduct": "Produto desconhecido",
+  "routine": {
+    "productNameFallback": "Nome do produto",
+    "configureRoutine": "Configurar rotina",
+    "morningTitle": "Rotina da manhã",
+    "eveningTitle": "Rotina da noite",
+    "morningSubtitle": "Comece o dia com leveza",
+    "eveningSubtitle": "Desacelere e recomece",
+    "daily": "Diariamente",
+    "specificDays": "Dias específicos",
+    "addToRoutine": "Adicionar à rotina",
+    "addedToRoutine": "Adicionado à rotina! ✨",
+    "failedToAdd": "Não foi possível adicionar à rotina",
+    "notificationPrompt": {
+      "title": "Lembretes gentis?",
+      "message": "Você gostaria de lembretes gentis para aplicar seus produtos de skincare? Só notificações úteis, sem spam.",
+      "allow": "Permitir lembretes",
+      "notNow": "Agora não"
+    }
+  }
+}

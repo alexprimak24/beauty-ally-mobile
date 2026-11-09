@@ -1,0 +1,90 @@
+{
+  "alerts": {
+    "oops": "Ой"
+  },
+  "errors": {
+    "generic": "Щось пішло не так.",
+    "deleteEntry": "Не вдалося видалити запис.",
+    "updateFavorites": "Не вдалося оновити обране.",
+    "updateSkincare": "Не вдалося оновити статус у догляді.",
+    "saveProfileTitle": "Не вдалося зберегти зміни",
+    "saveProfileBody": "Спробуйте ще раз трохи пізніше.",
+    "unsupportedLink": "Не вдалося відкрити це посилання.",
+    "openLinkUnsupported": "Не вдалося відкрити це посилання.",
+    "openLink": "Сталася помилка."
+  },
+  "upload": {
+    "noImage": "Зображення не надано.",
+    "consentRequired": "Потрібна ваша згода на обробку фото.",
+    "failed": "Не вдалося завантажити.",
+    "network": "Помилка мережі. Будь ласка, спробуйте ще раз."
+  },
+  "consentAlert": {
+    "title": "Сканування вимкнено",
+    "body": "Обробку зображень вимкнено у ваших налаштуваннях. Увімкніть її, щоб продовжити.",
+    "cancel": "Скасувати",
+    "enable": "Увімкнути зараз"
+  },
+  "timeAgo": {
+    "now": "Щойно",
+
+    "minutes_one": "{{count}} хвилину тому",
+    "minutes_few": "{{count}} хвилини тому",
+    "minutes_many": "{{count}} хвилин тому",
+    "minutes_other": "{{count}} хвилини тому",
+
+    "hours_one": "{{count}} годину тому",
+    "hours_few": "{{count}} години тому",
+    "hours_many": "{{count}} годин тому",
+    "hours_other": "{{count}} години тому",
+
+    "days_one": "{{count}} день тому",
+    "days_few": "{{count}} дні тому",
+    "days_many": "{{count}} днів тому",
+    "days_other": "{{count}} дня тому",
+
+    "weeks_one": "{{count}} тиждень тому",
+    "weeks_few": "{{count}} тижні тому",
+    "weeks_many": "{{count}} тижнів тому",
+    "weeks_other": "{{count}} тижня тому",
+
+    "months_one": "{{count}} місяць тому",
+    "months_few": "{{count}} місяці тому",
+    "months_many": "{{count}} місяців тому",
+    "months_other": "{{count}} місяця тому",
+
+    "years_one": "{{count}} рік тому",
+    "years_few": "{{count}} роки тому",
+    "years_many": "{{count}} років тому",
+    "years_other": "{{count}} року тому"
+  },
+  "onboardingValidation": {
+    "noData": "Дані онбордингу не знайдено.",
+    "incomplete": "Будь ласка, заповніть обов’язкові поля: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/міс",
+    "perYearSuffix": "/рік"
+  },
+  "today": "Сьогодні",
+  "weekdays": {
+    "short": {
+      "mo": "Пн",
+      "tu": "Вт",
+      "we": "Ср",
+      "th": "Чт",
+      "fr": "Пт",
+      "sa": "Сб",
+      "su": "Нд"
+    },
+    "superShort": {
+      "mo": "Пн",
+      "tu": "Вт",
+      "we": "Ср",
+      "th": "Чт",
+      "fr": "Пт",
+      "sa": "Сб",
+      "su": "Нд"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "Ups"
+  },
+  "errors": {
+    "generic": "Etwas ist schiefgelaufen.",
+    "deleteEntry": "Eintrag konnte nicht gelöscht werden.",
+    "updateFavorites": "Favoriten konnten nicht aktualisiert werden.",
+    "updateSkincare": "Hautpflegestatus konnte nicht aktualisiert werden.",
+    "saveProfileTitle": "Änderungen konnten nicht gespeichert werden",
+    "saveProfileBody": "Bitte versuche es in einem Moment erneut.",
+    "unsupportedLink": "Dieser Link kann nicht geöffnet werden.",
+    "openLinkUnsupported": "Dieser Link kann nicht geöffnet werden.",
+    "openLink": "Etwas ist schiefgelaufen."
+  },
+  "upload": {
+    "noImage": "Kein Bild bereitgestellt.",
+    "consentRequired": "Wir benötigen deine Einwilligung, um Fotos zu verarbeiten.",
+    "failed": "Upload fehlgeschlagen.",
+    "network": "Netzwerkfehler. Bitte versuche es erneut."
+  },
+  "consentAlert": {
+    "title": "Scannen ist deaktiviert",
+    "body": "Die Bildverarbeitung ist in deinen Einstellungen ausgeschaltet. Aktiviere sie, um fortzufahren.",
+    "cancel": "Abbrechen",
+    "enable": "Jetzt aktivieren"
+  },
+  "timeAgo": {
+    "now": "Gerade eben",
+    "minutes_one": "vor {{count}} Minute",
+    "minutes_other": "vor {{count}} Minuten",
+    "hours_one": "vor {{count}} Stunde",
+    "hours_other": "vor {{count}} Stunden",
+    "days_one": "vor {{count}} Tag",
+    "days_other": "vor {{count}} Tagen",
+    "weeks_one": "vor {{count}} Woche",
+    "weeks_other": "vor {{count}} Wochen",
+    "months_one": "vor {{count}} Monat",
+    "months_other": "vor {{count}} Monaten",
+    "years_one": "vor {{count}} Jahr",
+    "years_other": "vor {{count}} Jahren"
+  },
+  "onboardingValidation": {
+    "noData": "Keine Onboarding-Daten gefunden.",
+    "incomplete": "Bitte fülle alle erforderlichen Onboarding-Felder aus: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/Monat",
+    "perYearSuffix": "/Jahr"
+  },
+  "today": "Heute",
+  "weekdays": {
+    "short": {
+      "mo": "Mo",
+      "tu": "Di",
+      "we": "Mi",
+      "th": "Do",
+      "fr": "Fr",
+      "sa": "Sa",
+      "su": "So"
+    },
+    "superShort": {
+      "mo": "Mo",
+      "tu": "Di",
+      "we": "Mi",
+      "th": "Do",
+      "fr": "Fr",
+      "sa": "Sa",
+      "su": "So"
+    }
+  }
+}

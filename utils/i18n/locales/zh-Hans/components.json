@@ -1,0 +1,275 @@
+{
+  "auth": {
+    "appleCta": "使用 Apple 登录",
+    "appleCtaHint": "通过你的 Apple 账户继续",
+    "googleCta": "使用 Google 登录",
+    "googleCtaHint": "通过你的 Google 账户继续",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "入门未完成",
+        "message": "注册前请先完成必需步骤。"
+      },
+      "authIncomplete": {
+        "title": "认证未完成",
+        "message": "请在账户中完成额外步骤。"
+      },
+      "authFailed": {
+        "title": "登录失败",
+        "fallback": "出现问题，请重试。"
+      },
+      "unknown": {
+        "title": "哎呀",
+        "message": "发生未知错误。"
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "扫描处理",
+      "subtitle": "处理我的图片与皮肤档案以生成扫描结果。",
+      "a11yLabel": "扫描处理"
+    },
+    "links": {
+      "notifications": "通知中心",
+      "terms": "使用条款",
+      "privacy": "隐私政策",
+      "contact": "联系我们",
+      "manageSub": "管理订阅"
+    },
+    "contact": {
+      "emailSubject": "Beauty Ally 支持请求",
+      "emailBody": "Beauty Ally 支持团队您好：\n\n我想就应用中的问题或疑问进行咨询，详情如下：\n\n[请在此描述你的问题或疑问]\n\n感谢您的帮助！\n\n此致\n\n---\n用户 ID：{{userId}}\n语言/地区：{{locale}}\n应用：Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "要关闭扫描处理吗？",
+          "body": "关闭后，将停止处理你拍摄的新照片，并暂停结合你的皮肤档案进行分析。除非你删除，既有结果仍会保留在账户中。你可以随时再次开启。",
+          "cancel": "取消",
+          "confirm": "关闭"
+        },
+        "on": {
+          "title": "要开启扫描处理吗？",
+          "body": "开启后，Beauty Ally 将处理新的图像，并结合你的皮肤档案生成扫描结果。",
+          "cancel": "取消",
+          "confirm": "开启"
+        }
+      },
+      "updateFailed": {
+        "title": "更新失败",
+        "body": "无法更新你的扫描偏好设置，请重试。"
+      },
+      "delete": {
+        "title": "删除账户与数据",
+        "body": "⚠️ \n删除账户会永久移除你的个人档案、扫描历史、已上传照片、OCR 文本与结果，此操作不可撤销。\n\n这只会删除你的 Beauty Ally 账户（不会删除 Apple/Google 账户）。\n\n如有有效订阅，请先在 App Store 或 Google Play 设置中取消。",
+        "cancel": "取消",
+        "confirm": "是的，删除",
+        "errorTitle": "错误",
+        "errorBody": "删除账户失败，请重试。"
+      }
+    },
+    "deletingModal": {
+      "deleting": "正在删除你的账户…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "退出登录",
+      "hint": "从你的账户退出"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "我的美妆架："
+    },
+    "shelfTitle": "我的美妆架：",
+    "recentlyScanned": "最近扫描："
+  },
+  "emptyEntry": {
+    "titleNone": "还没有任何扫描！",
+    "titleSearch": "没有找到与「{{query}}」相关的扫描。",
+    "hintSearch": "请确认名称拼写无误。",
+    "hintNone": "进行第一次扫描即可开始体验。",
+    "startScan": "开始扫描"
+  },
+  "emptyFavorites": {
+    "titleNone": "收藏夹还是空的！",
+    "titleSearch": "没有找到与「{{query}}」相关的收藏。",
+    "hintSearch": "试试其他关键词<br/>或查看完整列表。",
+    "hintNone": "点击<strong>心形图标</strong>保存你喜欢的产品。"
+  },
+  "emptyMySkincare": {
+    "titleNone": "哎呀。你的护肤包<br/>还是空的！",
+    "titleSearch": "你的护肤包中没有匹配项",
+    "hintSearch": "去查看完整扫描历史<br/>或扫描一个新产品试试。",
+    "hintNone": "<strong>向左滑动</strong>产品即可将其加入日常护理。"
+  },
+  "emptyRecentUploads": {
+    "title": "还没有任何扫描！",
+    "hint": "要查看最近的上传，请点击<strong>扫描</strong>按钮。",
+    "cta": "开始扫描"
+  },
+  "errorCard": {
+    "title": "哎呀，出错了！",
+    "generic": "请重试。"
+  },
+  "layoutGate": {
+    "loadingTitle": "正在准备",
+    "loadingBody": "正在恢复您的 Beauty Ally 会话…",
+    "errorTitle": "无法加载您的个人资料",
+    "errorBody": "请检查网络连接后重试。",
+    "retry": "重试"
+  },
+  "filter": {
+    "all": "全部",
+    "verdicts": {
+      "generallySuitable": "整体适合",
+      "mightNotAlign": "可能不太适合",
+      "lowMatch": "匹配度较低"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "此评分由 AI 基于你的皮肤档案与产品成分生成。",
+      "body": "它反映的是总体兼容性——不是医疗建议或安全分数。如有不确定，请先做皮试并咨询专业人士。"
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "我的皮肤档案",
+    "none": "无",
+    "fields": {
+      "gender": "性别",
+      "climate": "气候",
+      "skinType": "肤质",
+      "allergies": "过敏/避用",
+      "skinConcerns": "肌肤关注点",
+      "activeTreatment": "活性护理",
+      "sunscreenUsage": "防晒使用"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "例如：",
+    "tooltip": {
+      "rxTitle": "处方专用成分。",
+      "rxBody": "与其他活性同用前请咨询医生。\n本应用仅供信息参考。"
+    }
+  },
+  "otherInput": {
+    "placeholder": "其他："
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "已加入收藏",
+      "favRemoved": "已从收藏移除",
+      "skincareAdded": "已加入「我的护肤」",
+      "skincareRemoved": "已从「我的护肤」移除",
+      "deleted": "条目已删除"
+    },
+    "removeConfirm": {
+      "title": "从护肤架中移除？",
+      "message": "这会将该产品从护肤架中移除，并清除它的所有护理流程条目。",
+      "cancel": "保留",
+      "confirm": "移除"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "如何扫描",
+        "subtitle": "了解扫描和分析护肤产品的简单方式。"
+      },
+      "2": {
+        "title": "快速模式",
+        "subtitle": "想快速查看时，只需一步即可拍下产品。"
+      },
+      "3": {
+        "title": "精准模式",
+        "subtitle": "分别拍摄正面和背面，获得更清晰、更详细的结果。"
+      },
+      "4": {
+        "title": "随时分享",
+        "subtitle": "保存或分享社交媒体上的产品截图，并在应用中查看分析。"
+      },
+      "5": {
+        "title": "购物时查看",
+        "subtitle": "网购时分享产品页面或截图，看看它是否适合你的皮肤档案。"
+      }
+    },
+    "actions": {
+      "continue": "继续",
+      "gotIt": "知道了"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "扫描历史",
+    "a11yOpenHistory": "打开扫描历史"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": ["正在上传照片…", "读取标签中…", "查看产品信息…", "快完成了…"],
+      "back": [
+        "正在上传照片…",
+        "读取成分列表…",
+        "更仔细地查看产品…",
+        "查看你的肤质信息…",
+        "确认是否适合你…",
+        "快完成了…"
+      ],
+      "both": [
+        "读取标签中…",
+        "查看产品信息…",
+        "查看你的肤质信息…",
+        "确认产品是否适合你…",
+        "确保一切匹配…",
+        "快完成了…"
+      ]
+    },
+    "hint": "可能需要一点时间，请稍候。"
+  },
+  "searchInput": {
+    "placeholder": "搜索产品…"
+  },
+  "signInSheet": {
+    "title": "登录",
+    "legal": "继续即表示你同意我们的\n<terms>使用条款</terms>与<privacy>隐私政策</privacy>。"
+  },
+  "updatePfp": {
+    "title": "我们该如何称呼你？",
+    "placeholder": "你的名字",
+    "save": "保存",
+    "discard": "放弃",
+    "alerts": {
+      "uploadFailedTitle": "上传失败",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "错误",
+      "galleryErrorBody": "从相册选择照片时出现问题。",
+      "updateNameFailedTitle": "无法更新姓名",
+      "updateNameFailedBody": "请稍后再试。"
+    }
+  },
+  "updateRow": {
+    "set": "设置"
+  },
+  "selectLanguage": "选择语言",
+  "languageChangeNotice": "你可随时在设置中更改",
+  "unknownProduct": "未知产品",
+  "routine": {
+    "productNameFallback": "产品名称",
+    "configureRoutine": "设置护理流程",
+    "morningTitle": "晨间护理",
+    "eveningTitle": "晚间护理",
+    "morningSubtitle": "清新开启新一天",
+    "eveningSubtitle": "放松下来，重启状态",
+    "daily": "每天",
+    "specificDays": "特定日期",
+    "addToRoutine": "添加到护理流程",
+    "addedToRoutine": "已添加到护理流程！✨",
+    "failedToAdd": "添加到护理流程失败",
+    "notificationPrompt": {
+      "title": "开启温柔提醒？",
+      "message": "想要温柔提醒你使用护肤产品吗？只发送有用通知，不打扰、不刷屏。",
+      "allow": "允许提醒",
+      "notNow": "暂时不要"
+    }
+  }
+}

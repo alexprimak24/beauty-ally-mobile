@@ -1,0 +1,276 @@
+{
+  "welcome": {
+    "intro": "اكتشف تطابقك التجميلي",
+    "noAccMsg": "يرجى إكمال خطوات الإعداد أولاً",
+    "signInMsg": "هل لديك حساب بالفعل؟<strong> سجّل الدخول</strong> ",
+    "action": "البدء"
+  },
+  "gender": {
+    "title": "ما هو جنسك؟",
+    "subtitle": "يساعدنا ذلك على تخصيص تجربتك بشكل أفضل.",
+
+    "male": { "label": "ذكر" },
+    "female": { "label": "أنثى" },
+    "nonBinary": { "label": "غير ثنائي" },
+    "preferNot": { "label": "أفضل عدم الإجابة" }
+  },
+
+  "weather": {
+    "title": "كيف هو المناخ في المكان الذي تعيش فيه؟",
+    "subtitle": "قد يؤثر المناخ على شعور المنتجات على البشرة وكيفية امتصاصها.",
+
+    "coolDry": { "label": "بارد وجاف" },
+    "coolHumid": { "label": "بارد ورطب" },
+    "mildDry": { "label": "معتدل وجاف" },
+    "warmHumid": { "label": "دافئ ورطب" },
+    "hotDry": { "label": "حار وجاف" },
+    "hotHumid": { "label": "حار ورطب" },
+    "highUVYearRound": { "label": "أشعة فوق بنفسجية مرتفعة طوال العام" }
+  },
+
+  "skinType": {
+    "title": "كيف تصف بشرتك؟",
+    "subtitle": "اختر الخيار الأقرب إلى حالة بشرتك في معظم الأوقات.",
+
+    "normal": { "label": "عادية", "explanation": "" },
+    "dry": { "label": "جافة", "explanation": "" },
+    "oily": { "label": "دهنية", "explanation": "" },
+    "sensitive": { "label": "حسّاسة", "explanation": "" },
+    "combination": { "label": "مختلطة", "explanation": "(مناطق دهنية وأخرى جافة في الوجه)" }
+  },
+
+  "skinConcerns": {
+    "title": "ما أبرز مشاكل بشرتك؟",
+    "subtitle": "اختر ما يهمك أكثر حتى نتمكن من تخصيص النتائج لك.",
+
+    "breakouts": { "label": "حبوب أو بثور" },
+    "rednessSensitivity": { "label": "احمرار أو حساسية" },
+    "cloggedPores": { "label": "مسام مسدودة أو رؤوس سوداء" },
+    "hyperpigmentation": { "label": "بقع داكنة أو لون غير متساوٍ" },
+    "dryness": { "label": "جفاف أو نقص ترطيب" },
+    "wrinkles": { "label": "خطوط دقيقة أو تجاعيد" },
+    "unevenTexture": { "label": "ملمس غير متساوٍ أو بشرة باهتة" },
+    "largePores": { "label": "مسام ظاهرة" },
+    "oilyShine": { "label": "لمعان زائد" },
+    "none": { "label": "لا شيء حالياً" }
+  },
+
+  "allergies": {
+    "title": "هل هناك مكونات لا تتوافق مع بشرتك؟",
+    "subtitle": "سنستخدم هذه المعلومات للإشارة إلى المكونات التي قد لا تكون الأنسب لك.",
+
+    "alcohol": {
+      "label": "الكحول",
+      "examples": "alcohol denat., ethanol"
+    },
+    "fragrance": {
+      "label": "العطور",
+      "examples": "parfum, linalool, limonene"
+    },
+    "essentialOils": {
+      "label": "الزيوت الأساسية",
+      "examples": "lavender oil, orange peel oil, tea tree oil"
+    },
+    "lanolin": {
+      "label": "اللانولين",
+      "examples": "lanolin, lanolin oil"
+    },
+    "coconutOil": {
+      "label": "مشتقات زيت جوز الهند",
+      "examples": "cocamidopropyl betaine, sodium coco-sulfate"
+    },
+    "dyes": {
+      "label": "الأصباغ",
+      "examples": "red 40, yellow 5, blue 1"
+    },
+    "mica": {
+      "label": "الميكا",
+      "examples": "mica, synthetic mica"
+    },
+    "none": {
+      "label": "لا شيء",
+      "examples": ""
+    }
+  },
+
+  "currentTreatment": {
+    "title": "هل تستخدم حالياً أياً من هذه العلاجات للعناية بالبشرة؟",
+    "subtitle": "يساعدنا ذلك على فهم ما هو موجود بالفعل في روتينك.",
+
+    "retinol": { "label": "ريتينول أو ريتينويدات", "explanation": "" },
+    "vitaminC": { "label": "فيتامين C", "explanation": "" },
+    "ahaBha": {
+      "label": "أحماض AHA / BHA",
+      "explanation": "(حمض الجليكوليك / حمض الساليسيليك / حمض اللاكتيك)"
+    },
+    "benzoyl": { "label": "بيروكسيد البنزويل", "explanation": "" },
+    "niacinamide": { "label": "نياسيناميد", "explanation": "" },
+    "prescriptionCreams": { "label": "كريمات أو جل بوصفة طبية", "explanation": "" },
+    "strongAcne": { "label": "أدوية فموية لعلاج حب الشباب", "explanation": "" },
+    "no": { "label": "لا شيء حالياً", "explanation": "" }
+  },
+
+  "sunscreenUsage": {
+    "title": "كم مرة تستخدم واقي الشمس؟",
+    "subtitle": "يمكن للمناخ أن يؤثر على شعور بشرتك.",
+
+    "never": { "label": "أبداً" },
+    "occasionally": { "label": "نادرًا" },
+    "sometimes": { "label": "أحيانًا" },
+    "almostDaily": { "label": "شبه يوميّاً" },
+    "daily": { "label": "يوميّاً" }
+  },
+
+  "summary": {
+    "title": "نُخصّص تجربتك باستخدام بيانات بشرتك",
+    "steps": {
+      "step1": "تحضير تفضيلاتك",
+      "step2": "إعداد فحوصات المكوّنات",
+      "step3": "مراعاة خيارات الحساسية لديك",
+      "step4": "تهيئة معايير المطابقة",
+      "step5": "إتمام الإعداد"
+    }
+  },
+  "congratulations": {
+    "title": "تهانينا، تم إعداد<br/>ملف بشرتك!",
+    "subtitle": "نستخدم ملف بشرتك وصور المنتجات للتحقق من قوائم المكوّنات وعرض تلميحات الملاءمة.",
+    "disclamer": "معلومات منشأة بالذكاء الاصطناعي فقط. ليست نصيحة طبية. ليس جهازاً طبياً.",
+    "termsPriv": "أوافق على <strong>شروط الاستخدام</strong> و<highlight>سياسة الخصوصية</highlight>",
+    "processConsent": "أُقرّ بموافقتي على أن تقوم Beauty Ally بمعالجة <strong>ملف بشرتي</strong> و<highlight>صور المنتجات</highlight> لتقديم فحوصات قائمة المكوّنات وإشارات الملاءمة العامة. يمكنني سحب الموافقة في أي وقت من الملف الشخصي.",
+    "termsRaw": "أوافق على شروط الاستخدام وسياسة الخصوصية.",
+    "healthRaw": "أوافق على أن تعالج Beauty Ally ملف بشرتي وصوري لتقديم تحليل المكوّنات ونتائج الملاءمة. يمكنني سحب الموافقة في أي وقت من الإعدادات.",
+    "learnMsg": "تعرّف على المزيد حول كيفية استخدامنا لبياناتك",
+    "ageConsent": "بالمتابعة تؤكد أنك تبلغ 18 عامًا أو أكثر (أو سن الرشد في بلدك).",
+    "modal": {
+      "title": "كيف نستخدم بياناتك",
+      "explanation": "• تُستخدم فقط لتقديم الميزات الأساسية (تحليل المكوّنات ونتائج الملاءمة)<br/>• لا تُباع ولا تُستخدم للإعلانات الموجَّهة<br/>• تُخزَّن في سحابة خاصة مع ضوابط وصول لكل مستخدم<br/>• يمكنك حذف البيانات أو سحب الموافقة من الملف الشخصي → حذف الحساب والبيانات"
+    }
+  },
+  "createAccount": {
+    "title": "أنشئ حسابك",
+    "subtitle": "احفظ تقدمك وحافظ على أمان حسابك.",
+    "terms": "بيانات بشرتك مشفرة وخاصة. نستخدمها فقط لتخصيص روتين العناية الخاص بك."
+  },
+  "paymentPage": {
+    "header": {
+      "title": "اختر خطتك",
+      "subtitle": "فحوصات مخصصة · خيارات أذكى"
+    },
+    "loading": {
+      "default": {
+        "message": "جارٍ المعالجة...",
+        "subMessage": "لحظة من فضلك"
+      },
+      "purchasing": {
+        "message": "تأكيد الاشتراك...",
+        "subMessage": "تأمين وصولك لـ Pro"
+      },
+      "switching": {
+        "message": "تحديث الخطة...",
+        "subMessage": "تطبيق التغييرات على الحساب"
+      },
+      "restoring": {
+        "message": "استعادة المشتريات...",
+        "subMessage": "البحث عن اشتراكات نشطة"
+      },
+      "freeScans": {
+        "message": "تفعيل الفحوصات المجانية...",
+        "subMessage": "استعد للتألق!"
+      },
+      "loadingPaywall": {
+        "message": "تحميل التجربة...",
+        "subMessage": "تجهيز أفضل الخيارات لك"
+      },
+      "packages": "تحميل الخطط..."
+    },
+    "plans": {
+      "yearly": "سنوي",
+      "monthly": "شهري",
+      "yearlyPlan": "الخطة السنوية",
+      "monthlyPlan": "الخطة الشهرية",
+      "yearlyUpper": "الخطة السنوية",
+      "monthlyUpper": "الخطة الشهرية"
+    },
+    "freeScans": {
+      "used": "استُنفذ حد الفحوصات",
+      "offer": "متردد؟ 5 تجريبية",
+      "claim": "احصل على 5 فحوصات مجانية",
+      "noCard": "لا حاجة لبطاقة."
+    },
+    "banner": {
+      "special": "سعر خاص"
+    },
+    "card": {
+      "currentBadge": "الخطة الحالية",
+      "cancelAnytime": "إلغاء في أي وقت",
+      "firstYear": "السنة الأولى",
+      "firstMonth": "الشهر الأول",
+      "then": "ثم"
+    },
+    "benefits": {
+      "unlimited": "فحوصات غير محدودة",
+      "advanced": "تحليل أعمق ورؤى دقيقة",
+      "bestValue": "الخيار الأفضل"
+    },
+    "cta": {
+      "active": "نشط",
+      "switchTo": "التحويل لـ",
+      "continue": "متابعة",
+      "noCommit": "بدون التزام. إلغاء متى شئت."
+    },
+    "footer": {
+      "terms": "الشروط",
+      "privacy": "الخصوصية",
+      "restore": "استعادة"
+    },
+    "toast": {
+      "switchYearly": "تم التحويل للسنوي",
+      "switchMonthly": "تم التحويل للشهري",
+      "premiumUn": "تم تفعيل Premium",
+      "restored": "تمت استعادة المشتريات",
+      "restoreErr": "فشلت الاستعادة. حاول مرة أخرى.",
+      "freeActivated": "تم تفعيل الفحوصات",
+      "freeAlready": "الفحوصات متاحة بالفعل"
+    },
+    "subscribed": {
+      "title": "أنت Pro!",
+      "subtitle": "اشتراكك مفعل. استمتع بفحوصات غير محدودة وتحليل أعمق.",
+      "currentPlanLabel": "الخطة الحالية",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(سنوي)",
+      "monthSuffix": "(شهري)",
+      "fallback": "Premium",
+      "goHome": "الرئيسية",
+      "manage": "إدارة الاشتراك"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "كل شيء جاهز",
+    "subtitle": "تم تفعيل اشتراكك. استمتع بالتجربة.",
+    "receipt": {
+      "statusLabel": "الحالة",
+      "statusActive": "نشط",
+      "statusPending": "قيد الانتظار",
+      "subscriptionLabel": "الاشتراك",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "وصول Premium"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "حدث خطأ أثناء إضافة موافقاتك. حاول مرة أخرى",
+    "needConsent": "يرجى قبول الشروط والخصوصية أولاً.",
+    "signupErr": "تعذّر إنشاء الحساب. حاول مرة أخرى."
+  },
+  "actions": {
+    "continue": "متابعة",
+    "update": "تحديث",
+    "close": "إغلاق",
+    "celebration": "ابدأ الاستكشاف"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "الباقة غير متاحة",
+      "purchaseFailed": "فشلت عملية الشراء"
+    }
+  }
+}

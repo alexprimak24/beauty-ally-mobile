@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "عذرًا"
+  },
+  "errors": {
+    "generic": "حدث خطأ ما.",
+    "deleteEntry": "تعذّر حذف السجل.",
+    "updateFavorites": "تعذّر تحديث المفضلة.",
+    "updateSkincare": "تعذّر تحديث حالة العناية بالبشرة.",
+    "saveProfileTitle": "تعذّر حفظ التغييرات",
+    "saveProfileBody": "يرجى المحاولة مرة أخرى بعد قليل.",
+    "unsupportedLink": "تعذّر فتح هذا الرابط.",
+    "openLinkUnsupported": "تعذّر فتح هذا الرابط.",
+    "openLink": "حدث خطأ ما."
+  },
+  "upload": {
+    "noImage": "لم يتم تقديم صورة.",
+    "consentRequired": "نحتاج إلى موافقتك لمعالجة الصور.",
+    "failed": "فشل الرفع.",
+    "network": "خطأ في الشبكة. يرجى المحاولة مرة أخرى."
+  },
+  "consentAlert": {
+    "title": "تم تعطيل الفحص",
+    "body": "تم إيقاف معالجة الصور في إعداداتك. أعد تفعيلها للمتابعة.",
+    "cancel": "إلغاء",
+    "enable": "فعّل الآن"
+  },
+  "timeAgo": {
+    "now": "الآن",
+    "minutes_one": "قبل {{count}} دقيقة",
+    "minutes_other": "قبل {{count}} دقائق",
+    "hours_one": "قبل {{count}} ساعة",
+    "hours_other": "قبل {{count}} ساعات",
+    "days_one": "قبل {{count}} يومًا",
+    "days_other": "قبل {{count}} أيام",
+    "weeks_one": "قبل {{count}} أسبوعًا",
+    "weeks_other": "قبل {{count}} أسابيع",
+    "months_one": "قبل {{count}} شهرًا",
+    "months_other": "قبل {{count}} أشهر",
+    "years_one": "قبل {{count}} سنة",
+    "years_other": "قبل {{count}} سنوات"
+  },
+  "onboardingValidation": {
+    "noData": "لم يتم العثور على بيانات بدء الاستخدام.",
+    "incomplete": "يرجى إكمال جميع حقول بدء الاستخدام المطلوبة: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/شهر",
+    "perYearSuffix": "/سنة"
+  },
+  "today": "اليوم",
+  "weekdays": {
+    "short": {
+      "mo": "الاث",
+      "tu": "الثل",
+      "we": "الأر",
+      "th": "الخم",
+      "fr": "الجم",
+      "sa": "السب",
+      "su": "الأح"
+    },
+    "superShort": {
+      "mo": "اث",
+      "tu": "ثل",
+      "we": "أر",
+      "th": "خم",
+      "fr": "جم",
+      "sa": "سب",
+      "su": "أح"
+    }
+  }
+}

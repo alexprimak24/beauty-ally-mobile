@@ -1,0 +1,275 @@
+{
+  "auth": {
+    "appleCta": "Apple로 로그인",
+    "appleCtaHint": "Apple 계정으로 계속하기",
+    "googleCta": "Google로 로그인",
+    "googleCtaHint": "Google 계정으로 계속하기",
+    "alerts": {
+      "incompleteOnboarding": {
+        "title": "온보딩 미완료",
+        "message": "가입 전에 필요한 단계를 완료해 주세요."
+      },
+      "authIncomplete": {
+        "title": "인증 미완료",
+        "message": "계정에서 추가 단계를 완료해 주세요."
+      },
+      "authFailed": {
+        "title": "인증 실패",
+        "fallback": "문제가 발생했습니다. 다시 시도해 주세요."
+      },
+      "unknown": {
+        "title": "이런!",
+        "message": "알 수 없는 오류가 발생했습니다."
+      }
+    }
+  },
+  "settings": {
+    "scan": {
+      "title": "스캔 처리",
+      "subtitle": "이미지와 피부 프로필을 처리해 스캔 결과를 생성합니다.",
+      "a11yLabel": "스캔 처리"
+    },
+    "links": {
+      "notifications": "알림 센터",
+      "terms": "이용약관",
+      "privacy": "개인정보 처리방침",
+      "contact": "문의하기",
+      "manageSub": "구독 관리"
+    },
+    "contact": {
+      "emailSubject": "Beauty Ally 지원 요청",
+      "emailBody": "Beauty Ally 지원팀께,\n\n앱과 관련하여 문의/문제가 있어 연락드립니다. 아래에 자세한 내용을 적어 주세요:\n\n[여기에 질문을 작성하거나 문제를 설명해 주세요]\n\n도움에 감사드립니다.\n\n감사합니다.\n\n---\n사용자 ID: {{userId}}\n언어/지역: {{locale}}\n앱: Beauty Ally"
+    },
+    "alerts": {
+      "toggle": {
+        "off": {
+          "title": "스캔 처리를 비활성화할까요?",
+          "body": "이 기능을 끄면 새로 촬영하는 사진의 처리가 중지되고, 피부 프로필을 활용한 분석이 일시 중지됩니다. 이전 결과는 삭제하지 않는 한 계정에 남습니다. 언제든 다시 켤 수 있어요.",
+          "cancel": "취소",
+          "confirm": "끄기"
+        },
+        "on": {
+          "title": "스캔 처리를 활성화할까요?",
+          "body": "활성화하면 Beauty Ally가 새 이미지를 처리하고 피부 프로필을 사용해 스캔 결과를 생성할 수 있습니다.",
+          "cancel": "취소",
+          "confirm": "켜기"
+        }
+      },
+      "updateFailed": {
+        "title": "업데이트 실패",
+        "body": "스캔 선호도를 업데이트할 수 없습니다. 다시 시도해 주세요."
+      },
+      "delete": {
+        "title": "계정 및 데이터 삭제",
+        "body": "⚠️ \n계정을 삭제하면 프로필, 스캔 내역, 업로드한 사진, OCR 텍스트, 결과가 영구적으로 제거됩니다. 되돌릴 수 없습니다.\n\n이는 Apple/Google 계정이 아닌 Beauty Ally 계정만 삭제합니다.\n\n활성 구독은 App Store 또는 Google Play 설정에서 취소해야 합니다.",
+        "cancel": "취소",
+        "confirm": "예, 삭제합니다",
+        "errorTitle": "오류",
+        "errorBody": "계정을 삭제하지 못했습니다. 다시 시도해 주세요."
+      }
+    },
+    "deletingModal": {
+      "deleting": "계정을 삭제하는 중…"
+    }
+  },
+  "profile": {
+    "logout": {
+      "cta": "로그아웃",
+      "hint": "계정에서 로그아웃하기"
+    }
+  },
+  "home": {
+    "beautyShelf": {
+      "title": "나의 뷰티 선반:"
+    },
+    "shelfTitle": "나의 뷰티 선반:",
+    "recentlyScanned": "최근 스캔:"
+  },
+  "emptyEntry": {
+    "titleNone": "아직 스캔한 항목이 없어요!",
+    "titleSearch": "{{query}}에 대한 스캔이 없습니다.",
+    "hintSearch": "이름이 정확한지 확인해 보세요.",
+    "hintNone": "첫 스캔을 시작해 보세요.",
+    "startScan": "스캔 시작"
+  },
+  "emptyFavorites": {
+    "titleNone": "아직 즐겨찾기가 없어요!",
+    "titleSearch": "{{query}}에 대한 즐겨찾기가 없습니다.",
+    "hintSearch": "다른 키워드를 시도해 보거나<br/>전체 목록을 확인해 보세요.",
+    "hintNone": "마음에 드는 제품은 <strong>하트 아이콘</strong>을 눌러 저장하세요."
+  },
+  "emptyMySkincare": {
+    "titleNone": "이런. 스킨케어 가방이<br/>아직 비었어요!",
+    "titleSearch": "스킨케어 가방에 일치 항목이 없어요",
+    "hintSearch": "전체 스캔 기록을 확인하거나<br/>새 제품을 스캔해 보세요.",
+    "hintNone": "제품을 <strong>왼쪽으로 스와이프</strong>해 루틴에 추가하세요."
+  },
+  "emptyRecentUploads": {
+    "title": "아직 스캔한 항목이 없어요!",
+    "hint": "최근 업로드를 보려면 <strong>스캔</strong> 버튼을 탭하세요.",
+    "cta": "스캔 시작"
+  },
+  "errorCard": {
+    "title": "이런, 문제가 발생했어요!",
+    "generic": "다시 시도해 주세요."
+  },
+  "layoutGate": {
+    "loadingTitle": "준비 중이에요",
+    "loadingBody": "Beauty Ally 세션을 복원하고 있어요…",
+    "errorTitle": "프로필을 불러오지 못했어요",
+    "errorBody": "연결 상태를 확인하고 다시 시도해 주세요.",
+    "retry": "다시 시도"
+  },
+  "filter": {
+    "all": "전체",
+    "verdicts": {
+      "generallySuitable": "전반적으로 잘 맞아요",
+      "mightNotAlign": "잘 안 맞을 수 있어요",
+      "lowMatch": "매칭도 낮음"
+    }
+  },
+  "mySkincareCard": {
+    "tooltip": {
+      "lead": "이 평점은 사용자의 피부 프로필과 제품 성분을 바탕으로 AI가 생성했습니다.",
+      "body": "일반적인 적합도를 나타내며 의학적 조언이나 안전 점수가 아닙니다. 불확실할 땐 항상 패치 테스트 후 전문가와 상의하세요."
+    }
+  },
+  "mySkinProfileBtn": {
+    "title": "내 피부 프로필",
+    "none": "없음",
+    "fields": {
+      "gender": "성별",
+      "climate": "기후",
+      "skinType": "피부 타입",
+      "allergies": "알레르기",
+      "skinConcerns": "피부 고민",
+      "activeTreatment": "유효성분 사용",
+      "sunscreenUsage": "선크림 사용"
+    }
+  },
+  "optionSecondary": {
+    "exampleLabel": "예시:",
+    "tooltip": {
+      "rxTitle": "의사 처방이 필요한 성분입니다.",
+      "rxBody": "다른 유효성분과 병용하기 전에 의사와 상담하세요.\n이 앱은 정보 제공용입니다."
+    }
+  },
+  "otherInput": {
+    "placeholder": "기타:"
+  },
+  "scanEntry": {
+    "toast": {
+      "favAdded": "즐겨찾기에 추가됨",
+      "favRemoved": "즐겨찾기에서 제거됨",
+      "skincareAdded": "내 스킨케어에 추가됨",
+      "skincareRemoved": "내 스킨케어에서 제거됨",
+      "deleted": "항목이 삭제되었습니다"
+    },
+    "removeConfirm": {
+      "title": "스킨케어 선반에서 제거할까요?",
+      "message": "이 제품이 선반에서 제거되고 연결된 모든 루틴 항목도 삭제됩니다.",
+      "cancel": "유지하기",
+      "confirm": "제거"
+    }
+  },
+  "scanGuide": {
+    "steps": {
+      "1": {
+        "title": "스캔하는 방법",
+        "subtitle": "스킨케어 제품을 스캔하고 분석하는 가장 쉬운 방법을 알아보세요."
+      },
+      "2": {
+        "title": "빠른 모드",
+        "subtitle": "빠르게 확인하고 싶을 때 제품을 한 단계로 촬영하세요."
+      },
+      "3": {
+        "title": "정밀 모드",
+        "subtitle": "더 선명하고 자세한 결과를 위해 앞면과 뒷면을 따로 촬영하세요."
+      },
+      "4": {
+        "title": "어디서든 공유",
+        "subtitle": "소셜 미디어에서 본 제품의 스크린샷을 저장하거나 공유해 앱에서 확인하세요."
+      },
+      "5": {
+        "title": "쇼핑 중 확인",
+        "subtitle": "온라인 쇼핑 중 제품 페이지나 스크린샷을 공유해 내 피부 프로필과 잘 맞는지 확인하세요."
+      }
+    },
+    "actions": {
+      "continue": "계속",
+      "gotIt": "알겠어요"
+    }
+  },
+  "scanHistoryBtn": {
+    "title": "스캔 기록",
+    "a11yOpenHistory": "스캔 기록 열기"
+  },
+  "scanProcessingOverlay": {
+    "stages": {
+      "front": ["사진 업로드 중…", "라벨 확인 중…", "제품 검토 중…", "곧 완료됩니다…"],
+      "back": [
+        "사진 업로드 중…",
+        "성분 확인 중…",
+        "제품을 더 자세히 살펴보는 중…",
+        "피부 프로필 확인 중…",
+        "나에게 맞는지 확인 중…",
+        "곧 완료됩니다…"
+      ],
+      "both": [
+        "라벨 확인 중…",
+        "제품 검토 중…",
+        "피부 프로필 확인 중…",
+        "나에게 맞는지 확인 중…",
+        "전체를 다시 확인 중…",
+        "곧 완료됩니다…"
+      ]
+    },
+    "hint": "잠시 시간이 걸릴 수 있어요."
+  },
+  "searchInput": {
+    "placeholder": "제품 검색…"
+  },
+  "signInSheet": {
+    "title": "로그인",
+    "legal": "계속하면\n<terms>이용약관</terms>과 <privacy>개인정보 처리방침</privacy>에 동의하는 것으로 간주됩니다."
+  },
+  "updatePfp": {
+    "title": "어떻게 불러드릴까요?",
+    "placeholder": "이름",
+    "save": "저장",
+    "discard": "취소",
+    "alerts": {
+      "uploadFailedTitle": "업로드 실패",
+      "uploadFailedBody": "{{error}}",
+      "galleryErrorTitle": "오류",
+      "galleryErrorBody": "갤러리에서 사진을 선택하는 중 문제가 발생했습니다.",
+      "updateNameFailedTitle": "이름을 업데이트할 수 없어요",
+      "updateNameFailedBody": "잠시 후 다시 시도해 주세요."
+    }
+  },
+  "updateRow": {
+    "set": "설정"
+  },
+  "selectLanguage": "언어 선택",
+  "languageChangeNotice": "설정에서 언제든 변경할 수 있어요",
+  "unknownProduct": "알 수 없는 제품",
+  "routine": {
+    "productNameFallback": "제품 이름",
+    "configureRoutine": "루틴 설정",
+    "morningTitle": "아침 루틴",
+    "eveningTitle": "저녁 루틴",
+    "morningSubtitle": "산뜻하게 하루를 시작해요",
+    "eveningSubtitle": "편안히 마무리하고 리셋해요",
+    "daily": "매일",
+    "specificDays": "특정 요일",
+    "addToRoutine": "루틴에 추가",
+    "addedToRoutine": "루틴에 추가됐어요! ✨",
+    "failedToAdd": "루틴에 추가하지 못했어요",
+    "notificationPrompt": {
+      "title": "부드러운 리마인더를 받을까요?",
+      "message": "스킨케어 제품을 바를 때 부드럽게 알려드릴까요? 꼭 필요한 알림만 보내고 스팸은 없어요.",
+      "allow": "리마인더 허용",
+      "notNow": "나중에"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "alerts": {
+    "oops": "おっと"
+  },
+  "errors": {
+    "generic": "問題が発生しました。",
+    "deleteEntry": "エントリを削除できませんでした。",
+    "updateFavorites": "お気に入りを更新できませんでした。",
+    "updateSkincare": "スキンケアの状態を更新できませんでした。",
+    "saveProfileTitle": "変更を保存できませんでした",
+    "saveProfileBody": "しばらくしてからもう一度お試しください。",
+    "unsupportedLink": "このリンクを開けません。",
+    "openLinkUnsupported": "このリンクを開けません。",
+    "openLink": "問題が発生しました。"
+  },
+  "upload": {
+    "noImage": "画像が選択されていません。",
+    "consentRequired": "写真を処理するには同意が必要です。",
+    "failed": "アップロードに失敗しました。",
+    "network": "ネットワークエラーが発生しました。もう一度お試しください。"
+  },
+  "consentAlert": {
+    "title": "スキャンは無効です",
+    "body": "設定で画像処理がオフになっています。続行するにはオンにしてください。",
+    "cancel": "キャンセル",
+    "enable": "今すぐ有効にする"
+  },
+  "timeAgo": {
+    "now": "たった今",
+    "minutes_one": "{{count}} 分前",
+    "minutes_other": "{{count}} 分前",
+    "hours_one": "{{count}} 時間前",
+    "hours_other": "{{count}} 時間前",
+    "days_one": "{{count}} 日前",
+    "days_other": "{{count}} 日前",
+    "weeks_one": "{{count}} 週間前",
+    "weeks_other": "{{count}} 週間前",
+    "months_one": "{{count}} か月前",
+    "months_other": "{{count}} か月前",
+    "years_one": "{{count}} 年前",
+    "years_other": "{{count}} 年前"
+  },
+  "onboardingValidation": {
+    "noData": "オンボーディングデータが見つかりません。",
+    "incomplete": "必須のオンボーディング項目を完了してください: {{fields}}"
+  },
+  "billing": {
+    "perMonthSuffix": "/月",
+    "perYearSuffix": "/年"
+  },
+  "today": "今日",
+  "weekdays": {
+    "short": {
+      "mo": "月",
+      "tu": "火",
+      "we": "水",
+      "th": "木",
+      "fr": "金",
+      "sa": "土",
+      "su": "日"
+    },
+    "superShort": {
+      "mo": "月",
+      "tu": "火",
+      "we": "水",
+      "th": "木",
+      "fr": "金",
+      "sa": "土",
+      "su": "日"
+    }
+  }
+}

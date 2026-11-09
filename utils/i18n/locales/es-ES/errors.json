@@ -1,0 +1,32 @@
+{
+  "required": "Este campo no puede quedar vacío.",
+  "invalidJson": "Algo no se procesó correctamente. Probemos de nuevo.",
+  "unauthorized": "Tu sesión ha finalizado. Inicia sesión para continuar.",
+  "internalError": "Ha ocurrido un error por nuestra parte. Inténtalo de nuevo en un momento.",
+  "validationFailed": "Algunos datos no parecen correctos. Revísalos e inténtalo de nuevo.",
+  "notFound": "No hemos encontrado lo que buscas.",
+  "fileTooBig": "Ese archivo parece demasiado grande. Prueba con uno más pequeño.",
+  "unsupportedMediaType": "Este tipo de archivo no es compatible.",
+  "invalidParam": "Parte de la información parece incorrecta. Revísala e inténtalo de nuevo.",
+  "freeAlreadyActivated": "Los escaneos gratuitos ya están en uso.",
+  "subscriptionRequired": "Necesitas una suscripción para seguir.",
+  "badRequest": "Tu solicitud no parecía correcta.",
+  "rateLimited": "Vas un poco rápido. Inténtalo de nuevo en breve.",
+  "fairUseRestricted": "Has alcanzado el límite de uso actual. Vuelve a intentarlo más tarde.",
+  "consentRequired": "Primero revisa y acepta los consentimientos requeridos.",
+  "invalidConsentStatus": "Ese estado de consentimiento no es válido.",
+  "invalidConsentType": "Ese tipo de consentimiento no es compatible.",
+  "generic": "Algo ha salido mal. Inténtalo más tarde.",
+
+  "photoCaptureError": "No se pudo tomar la foto",
+  "cameraMountError": "Cámara no disponible",
+
+  "bothImagesRequired": "Añade ambas fotos.",
+
+  "uploadFailed": "No se pudo subir la foto. Inténtalo de nuevo.",
+  "ocrFailed": "No se pudo leer la foto. Inténtalo de nuevo.",
+  "gptExtrFailed": "No se pudo reconocer el producto. Inténtalo de nuevo.",
+
+  "missingIngredients": "No se encontraron ingredientes. Intentémoslo de nuevo.",
+  "productNotDetected": "Producto no reconocido. Prueba otra foto."
+}

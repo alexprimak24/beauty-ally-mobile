@@ -1,0 +1,280 @@
+{
+  "welcome": {
+    "intro": "あなたに合うコスメを見つけよう",
+    "noAccMsg": "まずはオンボーディングを完了してください",
+    "signInMsg": "すでにアカウントがありますか？<strong>ログイン</strong>",
+    "action": "はじめる"
+  },
+  "gender": {
+    "title": "あなたの性別は何ですか？",
+    "subtitle": "より丁寧にあなたに合った体験を提供するための参考になります。",
+
+    "male": { "label": "男性" },
+    "female": { "label": "女性" },
+    "nonBinary": { "label": "ノンバイナリー" },
+    "preferNot": { "label": "回答しない" }
+  },
+
+  "weather": {
+    "title": "お住まいの地域の気候はどのような感じですか？",
+    "subtitle": "気候によって、製品の使用感や肌へのなじみ方が変わることがあります。",
+
+    "coolDry": { "label": "涼しく乾燥" },
+    "coolHumid": { "label": "涼しく湿潤" },
+    "mildDry": { "label": "温和で乾燥" },
+    "warmHumid": { "label": "暖かく湿潤" },
+    "hotDry": { "label": "暑く乾燥" },
+    "hotHumid": { "label": "暑く湿潤" },
+    "highUVYearRound": { "label": "一年中紫外線が強い" }
+  },
+
+  "skinType": {
+    "title": "ご自身の肌タイプをどのように感じていますか？",
+    "subtitle": "普段の肌の状態に最も近いものを選んでください。",
+
+    "normal": { "label": "普通肌", "explanation": "" },
+    "dry": { "label": "乾燥肌", "explanation": "" },
+    "oily": { "label": "脂性肌", "explanation": "" },
+    "sensitive": { "label": "敏感肌", "explanation": "" },
+    "combination": {
+      "label": "混合肌",
+      "explanation": "（顔の部位によって油っぽい／乾燥している）"
+    }
+  },
+
+  "skinConcerns": {
+    "title": "気になる肌の悩みはどれですか？",
+    "subtitle": "当てはまるものを選んでいただくと、結果をよりパーソナライズできます。",
+
+    "breakouts": { "label": "ニキビや吹き出物" },
+    "rednessSensitivity": { "label": "赤みや敏感さ" },
+    "cloggedPores": { "label": "毛穴の詰まりや黒ずみ" },
+    "hyperpigmentation": { "label": "シミや色ムラ" },
+    "dryness": { "label": "乾燥や水分不足" },
+    "wrinkles": { "label": "小じわやシワ" },
+    "unevenTexture": { "label": "肌のざらつきやくすみ" },
+    "largePores": { "label": "目立つ毛穴" },
+    "oilyShine": { "label": "皮脂によるテカリ" },
+    "none": { "label": "特にありません" }
+  },
+
+  "allergies": {
+    "title": "肌に合わない成分はありますか？",
+    "subtitle": "合わない可能性のある成分をお知らせするために使用します。",
+
+    "alcohol": {
+      "label": "アルコール",
+      "examples": "変性アルコール、エタノール"
+    },
+    "fragrance": {
+      "label": "香料",
+      "examples": "パルファム、リナロール、リモネン"
+    },
+    "essentialOils": {
+      "label": "エッセンシャルオイル",
+      "examples": "ラベンダー油、オレンジ果皮油、ティーツリー油"
+    },
+    "lanolin": {
+      "label": "ラノリン",
+      "examples": "ラノリン、ラノリンオイル"
+    },
+    "coconutOil": {
+      "label": "ココナッツオイル由来成分",
+      "examples": "コカミドプロピルベタイン、ココ硫酸Na"
+    },
+    "dyes": {
+      "label": "色素",
+      "examples": "赤40、黄5、青1"
+    },
+    "mica": {
+      "label": "マイカ（雲母）",
+      "examples": "マイカ、合成マイカ"
+    },
+    "none": {
+      "label": "特になし",
+      "examples": ""
+    }
+  },
+
+  "currentTreatment": {
+    "title": "現在、次のようなスキンケア治療を使っていますか？",
+    "subtitle": "現在のスキンケアルーティンを理解するために役立ちます。",
+
+    "retinol": { "label": "レチノールまたはレチノイド", "explanation": "" },
+    "vitaminC": { "label": "ビタミンC", "explanation": "" },
+    "ahaBha": { "label": "AHA / BHA 酸", "explanation": "(グリコール酸 / サリチル酸 / 乳酸)" },
+    "benzoyl": { "label": "過酸化ベンゾイル", "explanation": "" },
+    "niacinamide": { "label": "ナイアシンアミド", "explanation": "" },
+    "prescriptionCreams": { "label": "処方クリームまたはジェル", "explanation": "" },
+    "strongAcne": { "label": "経口ニキビ治療薬", "explanation": "" },
+    "no": { "label": "今は使用していません", "explanation": "" }
+  },
+
+  "sunscreenUsage": {
+    "title": "どのくらいの頻度で日焼け止めを使いますか？",
+    "subtitle": "気候は肌の感じ方に影響することがあります。",
+
+    "never": { "label": "使わない" },
+    "occasionally": { "label": "たまに" },
+    "sometimes": { "label": "ときどき" },
+    "almostDaily": { "label": "ほぼ毎日" },
+    "daily": { "label": "毎日" }
+  },
+
+  "summary": {
+    "title": "肌データで体験をパーソナライズしています",
+    "steps": {
+      "step1": "設定を準備中",
+      "step2": "成分チェックを準備中",
+      "step3": "敏感傾向の選択を反映中",
+      "step4": "マッチ条件を設定中",
+      "step5": "セットアップを最終調整中"
+    }
+  },
+
+  "congratulations": {
+    "title": "おめでとうございます。<br/>肌プロフィールの準備ができました！",
+    "subtitle": "肌プロフィールと製品写真から成分リストを確認し、フィットのヒントを表示します。",
+    "disclamer": "AIが生成した情報のみ。医療アドバイスではありません。医療機器ではありません。",
+    "termsPriv": "<strong>利用規約</strong>と<highlight>プライバシーポリシー</highlight>に同意します",
+    "processConsent": "Beauty Ally が<strong>私の肌プロフィール</strong>と<highlight>製品写真</highlight>を処理し、成分リストのチェックと一般的な適合シグナルを提供することに同意します。同意はプロフィールからいつでも撤回できます。",
+    "termsRaw": "利用規約とプライバシーポリシーに同意します。",
+    "healthRaw": "Beauty Ally が私の肌プロフィールと写真を処理し、成分分析と適合結果を提供することに同意します。同意は設定からいつでも撤回できます。",
+    "learnMsg": "データの利用方法を詳しく見る",
+    "ageConsent": "続行すると、18歳以上（またはお住まいの国の成年年齢）であることを確認します。",
+    "modal": {
+      "title": "データの利用について",
+      "explanation": "• コア機能（成分分析と適合結果）の提供のみに利用<br/>• 販売やターゲティング広告には不使用<br/>• 利用者ごとのアクセス制御があるプライベートクラウドに保存<br/>• プロフィール → アカウントとデータの削除 から、データ削除や同意の撤回が可能"
+    }
+  },
+
+  "createAccount": {
+    "title": "アカウントを作成",
+    "subtitle": "進捗を保存し、アカウントを安全に保ちます。",
+    "terms": "あなたの肌データは暗号化され、プライベートに保たれます。ルーティンをパーソナライズするためにのみ使用されます。"
+  },
+
+  "paymentPage": {
+    "header": {
+      "title": "プランを選択",
+      "subtitle": "自分だけのスキャン · 賢い選択"
+    },
+    "loading": {
+      "default": {
+        "message": "処理中...",
+        "subMessage": "少々お待ちください"
+      },
+      "purchasing": {
+        "message": "登録を確認中...",
+        "subMessage": "Proアクセスを準備しています"
+      },
+      "switching": {
+        "message": "プランを更新中...",
+        "subMessage": "変更をアカウントに適用中"
+      },
+      "restoring": {
+        "message": "購入を復元中...",
+        "subMessage": "有効なプランを探しています"
+      },
+      "freeScans": {
+        "message": "無料スキャンを解除中...",
+        "subMessage": "輝く準備はいいですか？"
+      },
+      "loadingPaywall": {
+        "message": "読み込み中...",
+        "subMessage": "最適なオプションを準備中"
+      },
+      "packages": "プランを読み込み中..."
+    },
+    "plans": {
+      "yearly": "年間",
+      "monthly": "月間",
+      "yearlyPlan": "年間プラン",
+      "monthlyPlan": "月間プラン",
+      "yearlyUpper": "年間プラン",
+      "monthlyUpper": "月間プラン"
+    },
+    "freeScans": {
+      "used": "無料枠を使い切りました",
+      "offer": "迷っていますか？ 5回お試し",
+      "claim": "無料スキャンを5回分入手",
+      "noCard": "クレカ登録不要"
+    },
+    "banner": {
+      "special": "特別価格"
+    },
+    "card": {
+      "currentBadge": "現在のプラン",
+      "cancelAnytime": "いつでも解約可能",
+      "firstYear": "最初の1年",
+      "firstMonth": "最初の1ヶ月",
+      "then": "その後"
+    },
+    "benefits": {
+      "unlimited": "無制限スキャン",
+      "advanced": "詳細な成分分析とインサイト",
+      "bestValue": "いちばんおすすめ"
+    },
+    "cta": {
+      "active": "利用中",
+      "switchTo": "プラン変更: ",
+      "continue": "次へ",
+      "noCommit": "縛りなし。いつでも解約可能。"
+    },
+    "footer": {
+      "terms": "利用規約",
+      "privacy": "プライバシー",
+      "restore": "復元"
+    },
+    "toast": {
+      "switchYearly": "年間プランに変更しました",
+      "switchMonthly": "月間プランに変更しました",
+      "premiumUn": "Premiumが有効になりました",
+      "restored": "購入を復元しました",
+      "restoreErr": "復元に失敗しました。再試行してください。",
+      "freeActivated": "無料スキャンが有効になりました",
+      "freeAlready": "無料スキャンは既に利用可能です"
+    },
+    "subscribed": {
+      "title": "あなたはProです！",
+      "subtitle": "サブスクリプションは有効です。無制限スキャンと詳細分析をお楽しみください。",
+      "currentPlanLabel": "現在のプラン",
+      "planNameBase": "Beauty Ally Premium",
+      "yearSuffix": "(年間)",
+      "monthSuffix": "(月間)",
+      "fallback": "Premium",
+      "goHome": "ホームへ",
+      "manage": "サブスクリプション管理"
+    }
+  },
+  "paymentSuccessPage": {
+    "title": "準備完了",
+    "subtitle": "サブスクリプションが有効化されました。体験をお楽しみください。",
+    "receipt": {
+      "statusLabel": "ステータス",
+      "statusActive": "有効",
+      "statusPending": "保留中",
+      "subscriptionLabel": "サブスクリプション",
+      "planNameBase": "Beauty Ally Premium",
+      "fallback": "Premiumアクセス"
+    }
+  },
+  "paymentRedirect": {
+    "consentErr": "同意の追加中にエラーが発生しました。もう一度お試しください。",
+    "needConsent": "先に規約とプライバシーへの同意をお願いします。",
+    "signupErr": "アカウントを作成できませんでした。もう一度お試しください。"
+  },
+
+  "actions": {
+    "continue": "続行",
+    "update": "更新",
+    "close": "閉じる",
+    "celebration": "さっそく試す"
+  },
+  "rcContext": {
+    "errors": {
+      "packageNotAvailable": "パッケージ利用不可",
+      "purchaseFailed": "購入に失敗しました"
+    }
+  }
+}
