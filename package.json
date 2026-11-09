@@ -33,7 +33,7 @@
     "@clerk/expo": "^4.15.1",
     "@expo/vector-icons": "^15.0.2",
     "@lottiefiles/dotlottie-react": "^0.13.5",
-    "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-native-async-storage/async-storage": "3.1.1",
     "@react-native-community/slider": "5.2.1",
     "@react-navigation/native": "^7.1.6",
     "@sentry/react-native": "^8.22.0",
